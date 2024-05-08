@@ -322,3 +322,34 @@
 "Apple Music URL": "https://music.apple.com/gb/album/can-i-get-married/1032619814?i=1032619820&itscg=30201&itsct=Shazam_shortcuts",
 "Name": "Coffee Boy - Can I Get Married?",
 },
+{
+"TimeStamp": "8 May 2024 at 09:37",
+"Title": "Old Me",
+"Artist": "5 Seconds of Summer",
+"is_Explicit": "Yes",
+"Lyrics Snippets": "Shout out to the old me and everything you showed me
+Glad you didn't listen when the world was trying to slow me",
+"Lyric Snippet Synced": "Shout out to the old me and everything you showed me
+Glad you didn't listen when the world was trying to slow me",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/old-me/1501907622",
+"Shazem URL": "https://www.shazam.com/track/507659929/old-me?co=GB&referrer=shortcuts&offsetInMilliseconds=87&timeSkew=-5.7458878E-5&trackLength=186785&startDate=2024-05-08T08:36:51.454Z",
+"Apple Music URL": "https://music.apple.com/gb/album/old-me/1497416763?i=1497417104&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "5 Seconds of Summer - Old Me",
+},
+{
+"TimeStamp": "8 May 2024 at 09:37",
+"Title": "Old Me",
+"Artist": "5 Seconds of Summer",
+"is_Explicit": "Yes",
+"Lyrics Snippets": "Shout out to the old me and everything you showed me
+Glad you didn't listen when the world was trying to slow me",
+"Lyric Snippet Synced": "Never a night alone, anywhere you wanna go
+Woke up in the mornin' wearin' someone else's clothes
+Pictures in my phone with people I don't know",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/old-me/1501907622",
+"Shazem URL": "https://www.shazam.com/track/507659929/old-me?co=GB&referrer=shortcuts&offsetInMilliseconds=17578&timeSkew=4.8100948E-4&trackLength=186785&startDate=2024-05-08T08:37:08.930Z",
+"Apple Music URL": "https://music.apple.com/gb/album/old-me/1497416763?i=1497417104&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "5 Seconds of Summer - Old Me",
+},
