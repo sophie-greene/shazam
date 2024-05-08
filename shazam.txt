@@ -2471,3 +2471,91 @@ I haven't said enough",
 "Apple Music URL": "",
 "Name": "Abdel Halim Hafez - Samraa",
 },
+{
+"TimeStamp": "8 May 2024 at 06:47",
+"Title": "Wichita Lineman",
+"Artist": "Glen Campbell",
+"is_Explicit": "No",
+"Lyrics Snippets": "I am a lineman for the county
+And I drive the main roads
+Searchin' in the sun for another overload
+I hear you singin' in the wire",
+"Lyric Snippet Synced": "I am a lineman for the county
+And I drive the main roads
+Searchin' in the sun for another overload
+I hear you singin' in the wire",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/262853/wichita-lineman?co=GB&referrer=shortcuts&offsetInMilliseconds=2251&timeSkew=-0.004235804&trackLength=182800&startDate=2024-05-08T05:47:31.588Z",
+"Apple Music URL": "https://music.apple.com/gb/album/wichita-lineman/1443109329?i=1443109565&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Glen Campbell - Wichita Lineman",
+},
+{
+"TimeStamp": "8 May 2024 at 06:49",
+"Title": "Wichita Lineman",
+"Artist": "Glen Campbell",
+"is_Explicit": "No",
+"Lyrics Snippets": "I am a lineman for the county
+And I drive the main roads
+Searchin' in the sun for another overload
+I hear you singin' in the wire",
+"Lyric Snippet Synced": "Is still on the line
+And I need you more than want you
+And I want you for all time
+And the Wichita lineman
+Is still on the line",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/262853/wichita-lineman?co=GB&referrer=shortcuts&offsetInMilliseconds=126573&timeSkew=0.0010260344&trackLength=182800&startDate=2024-05-08T05:49:35.931Z",
+"Apple Music URL": "https://music.apple.com/gb/album/wichita-lineman/1443109329?i=1443109565&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Glen Campbell - Wichita Lineman",
+},
+{
+"TimeStamp": "8 May 2024 at 06:51",
+"Title": "How You Remind Me",
+"Artist": "Nickelback",
+"is_Explicit": "No",
+"Lyrics Snippets": "Never made it as a wise man
+I couldn't cut it as a poor man stealin'
+Tired of livin' like a blind man
+I'm sick of sight without a sense of feeling",
+"Lyric Snippet Synced": "It's not like you didn't know that
+I said I love you and I swear I still do
+And it must've been so bad",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/how-you-remind-me/269729507",
+"Shazem URL": "https://www.shazam.com/track/5169818/how-you-remind-me?co=GB&referrer=shortcuts&offsetInMilliseconds=63450&timeSkew=9.123087E-4&trackLength=222680&startDate=2024-05-08T05:51:39.441Z",
+"Apple Music URL": "https://music.apple.com/gb/album/how-you-remind-me/214475427?i=214475478&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Nickelback - How You Remind Me",
+},
+{
+"TimeStamp": "8 May 2024 at 06:53",
+"Title": "Found",
+"Artist": "Coffee Boy",
+"is_Explicit": "No",
+"Lyrics Snippets": "찾았다 이제 찾았다
+왜 이제야 우린 만난 건지
+이제는 서롤 알아봤다 우린 찾았다
+한눈에 서롤 알아봤다
+내 기다림이 맞았다
+그 사람은 있었다
+우린 찾았다 만났다 서롤 알아봤다
+Eh, 찾았다 이제 찾았다
+왜 이제야 우린 만난 건지
+이제는 서롤 알아봤다 우린 찾았다",
+"Lyric Snippet Synced": "찾았다 이제 찾았다
+왜 이제야 우린 만난 건지
+이제는 서롤 알아봤다 우린 찾았다
+한눈에 서롤 알아봤다
+내 기다림이 맞았다
+그 사람은 있었다
+우린 찾았다 만났다 서롤 알아봤다
+Eh, 찾았다 이제 찾았다
+왜 이제야 우린 만난 건지
+이제는 서롤 알아봤다 우린 찾았다",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/314392713/found?co=GB&referrer=shortcuts&offsetInMilliseconds=83185&timeSkew=-1.487732E-4&trackLength=153313&startDate=2024-05-08T05:53:43.124Z",
+"Apple Music URL": "https://music.apple.com/gb/album/found/1723467541?i=1723467542&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Coffee Boy - Found",
+},
