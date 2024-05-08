@@ -1820,3 +1820,654 @@ Didn't I bring your love down all night?",
 "Apple Music URL": "https://music.apple.com/gb/album/bring-your-love-down-didnt-i/1436832956?i=1436833061&itscg=30201&itsct=Shazam_shortcuts",
 "Name": "Yazoo - Bring Your Love Down (Didn't I)",
 },
+{
+"TimeStamp": "8 May 2024 at 05:45",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=3856&timeSkew=-1.2946129E-4&trackLength=2355626&startDate=2024-05-08T04:45:21.485Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 05:47",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=127523&timeSkew=-7.0774555E-4&trackLength=2355626&startDate=2024-05-08T04:47:25.137Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 05:49",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=250989&timeSkew=4.093647E-4&trackLength=2355626&startDate=2024-05-08T04:49:28.616Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 05:51",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "وأعرف حكايات مليانة آهات ودموع وأنين
+والعاشقين دابوا ما تابوا
+دابوا ما تابوا
+طول عمري بقول
+لا أنا قد الشوق وليالي الشوق
+لا أنا قد الشوق وليالي الشوق",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=374521&timeSkew=-2.7936697E-4&trackLength=2355626&startDate=2024-05-08T04:51:32.152Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 05:53",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "معرفش إزاي يا حياتي؟
+من همسة حب لقيتني بحب
+لقيتني بحب وأدوب في الحب
+من همسة حب لقيتني بحب
+لقيتني بحب وأدوب في الحب
+آه وأدوب في الحب",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=498046&timeSkew=0.0040522814&trackLength=2355626&startDate=2024-05-08T04:53:35.677Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 05:55",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "وصبح وليل وليل على بابه
+فات من عمري سنين وسنين
+شفت كتير، كتير وقليل عاشقين
+فات من عمري سنين آه وسنين
+شفت كتير، كتير وقليل عاشقين",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=621503&timeSkew=2.8252602E-5&trackLength=2355626&startDate=2024-05-08T04:55:39.134Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 05:57",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "أهل الحب صحيح مساكين، صحيح مساكين
+ياما الحب نده على قلبي مردش قلبي جواب
+ياما الحب نده على قلبي مردش قلبي جواب
+ياما الحب نده على قلبي مردش قلبي جواب",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=745001&timeSkew=-2.283454E-4&trackLength=2355626&startDate=2024-05-08T04:57:42.660Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 05:59",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "أمروني أحب لقيتني بحب
+لقيتني بحب وأدوب في الحب
+أمروني أحب لقيتني بحب
+لقيتني بحب وأدوب في الحب
+آه وأدوب في الحب وصبح وليل وليل على بابه",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=868596&timeSkew=3.7038326E-4&trackLength=2355626&startDate=2024-05-08T04:59:46.241Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 06:01",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "شفت كتير، كتير وقليل عاشقين
+فات من عمري سنين وسنين
+شفت كتير، كتير وقليل عاشقين
+اللي بيشكي حاله لحاله
+واللي بيبكي على مواله
+اللي بيشكي حاله لحاله",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=992097&timeSkew=6.221533E-4&trackLength=2355626&startDate=2024-05-08T05:01:49.754Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 06:03",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "إلا عيونك إنت دول بس اللي خدوني خدوني
+وبحبك أمروني
+إلا عيونك إنت دول بس اللي خدوني خدوني
+وبحبك أمروني
+أمروني أحب لقيتني بحب
+لقيتني بحب وأدوب في الحب",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=1115581&timeSkew=-1.92523E-4&trackLength=2355626&startDate=2024-05-08T05:03:53.243Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 06:06",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "آه وأدوب في الحب وصبح وليل وليل على بابه
+ياللي ظلمتوا الحب وقلتوا وعدتوا عليه
+قلتوا عليه مش عارف إيه
+ياللي ظلمتوا الحب وقلتوا وعدتوا عليه",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=1239102&timeSkew=-5.669594E-4&trackLength=2355626&startDate=2024-05-08T05:05:56.760Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 06:08",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "في الدنيا مفيش أبدًا أبدًا أحلى من الحب
+نتعب آه نغلب آه نشتكي منه لكن بنحب
+في الدنيا مفيش أبدًا أبدًا أحلى من الحب
+نتعب نغلب، نشتكي منه لكن بنحب",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=1362633&timeSkew=-5.970597E-4&trackLength=2355626&startDate=2024-05-08T05:08:00.295Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 06:10",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "لقيتني بحب وأدوب في الحب
+انا خدني الحب لقيتني بحب
+لقيتني بحب وأدوب في الحب
+آه وأدوب في الحب وصبح وليل وليل على بابه",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=1486144&timeSkew=6.082058E-4&trackLength=2355626&startDate=2024-05-08T05:10:03.796Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 06:12",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "ياللي ظلمتوا الحب وقلتوا وعدتوا عليه
+قلتوا عليه مش عارف إيه
+العيب فيكم يا في حبايبكم
+العيب فيكم يا في حبايبكم",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=1609636&timeSkew=-3.2758713E-4&trackLength=2355626&startDate=2024-05-08T05:12:07.278Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 06:14",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "وشموع الشوق لما يقيدوا ليل المشتاق
+يا سلام ع الدنيا وحلاوتها في عين العشاق
+يا سلام يا سلام على حلاوتها يا سلام يا سلام",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=1733139&timeSkew=6.893873E-4&trackLength=2355626&startDate=2024-05-08T05:14:10.784Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 06:16",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "آه، أدوب في الحب وصبح وليل وليل على بابه
+ياللي مليت بالحب حياتي أهدي حياتي إليك
+ياللي مليت بالحب حياتي أهدي حياتي إليك",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=1856767&timeSkew=-4.8458576E-4&trackLength=2355626&startDate=2024-05-08T05:16:14.412Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 06:18",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "آه، أدوب في الحب وصبح وليل وليل على بابه
+ياللي مليت بالحب حياتي أهدي حياتي إليك
+ياللي مليت بالحب حياتي أهدي حياتي إليك",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=1980320&timeSkew=6.8354607E-4&trackLength=2355626&startDate=2024-05-08T05:18:17.987Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 06:20",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "ياللي مليت بالحب حياتي أهدي حياتي إليك
+ياللي مليت بالحب حياتي أهدي حياتي إليك
+روحي، قلبي، عقلي، حبي كلي ملك إيديك
+صوتك، نظراتك، همساتك شيء مش معقول",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=2103814&timeSkew=6.096363E-4&trackLength=2355626&startDate=2024-05-08T05:20:21.461Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 06:22",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "الله يا حبيبي يا حبيبي الله الله
+ولا دمعة عين جرحت قلبي ولا قولة آه آه آه
+مبقولش في حبك غير الله الله الله
+الله يا حبيبي على حبك الله الله",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=2227302&timeSkew=4.8542023E-4&trackLength=2355626&startDate=2024-05-08T05:22:24.944Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 06:24",
+"Title": "Seret El Hob (Remastered)",
+"Artist": "Umm Kulthum",
+"is_Explicit": "No",
+"Lyrics Snippets": "طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب
+وظلم الحب لكل أصحابه
+طول عمري بخاف من الحب
+وسيرة الحب",
+"Lyric Snippet Synced": "آه وأدوب في الحب وصبح وليل وليل على بابه",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/58505727/seret-el-hob-remastered?co=GB&referrer=shortcuts&offsetInMilliseconds=2350753&timeSkew=-5.853176E-5&trackLength=2355626&startDate=2024-05-08T05:24:28.408Z",
+"Apple Music URL": "https://music.apple.com/gb/album/seret-el-hob-remastered/922528983?i=922529097&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Umm Kulthum - Seret El Hob (Remastered)",
+},
+{
+"TimeStamp": "8 May 2024 at 06:26",
+"Title": "10,000 Hours",
+"Artist": "Dan + Shay & Justin Bieber",
+"is_Explicit": "No",
+"Lyrics Snippets": "Do you love the rain, does it make you dance,
+When you're drunk with your friends at a party?
+What's your favorite song, does it make you smile,",
+"Lyric Snippet Synced": "Did you get your middle name from your grandma?
+When you think about your forever now
+Do you think of me?
+When you close your eyes",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/498312422/10-000-hours?co=GB&referrer=shortcuts&offsetInMilliseconds=54353&timeSkew=7.8213215E-4&trackLength=167693&startDate=2024-05-08T05:26:31.935Z",
+"Apple Music URL": "https://music.apple.com/gb/album/10-000-hours/1576236633?i=1576237877&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Dan + Shay & Justin Bieber - 10,000 Hours",
+},
+{
+"TimeStamp": "8 May 2024 at 06:28",
+"Title": "With A Little Help From My Friends",
+"Artist": "Wet Wet Wet",
+"is_Explicit": "No",
+"Lyrics Snippets": "What would you think if I sang out of tune
+Would you stand up and walk out on me?
+Lend me your ears and I'll sing you a song",
+"Lyric Snippet Synced": "Would you stand up and walk out on me?
+Lend me your ears and I'll sing you a song
+And I'll try not to sing out of key",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/228310/with-a-little-help-from-my-friends?co=GB&referrer=shortcuts&offsetInMilliseconds=9469&timeSkew=0.005446315&trackLength=158680&startDate=2024-05-08T05:28:35.609Z",
+"Apple Music URL": "https://music.apple.com/gb/album/with-a-little-help-from-my-friends/1444062715?i=1444062726&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Wet Wet Wet - With A Little Help From My Friends",
+},
+{
+"TimeStamp": "8 May 2024 at 06:30",
+"Title": "With A Little Help From My Friends",
+"Artist": "Wet Wet Wet",
+"is_Explicit": "No",
+"Lyrics Snippets": "What would you think if I sang out of tune
+Would you stand up and walk out on me?
+Lend me your ears and I'll sing you a song",
+"Lyric Snippet Synced": "Ooh, I'll get by with a little help from my friends
+With a little help from my friends
+My friends, my friends, my friends",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/228310/with-a-little-help-from-my-friends?co=GB&referrer=shortcuts&offsetInMilliseconds=133482&timeSkew=0.0030065775&trackLength=158680&startDate=2024-05-08T05:30:39.271Z",
+"Apple Music URL": "https://music.apple.com/gb/album/with-a-little-help-from-my-friends/1444062715?i=1444062726&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Wet Wet Wet - With A Little Help From My Friends",
+},
+{
+"TimeStamp": "8 May 2024 at 06:32",
+"Title": "Agmal Ma Fe Eldonya",
+"Artist": "Hany Shaker",
+"is_Explicit": "No",
+"Lyrics Snippets": "إيه، إيه
+إيه، إيه
+أجمل ما في الدنيا حبيبي، تبقى معايا
+ياللي إنت قربك من قلبي وبس كفاية
+أجمل ما في الدنيا، حبيبي تبقى معايا",
+"Lyric Snippet Synced": "ويا أغلى من عيني، إنت اللي بحلم بيه
+طول ما إنت ويايا، بتحس بهوايا
+يا حبيبي ده كفاية، هتمنى أكتر إيه
+حبك مدفيني، قربك بيحييني",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/45208602/agmal-ma-fe-eldonya?co=GB&referrer=shortcuts&offsetInMilliseconds=95542&timeSkew=2.3400784E-4&trackLength=292453&startDate=2024-05-08T05:32:42.775Z",
+"Apple Music URL": "https://music.apple.com/gb/album/agmal-ma-fe-eldonya/535119269?i=535119271&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Hany Shaker - Agmal Ma Fe Eldonya",
+},
+{
+"TimeStamp": "8 May 2024 at 06:35",
+"Title": "Agmal Ma Fe Eldonya",
+"Artist": "Hany Shaker",
+"is_Explicit": "No",
+"Lyrics Snippets": "إيه، إيه
+إيه، إيه
+أجمل ما في الدنيا حبيبي، تبقى معايا
+ياللي إنت قربك من قلبي وبس كفاية
+أجمل ما في الدنيا، حبيبي تبقى معايا",
+"Lyric Snippet Synced": "ده أنا عمري ملك إيديك، ولا حاجة تغلى عليك
+أجمل ما في الدنيا حبيبي، تبقى معايا
+ياللي إنت قربك من قلبي وبس كفاية
+أجمل ما في الدنيا حبيبي تبقى معايا",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/45208602/agmal-ma-fe-eldonya?co=GB&referrer=shortcuts&offsetInMilliseconds=228384&timeSkew=-9.655952E-6&trackLength=292453&startDate=2024-05-08T05:34:55.608Z",
+"Apple Music URL": "https://music.apple.com/gb/album/agmal-ma-fe-eldonya/535119269?i=535119271&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Hany Shaker - Agmal Ma Fe Eldonya",
+},
+{
+"TimeStamp": "8 May 2024 at 06:37",
+"Title": "Losing My Religion",
+"Artist": "R.E.M.",
+"is_Explicit": "No",
+"Lyrics Snippets": "Oh, life is bigger
+It's bigger than you
+And you are not me
+The lengths that I will go to
+The distance in your eyes
+Oh no, I've said too much",
+"Lyric Snippet Synced": "Oh no, I've said too much
+I haven't said enough
+I thought that I heard you laughing
+I thought that I heard you sing
+I think I thought I saw you try",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/20123503/losing-my-religion?co=GB&referrer=shortcuts&offsetInMilliseconds=67753&timeSkew=0.0031511784&trackLength=269033&startDate=2024-05-08T05:37:08.039Z",
+"Apple Music URL": "https://music.apple.com/gb/album/losing-my-religion/1440945025?i=1440945283&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "R.E.M. - Losing My Religion",
+},
+{
+"TimeStamp": "8 May 2024 at 06:39",
+"Title": "Losing My Religion",
+"Artist": "R.E.M.",
+"is_Explicit": "No",
+"Lyrics Snippets": "Oh, life is bigger
+It's bigger than you
+And you are not me
+The lengths that I will go to
+The distance in your eyes
+Oh no, I've said too much",
+"Lyric Snippet Synced": "Losing my religion
+Trying to keep up with you
+And I don't know if I can do it
+Oh, now I've said too much
+I haven't said enough",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/20123503/losing-my-religion?co=GB&referrer=shortcuts&offsetInMilliseconds=191602&timeSkew=9.1552734E-4&trackLength=269033&startDate=2024-05-08T05:39:11.684Z",
+"Apple Music URL": "https://music.apple.com/gb/album/losing-my-religion/1440945025?i=1440945283&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "R.E.M. - Losing My Religion",
+},
+{
+"TimeStamp": "8 May 2024 at 06:41",
+"Title": "Samraa",
+"Artist": "Abdel Halim Hafez",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/60847127/samraa?co=GB&referrer=shortcuts&offsetInMilliseconds=2014&timeSkew=0.0017681122&trackLength=1387843&startDate=2024-05-08T05:41:30.571Z",
+"Apple Music URL": "",
+"Name": "Abdel Halim Hafez - Samraa",
+},
+{
+"TimeStamp": "8 May 2024 at 06:43",
+"Title": "Samraa",
+"Artist": "Abdel Halim Hafez",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/60847127/samraa?co=GB&referrer=shortcuts&offsetInMilliseconds=134859&timeSkew=0.0017709732&trackLength=1387843&startDate=2024-05-08T05:43:43.192Z",
+"Apple Music URL": "",
+"Name": "Abdel Halim Hafez - Samraa",
+},
+{
+"TimeStamp": "8 May 2024 at 06:45",
+"Title": "Samraa",
+"Artist": "Abdel Halim Hafez",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/60847127/samraa?co=GB&referrer=shortcuts&offsetInMilliseconds=230938&timeSkew=0.001585722&trackLength=1387843&startDate=2024-05-08T05:45:19.114Z",
+"Apple Music URL": "",
+"Name": "Abdel Halim Hafez - Samraa",
+},
