@@ -964,3 +964,58 @@ I feel more",
 "Apple Music URL": "https://music.apple.com/gb/album/lost/1451720974?i=1451721177&itscg=30201&itsct=Shazam_shortcuts",
 "Name": "The Wind and The Wave - Lost",
 },
+{
+"TimeStamp": "8 May 2024 at 10:00",
+"Title": "Ana Baashaak 1 Live",
+"Artist": "Mayada Al Hennawy",
+"is_Explicit": "No",
+"Lyrics Snippets": "أنا بعشقك أنا . اناكلي لك أنا
+أنا أنا . أنا أنا أنا أنا
+يامن ملك روحي بهواه
+الأمر لك طول الحياة
+الماضي لك . وبكرة لك . وبعده لك",
+"Lyric Snippet Synced": "أنا بعشقك أنا . اناكلي لك أنا
+أنا أنا . أنا أنا أنا أنا
+يامن ملك روحي بهواه
+الأمر لك طول الحياة
+الماضي لك . وبكرة لك . وبعده لك",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/137963745/ana-baashaak-1-live?co=GB&referrer=shortcuts&offsetInMilliseconds=2185&timeSkew=2.2852421E-4&trackLength=1164161&startDate=2024-05-08T09:00:35.126Z",
+"Apple Music URL": "https://music.apple.com/gb/album/ana-baashaak-1-live/836546073?i=836546137&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Mayada Al Hennawy - Ana Baashaak 1 Live",
+},
+{
+"TimeStamp": "8 May 2024 at 10:01",
+"Title": "Hazard",
+"Artist": "Richard Marx",
+"is_Explicit": "No",
+"Lyrics Snippets": "My mother came to Hazard when I was just seven
+Even then the folks in town said with prejudiced eyes
+"That boy's not right"",
+"Lyric Snippet Synced": "My mother came to Hazard when I was just seven
+Even then the folks in town said with prejudiced eyes
+"That boy's not right"",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/hazard/719963456",
+"Shazem URL": "https://www.shazam.com/track/54372826/hazard?co=GB&referrer=shortcuts&offsetInMilliseconds=4600&timeSkew=-7.5387955E-4&trackLength=316525&startDate=2024-05-08T09:00:58.810Z",
+"Apple Music URL": "https://music.apple.com/gb/album/hazard/715900968?i=715901150&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Richard Marx - Hazard",
+},
+{
+"TimeStamp": "8 May 2024 at 10:01",
+"Title": "Hazard",
+"Artist": "Richard Marx",
+"is_Explicit": "No",
+"Lyrics Snippets": "My mother came to Hazard when I was just seven
+Even then the folks in town said with prejudiced eyes
+"That boy's not right"",
+"Lyric Snippet Synced": "My mother came to Hazard when I was just seven
+Even then the folks in town said with prejudiced eyes
+"That boy's not right"",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/hazard/719963456",
+"Shazem URL": "https://www.shazam.com/track/54372826/hazard?co=GB&referrer=shortcuts&offsetInMilliseconds=19138&timeSkew=8.035898E-4&trackLength=316525&startDate=2024-05-08T09:01:13.331Z",
+"Apple Music URL": "https://music.apple.com/gb/album/hazard/715900968?i=715901150&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Richard Marx - Hazard",
+},
