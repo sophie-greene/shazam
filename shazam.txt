@@ -22,3 +22,674 @@ Feel the rays you radiate now",
 "Translated Title": "",
 "Translated Name":"",
 },
+{
+"TimeStamp": "8 May 2024 at 09:13",
+"Title": "Low",
+"Artist": "Mohammed Fouad",
+"is_Explicit": "No",
+"Lyrics Snippets": "كل واحد مننا ليه ماضي ليه ذكري
+قلبك قسي ولا نسي أكيد عينيك فاكرة
+هأبعد وأسيبك للزمن والدنيا ولبكرة
+ولو عايز تفتكرني
+غمض عينك دقيقة
+وانت تلاقي الحقيقة",
+"Lyric Snippet Synced": "كل واحد مننا ليه ماضي ليه ذكري
+قلبك قسي ولا نسي أكيد عينيك فاكرة
+هأبعد وأسيبك للزمن والدنيا ولبكرة
+ولو عايز تفتكرني
+غمض عينك دقيقة
+وانت تلاقي الحقيقة",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/10693698/low?co=GB&referrer=shortcuts&offsetInMilliseconds=29891&timeSkew=5.363226E-4&trackLength=275424&startDate=2024-05-08T08:13:39.889Z",
+"Apple Music URL": "https://music.apple.com/gb/album/low/1599548983?i=1599549128&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Mohammed Fouad - Low",
+"Snippet Translated": "Why each of us has a past, why is my memory?
+
+Your heart is hard and I don't forget, I'm sure your eyes, I'm a thought
+
+I will leave you for time, the world and tomorrow
+
+And if you want to remember me
+
+Close your eye to a minute
+
+And you find the truth",
+"Lyric Snippet Synced Translated": "Why each of us has a past, why is my memory?
+
+Your heart is hard and I don't forget, I'm sure your eyes, I'm a thought
+
+I will leave you for time, the world and tomorrow
+
+And if you want to remember me
+
+Close your eye to a minute
+
+And you find the truth",
+"Artist Translated": "",
+"Translated Title": "",
+"Translated Name":"",
+},
+{
+"TimeStamp": "8 May 2024 at 09:13",
+"Title": "Low",
+"Artist": "Mohammed Fouad",
+"is_Explicit": "No",
+"Lyrics Snippets": "كل واحد مننا ليه ماضي ليه ذكري
+قلبك قسي ولا نسي أكيد عينيك فاكرة
+هأبعد وأسيبك للزمن والدنيا ولبكرة
+ولو عايز تفتكرني
+غمض عينك دقيقة
+وانت تلاقي الحقيقة",
+"Lyric Snippet Synced": "كل واحد مننا ليه ماضي ليه ذكري
+قلبك قسي ولا نسي أكيد عينيك فاكرة
+هأبعد وأسيبك للزمن والدنيا ولبكرة
+ولو عايز تفتكرني
+غمض عينك دقيقة
+وانت تلاقي الحقيقة",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/10693698/low?co=GB&referrer=shortcuts&offsetInMilliseconds=39207&timeSkew=-2.3370981E-4&trackLength=275424&startDate=2024-05-08T08:13:49.222Z",
+"Apple Music URL": "https://music.apple.com/gb/album/low/1599548983?i=1599549128&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Mohammed Fouad - Low",
+"Snippet Translated": "Why each of us has a past, why is my memory?
+
+Your heart is hard and I don't forget, I'm sure your eyes, I'm a thought
+
+I will leave you for time, the world and tomorrow
+
+And if you want to remember me
+
+Close your eye to a minute
+
+And you find the truth",
+"Lyric Snippet Synced Translated": "Why each of us has a past, why is my memory?
+
+Your heart is hard and I don't forget, I'm sure your eyes, I'm a thought
+
+I will leave you for time, the world and tomorrow
+
+And if you want to remember me
+
+Close your eye to a minute
+
+And you find the truth",
+"Artist Translated": "",
+"Translated Title": "",
+"Translated Name":"",
+},
+{
+"TimeStamp": "8 May 2024 at 09:16",
+"Title": "Any Day Now",
+"Artist": "The Real Danny Smith",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/536629697/any-day-now?co=GB&referrer=shortcuts&offsetInMilliseconds=1722&timeSkew=-0.0067586303&trackLength=226909&startDate=2024-05-08T08:16:09.757Z",
+"Apple Music URL": "",
+"Name": "The Real Danny Smith - Any Day Now",
+"Snippet Translated": "Why each of us has a past, why is my memory?
+
+Your heart is hard and I don't forget, I'm sure your eyes, I'm a thought
+
+I will leave you for time, the world and tomorrow
+
+And if you want to remember me
+
+Close your eye to a minute
+
+And you find the truth",
+"Lyric Snippet Synced Translated": "Why each of us has a past, why is my memory?
+
+Your heart is hard and I don't forget, I'm sure your eyes, I'm a thought
+
+I will leave you for time, the world and tomorrow
+
+And if you want to remember me
+
+Close your eye to a minute
+
+And you find the truth",
+"Artist Translated": "",
+"Translated Title": "",
+"Translated Name":"",
+},
+{
+"TimeStamp": "8 May 2024 at 09:16",
+"Title": "Stay With Me",
+"Artist": "CHANYEOL & Punch",
+"is_Explicit": "No",
+"Lyrics Snippets": "나의 두 눈을 감으면
+떠오르는 그 눈동자
+자꾸 가슴이 시려서 잊혀지길 바랐어
+꿈이라면 이제 깨어났으면 제발
+정말 네가 나의 운명인 걸까
+넌 Falling you
+운명처럼 너를 Falling
+또 나를 부르네 Calling
+헤어나올 수 없어 제발 Hold me",
+"Lyric Snippet Synced": "나의 두 눈을 감으면
+떠오르는 그 눈동자
+자꾸 가슴이 시려서 잊혀지길 바랐어
+꿈이라면 이제 깨어났으면 제발
+정말 네가 나의 운명인 걸까
+넌 Falling you
+운명처럼 너를 Falling
+또 나를 부르네 Calling
+헤어나올 수 없어 제발 Hold me",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/336779497/stay-with-me?co=GB&referrer=shortcuts&offsetInMilliseconds=2&timeSkew=1.5640259E-4&trackLength=192588&startDate=2024-05-08T08:16:44.788Z",
+"Apple Music URL": "https://music.apple.com/gb/album/stay-with-me/1569279826?i=1569279827&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "CHANYEOL & Punch - Stay With Me",
+"Snippet Translated": "When I close my eyes
+
+The eyes that come to mind
+
+I wanted to be forgotten because my heart kept hurting.
+
+If it's a dream, please wake up now.
+
+Are you really my destiny?
+
+You are falling you
+
+Falling you like destiny.
+
+Calling me again.
+
+I can't get out. Please hold me.",
+"Lyric Snippet Synced Translated": "When I close my eyes
+
+The eyes that come to mind
+
+I wanted to be forgotten because my heart kept hurting.
+
+If it's a dream, please wake up now.
+
+Are you really my destiny?
+
+You are falling you
+
+Falling you like destiny.
+
+Calling me again.
+
+I can't get out. Please hold me.",
+"Artist Translated": "CHANYEOL & Punch",
+"Translated Title": "",
+"Translated Name":"",
+},
+{
+"TimeStamp": "8 May 2024 at 09:17",
+"Title": "Stay With Me",
+"Artist": "CHANYEOL & Punch",
+"is_Explicit": "No",
+"Lyrics Snippets": "나의 두 눈을 감으면
+떠오르는 그 눈동자
+자꾸 가슴이 시려서 잊혀지길 바랐어
+꿈이라면 이제 깨어났으면 제발
+정말 네가 나의 운명인 걸까
+넌 Falling you
+운명처럼 너를 Falling
+또 나를 부르네 Calling
+헤어나올 수 없어 제발 Hold me",
+"Lyric Snippet Synced": "나의 두 눈을 감으면
+떠오르는 그 눈동자
+자꾸 가슴이 시려서 잊혀지길 바랐어
+꿈이라면 이제 깨어났으면 제발
+정말 네가 나의 운명인 걸까
+넌 Falling you
+운명처럼 너를 Falling
+또 나를 부르네 Calling
+헤어나올 수 없어 제발 Hold me",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/336779497/stay-with-me?co=GB&referrer=shortcuts&offsetInMilliseconds=18143&timeSkew=2.1612644E-4&trackLength=192588&startDate=2024-05-08T08:17:02.916Z",
+"Apple Music URL": "https://music.apple.com/gb/album/stay-with-me/1569279826?i=1569279827&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "CHANYEOL & Punch - Stay With Me",
+"Snippet Translated": "When I close my eyes
+
+The eyes that come to mind
+
+I wanted to be forgotten because my heart kept hurting.
+
+If it's a dream, please wake up now.
+
+Are you really my destiny?
+
+You are falling you
+
+Falling you like destiny.
+
+Calling me again.
+
+I can't get out. Please hold me.",
+"Lyric Snippet Synced Translated": "When I close my eyes
+
+The eyes that come to mind
+
+I wanted to be forgotten because my heart kept hurting.
+
+If it's a dream, please wake up now.
+
+Are you really my destiny?
+
+You are falling you
+
+Falling you like destiny.
+
+Calling me again.
+
+I can't get out. Please hold me.",
+"Artist Translated": "CHANYEOL & Punch",
+"Translated Title": "",
+"Translated Name":"",
+},
+{
+"TimeStamp": "8 May 2024 at 09:20",
+"Title": "Beautiful",
+"Artist": "Crush",
+"is_Explicit": "No",
+"Lyrics Snippets": "It's a beautiful life
+난 너의 곁에 있을게
+It's a beautiful life
+너의 뒤에 서 있을게
+Beautiful love
+하늘 아래 너와 있다면
+숨 쉬는 것만으로도 좋아
+It's a beautiful life
+Beautiful day",
+"Lyric Snippet Synced": "It's a beautiful life
+난 너의 곁에 있을게
+It's a beautiful life
+너의 뒤에 서 있을게
+Beautiful love
+하늘 아래 너와 있다면
+숨 쉬는 것만으로도 좋아
+It's a beautiful life
+Beautiful day",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/337847172/beautiful?co=GB&referrer=shortcuts&offsetInMilliseconds=7231&timeSkew=7.369518E-4&trackLength=227583&startDate=2024-05-08T08:20:07.270Z",
+"Apple Music URL": "https://music.apple.com/gb/album/beautiful/1569280564?i=1569280565&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Crush - Beautiful",
+"Snippet Translated": "",
+"Lyric Snippet Synced Translated": "",
+"Artist Translated": "",
+"Translated Title": "",
+"Translated Name":"",
+},
+{
+"TimeStamp": "8 May 2024 at 09:20",
+"Title": "Beautiful",
+"Artist": "Crush",
+"is_Explicit": "No",
+"Lyrics Snippets": "It's a beautiful life
+난 너의 곁에 있을게
+It's a beautiful life
+너의 뒤에 서 있을게
+Beautiful love
+하늘 아래 너와 있다면
+숨 쉬는 것만으로도 좋아
+It's a beautiful life
+Beautiful day",
+"Lyric Snippet Synced": "It's a beautiful life
+난 너의 곁에 있을게
+It's a beautiful life
+너의 뒤에 서 있을게
+Beautiful love
+하늘 아래 너와 있다면
+숨 쉬는 것만으로도 좋아
+It's a beautiful life
+Beautiful day",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/337847172/beautiful?co=GB&referrer=shortcuts&offsetInMilliseconds=15950&timeSkew=-6.4718723E-4&trackLength=227583&startDate=2024-05-08T08:20:16.001Z",
+"Apple Music URL": "https://music.apple.com/gb/album/beautiful/1569280564?i=1569280565&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Crush - Beautiful",
+"Snippet Translated": "",
+"Lyric Snippet Synced Translated": "",
+"Artist Translated": "",
+"Translated Title": "",
+"Translated Name":"",
+},
+{
+"TimeStamp": "8 May 2024 at 09:21",
+"Title": "Who Are You",
+"Artist": "SAM KIM",
+"is_Explicit": "No",
+"Lyrics Snippets": "Where I am? who I am?
+(Who I am?, who I am?)
+감옥 같은 이 쓸쓸함
+(쓸쓸함, 쓸쓸함)
+많은 사람들이 지나갔지만
+모두 나를 지나가기만 했던
+이곳 (이곳)
+Oh, where I am?
+Who are you? who are you?",
+"Lyric Snippet Synced": "(Who are you?)
+감출 수 없는 기쁨
+미친 듯 세상을 뒤집어 찾던
+꿈에서조차 움켜쥐고 있던 그대
+Where are you?
+내가 꼭 찾아낼게
+(찾아낼게)
+내가 널 알아볼게
+(알아볼게)
+네가 있는 곳 어디든 모습이 어떻든
+꼭 알아볼게
+내가 꼭 기억할게",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/338588457/who-are-you?co=GB&referrer=shortcuts&offsetInMilliseconds=51168&timeSkew=0.00745368&trackLength=255622&startDate=2024-05-08T08:21:53.899Z",
+"Apple Music URL": "https://music.apple.com/gb/album/who-are-you/1570372884?i=1570372887&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "SAM KIM - Who Are You",
+"Snippet Translated": "",
+"Lyric Snippet Synced Translated": "(Who are you?)
+
+Unable to hide joy
+
+Looking for the world upside down like crazy.
+
+You were holding it even in your dreams.
+
+Where are you?
+
+I'll definitely find it.
+
+(I'll find it)
+
+I'll recognise you.
+
+(I'll find out)
+
+Wherever you are, whatever you look like
+
+I'll definitely recognise it.
+
+I'll definitely remember.",
+"Artist Translated": "",
+"Translated Title": "",
+"Translated Name":"",
+},
+{
+"TimeStamp": "8 May 2024 at 09:22",
+"Title": "Who Are You",
+"Artist": "SAM KIM",
+"is_Explicit": "No",
+"Lyrics Snippets": "Where I am? who I am?
+(Who I am?, who I am?)
+감옥 같은 이 쓸쓸함
+(쓸쓸함, 쓸쓸함)
+많은 사람들이 지나갔지만
+모두 나를 지나가기만 했던
+이곳 (이곳)
+Oh, where I am?
+Who are you? who are you?",
+"Lyric Snippet Synced": "미친 듯 세상을 뒤집어 찾던
+꿈에서조차 움켜쥐고 있던 그대
+Where are you?
+내가 꼭 찾아낼게
+(찾아낼게)
+내가 널 알아볼게
+(알아볼게)
+네가 있는 곳 어디든 모습이 어떻든
+꼭 알아볼게
+내가 꼭 기억할게
+(기억할게)
+내가 널 바라볼게
+(바라볼게)",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/338588457/who-are-you?co=GB&referrer=shortcuts&offsetInMilliseconds=60143&timeSkew=9.99093E-4&trackLength=255622&startDate=2024-05-08T08:22:02.879Z",
+"Apple Music URL": "https://music.apple.com/gb/album/who-are-you/1570372884?i=1570372887&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "SAM KIM - Who Are You",
+"Snippet Translated": "",
+"Lyric Snippet Synced Translated": "Looking for the world upside down like crazy.
+
+You were holding it even in your dreams.
+
+Where are you?
+
+I'll definitely find it.
+
+(I'll find it)
+
+I'll recognise you.
+
+(I'll find out)
+
+Wherever you are, whatever you look like
+
+I'll definitely recognise it.
+
+I'll definitely remember.
+
+(I'll remember)
+
+I'll look at you.
+
+(I'll look at it)",
+"Artist Translated": "",
+"Translated Title": "",
+"Translated Name":"",
+},
+{
+"TimeStamp": "8 May 2024 at 09:23",
+"Title": "微微一笑很傾城",
+"Artist": "Yang Yang",
+"is_Explicit": "No",
+"Lyrics Snippets": "雨水滴在我的外套
+思念浸透我的衣角
+你给的暗号
+微微一笑
+出现的刚刚好
+擦肩而过你的发梢
+像是春风吹绿青草
+浪漫在发酵
+只愿为你
+赶走所有烦恼
+带你到天涯海角
+听你的心跳
+想给你一个拥抱
+让全世界知道 (全世界知道)
+遇见你我才知道你对我多重要
+没有人能感觉到你最甜美的笑
+我再不用把别人寻找",
+"Lyric Snippet Synced": "思念浸透我的衣角
+你给的暗号
+微微一笑
+出现的刚刚好
+擦肩而过你的发梢
+像是春风吹绿青草
+浪漫在发酵
+只愿为你
+赶走所有烦恼
+带你到天涯海角
+听你的心跳
+想给你一个拥抱
+让全世界知道 (全世界知道)
+遇见你我才知道你对我多重要
+没有人能感觉到你最甜美的笑
+我再不用把别人寻找",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/326750167/%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%82%BE%E5%9F%8E?co=GB&referrer=shortcuts&offsetInMilliseconds=21940&timeSkew=0.0011954308&trackLength=204828&startDate=2024-05-08T08:23:52.042Z",
+"Apple Music URL": "https://music.apple.com/gb/album/%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%82%BE%E5%9F%8E/1154049183?i=1154049422&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Yang Yang - 微微一笑很傾城",
+"Snippet Translated": "The rain is dripping on my coat.
+
+Missing soaked the corners of my clothes.
+
+The code you gave
+
+A slight smile
+
+Appeared just right.
+
+Pass your hair
+
+It's like the spring breeze blowing green grass.
+
+Romance is fermenting
+
+Only for you
+
+Get rid of all your troubles
+
+Take you to the ends of the earth
+
+Listen to your heartbeat
+
+I want to give you a hug.
+
+Let the whole world know (the whole world knows)
+
+I didn't know how important you were to me until I met you.
+
+No one can feel your sweetest smile.
+
+I don't have to look for others anymore.",
+"Lyric Snippet Synced Translated": "Missing soaked the corners of my clothes.
+
+The code you gave
+
+A slight smile
+
+Appeared just right.
+
+Pass your hair
+
+It's like the spring breeze blowing green grass.
+
+Romance is fermenting
+
+Only for you
+
+Get rid of all your troubles
+
+Take you to the ends of the earth
+
+Listen to your heartbeat
+
+I want to give you a hug.
+
+Let the whole world know (the whole world knows)
+
+I didn't know how important you were to me until I met you.
+
+No one can feel your sweetest smile.
+
+I don't have to look for others anymore.",
+"Artist Translated": "",
+"Translated Title": "A slight smile is very charming.",
+"Translated Name":"Yang Yang - 微微一笑很傾城",
+},
+{
+"TimeStamp": "8 May 2024 at 09:24",
+"Title": "微微一笑很傾城",
+"Artist": "Yang Yang",
+"is_Explicit": "No",
+"Lyrics Snippets": "雨水滴在我的外套
+思念浸透我的衣角
+你给的暗号
+微微一笑
+出现的刚刚好
+擦肩而过你的发梢
+像是春风吹绿青草
+浪漫在发酵
+只愿为你
+赶走所有烦恼
+带你到天涯海角
+听你的心跳
+想给你一个拥抱
+让全世界知道 (全世界知道)
+遇见你我才知道你对我多重要
+没有人能感觉到你最甜美的笑
+我再不用把别人寻找",
+"Lyric Snippet Synced": "擦肩而过你的发梢
+像是春风吹绿青草
+浪漫在发酵
+只愿为你
+赶走所有烦恼
+带你到天涯海角
+听你的心跳
+想给你一个拥抱
+让全世界知道 (全世界知道)
+遇见你我才知道你对我多重要
+没有人能感觉到你最甜美的笑
+我再不用把别人寻找
+因为我已经找到 (我已经找到)
+我们的缘分刚好不许别人打扰",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/326750167/%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%82%BE%E5%9F%8E?co=GB&referrer=shortcuts&offsetInMilliseconds=32403&timeSkew=-5.388856E-4&trackLength=204828&startDate=2024-05-08T08:24:02.513Z",
+"Apple Music URL": "https://music.apple.com/gb/album/%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%82%BE%E5%9F%8E/1154049183?i=1154049422&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Yang Yang - 微微一笑很傾城",
+"Snippet Translated": "The rain is dripping on my coat.
+
+Missing soaked the corners of my clothes.
+
+The code you gave
+
+A slight smile
+
+Appeared just right.
+
+Pass your hair
+
+It's like the spring breeze blowing green grass.
+
+Romance is fermenting
+
+Only for you
+
+Get rid of all your troubles
+
+Take you to the ends of the earth
+
+Listen to your heartbeat
+
+I want to give you a hug.
+
+Let the whole world know (the whole world knows)
+
+I didn't know how important you were to me until I met you.
+
+No one can feel your sweetest smile.
+
+I don't have to look for others anymore.",
+"Lyric Snippet Synced Translated": "Pass your hair
+
+It's like the spring breeze blowing green grass.
+
+Romance is fermenting
+
+Only for you
+
+Get rid of all your troubles
+
+Take you to the ends of the earth
+
+Listen to your heartbeat
+
+I want to give you a hug.
+
+Let the whole world know (the whole world knows)
+
+I didn't know how important you were to me until I met you.
+
+No one can feel your sweetest smile.
+
+I don't have to look for others anymore.
+
+Because I have already found it (I have already found it)
+
+Our fate just doesn't allow others to disturb us.",
+"Artist Translated": "",
+"Translated Title": "A slight smile is very charming.",
+"Translated Name":"Yang Yang - 微微一笑很傾城",
+},
