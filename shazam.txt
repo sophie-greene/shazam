@@ -1019,3 +1019,37 @@ Even then the folks in town said with prejudiced eyes
 "Apple Music URL": "https://music.apple.com/gb/album/hazard/715900968?i=715901150&itscg=30201&itsct=Shazam_shortcuts",
 "Name": "Richard Marx - Hazard",
 },
+{
+"TimeStamp": "8 May 2024 at 10:06",
+"Title": "Bad Connection",
+"Artist": "Yazoo",
+"is_Explicit": "No",
+"Lyrics Snippets": "Morning, this morning the curtains are shut
+I'll ring you in the morning but the phone's been cut
+Can you hear me? I've been calling all day",
+"Lyric Snippet Synced": "Morning, this morning the curtains are shut
+I'll ring you in the morning but the phone's been cut
+Can you hear me? I've been calling all day",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/46054344/bad-connection?co=GB&referrer=shortcuts&offsetInMilliseconds=4676&timeSkew=0.0019903183&trackLength=201466&startDate=2024-05-08T09:06:17.077Z",
+"Apple Music URL": "https://music.apple.com/gb/album/bad-connection/1436832956?i=1436832964&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Yazoo - Bad Connection",
+},
+{
+"TimeStamp": "8 May 2024 at 10:06",
+"Title": "Bad Connection",
+"Artist": "Yazoo",
+"is_Explicit": "No",
+"Lyrics Snippets": "Morning, this morning the curtains are shut
+I'll ring you in the morning but the phone's been cut
+Can you hear me? I've been calling all day",
+"Lyric Snippet Synced": "Morning, this morning the curtains are shut
+I'll ring you in the morning but the phone's been cut
+Can you hear me? I've been calling all day",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/46054344/bad-connection?co=GB&referrer=shortcuts&offsetInMilliseconds=19186&timeSkew=0.0017234087&trackLength=201466&startDate=2024-05-08T09:06:31.543Z",
+"Apple Music URL": "https://music.apple.com/gb/album/bad-connection/1436832956?i=1436832964&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Yazoo - Bad Connection",
+},
