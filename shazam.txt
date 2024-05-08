@@ -1,93 +1,49 @@
 {
-"TimeStamp": "8 May 2024 at 06:47",
-"Title": "Wichita Lineman",
-"Artist": "Glen Campbell",
+"TimeStamp": "8 May 2024 at 07:38",
+"Title": "Beleil El Shoak",
+"Artist": "Assi El Hallani",
 "is_Explicit": "No",
-"Lyrics Snippets": "I am a lineman for the county
-And I drive the main roads
-Searchin' in the sun for another overload
-I hear you singin' in the wire",
-"Lyric Snippet Synced": "I am a lineman for the county
-And I drive the main roads
-Searchin' in the sun for another overload
-I hear you singin' in the wire",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
 "Artwork": "Image",
 "Video URL": "",
-"Shazem URL": "https://www.shazam.com/track/262853/wichita-lineman?co=GB&referrer=shortcuts&offsetInMilliseconds=2251&timeSkew=-0.004235804&trackLength=182800&startDate=2024-05-08T05:47:31.588Z",
-"Apple Music URL": "https://music.apple.com/gb/album/wichita-lineman/1443109329?i=1443109565&itscg=30201&itsct=Shazam_shortcuts",
-"Name": "Glen Campbell - Wichita Lineman",
+"Shazem URL": "https://www.shazam.com/track/10371321/beleil-el-shoak?co=GB&referrer=shortcuts&offsetInMilliseconds=81247&timeSkew=1.3530254E-4&trackLength=377760&startDate=2024-05-08T06:38:29.616Z",
+"Apple Music URL": "https://music.apple.com/gb/album/beleil-el-shoak/1599642587?i=1599642829&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Assi El Hallani - Beleil El Shoak",
+"Snippet Translate": ""
 },
 {
-"TimeStamp": "8 May 2024 at 06:49",
-"Title": "Wichita Lineman",
-"Artist": "Glen Campbell",
+"TimeStamp": "8 May 2024 at 07:42",
+"Title": "You Look Pretty",
+"Artist": "DINDIN & JUNIEL",
 "is_Explicit": "No",
-"Lyrics Snippets": "I am a lineman for the county
-And I drive the main roads
-Searchin' in the sun for another overload
-I hear you singin' in the wire",
-"Lyric Snippet Synced": "Is still on the line
-And I need you more than want you
-And I want you for all time
-And the Wichita lineman
-Is still on the line",
+"Lyrics Snippets": "조금씩 내게 다가오는 그대
+시작인걸까 낯설지만 이런 기분
+정말 사랑인걸까
+추운겨울 이불같은 포근함
+마주잡은 두손 다신 놓지 말자
+어쩐지 그럴것만 같았어
+느낌이 왔어 벌써
+시작하기전부터 두근 대서
+마치 고장난것 마냥 멈추지를 않아
+그런데 말야 조금도 힘들지 않아",
+"Lyric Snippet Synced": "따라오면 돼 다른 곳 말고 나만보면 돼
+함께 갔던 곳곳에 너를 새겨놓은 탓에
+이젠 그 근처만 가도 널 떠올리곤해
+거리에 울리는 노래 전부 내 가사인 듯해
+가던 길을 멈추고 널 떠 올리곤해
+안되나봐 이럴수 밖엔 없는건가봐
+그게 맞나봐
+너때문에자꾸만 하루가 짧아져가",
 "Artwork": "Image",
 "Video URL": "",
-"Shazem URL": "https://www.shazam.com/track/262853/wichita-lineman?co=GB&referrer=shortcuts&offsetInMilliseconds=126573&timeSkew=0.0010260344&trackLength=182800&startDate=2024-05-08T05:49:35.931Z",
-"Apple Music URL": "https://music.apple.com/gb/album/wichita-lineman/1443109329?i=1443109565&itscg=30201&itsct=Shazam_shortcuts",
-"Name": "Glen Campbell - Wichita Lineman",
+"Shazem URL": "https://www.shazam.com/track/322031739/you-look-pretty?co=GB&referrer=shortcuts&offsetInMilliseconds=96476&timeSkew=7.584095E-4&trackLength=199576&startDate=2024-05-08T06:42:00.854Z",
+"Apple Music URL": "https://music.apple.com/gb/album/you-look-pretty/1723467576?i=1723467577&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "DINDIN & JUNIEL - You Look Pretty",
+"Snippet Translate": "Korean"
 },
 {
-"TimeStamp": "8 May 2024 at 06:51",
-"Title": "How You Remind Me",
-"Artist": "Nickelback",
-"is_Explicit": "No",
-"Lyrics Snippets": "Never made it as a wise man
-I couldn't cut it as a poor man stealin'
-Tired of livin' like a blind man
-I'm sick of sight without a sense of feeling",
-"Lyric Snippet Synced": "It's not like you didn't know that
-I said I love you and I swear I still do
-And it must've been so bad",
-"Artwork": "Image",
-"Video URL": "https://music.apple.com/gb/music-video/how-you-remind-me/269729507",
-"Shazem URL": "https://www.shazam.com/track/5169818/how-you-remind-me?co=GB&referrer=shortcuts&offsetInMilliseconds=63450&timeSkew=9.123087E-4&trackLength=222680&startDate=2024-05-08T05:51:39.441Z",
-"Apple Music URL": "https://music.apple.com/gb/album/how-you-remind-me/214475427?i=214475478&itscg=30201&itsct=Shazam_shortcuts",
-"Name": "Nickelback - How You Remind Me",
-},
-{
-"TimeStamp": "8 May 2024 at 06:53",
-"Title": "Found",
-"Artist": "Coffee Boy",
-"is_Explicit": "No",
-"Lyrics Snippets": "찾았다 이제 찾았다
-왜 이제야 우린 만난 건지
-이제는 서롤 알아봤다 우린 찾았다
-한눈에 서롤 알아봤다
-내 기다림이 맞았다
-그 사람은 있었다
-우린 찾았다 만났다 서롤 알아봤다
-Eh, 찾았다 이제 찾았다
-왜 이제야 우린 만난 건지
-이제는 서롤 알아봤다 우린 찾았다",
-"Lyric Snippet Synced": "찾았다 이제 찾았다
-왜 이제야 우린 만난 건지
-이제는 서롤 알아봤다 우린 찾았다
-한눈에 서롤 알아봤다
-내 기다림이 맞았다
-그 사람은 있었다
-우린 찾았다 만났다 서롤 알아봤다
-Eh, 찾았다 이제 찾았다
-왜 이제야 우린 만난 건지
-이제는 서롤 알아봤다 우린 찾았다",
-"Artwork": "Image",
-"Video URL": "",
-"Shazem URL": "https://www.shazam.com/track/314392713/found?co=GB&referrer=shortcuts&offsetInMilliseconds=83185&timeSkew=-1.487732E-4&trackLength=153313&startDate=2024-05-08T05:53:43.124Z",
-"Apple Music URL": "https://music.apple.com/gb/album/found/1723467541?i=1723467542&itscg=30201&itsct=Shazam_shortcuts",
-"Name": "Coffee Boy - Found",
-},
-{
-"TimeStamp": "8 May 2024 at 06:56",
+"TimeStamp": "8 May 2024 at 07:46",
 "Title": "My First Kiss",
 "Artist": "Minah",
 "is_Explicit": "No",
@@ -102,127 +58,731 @@ Come On
 아까부터 도대체 뭘 망설이는 건데
 오 조금 더 다가와봐 조금 더
 살며시 눈을 감아줄게",
-"Lyric Snippet Synced": "My first kiss my my my first kiss
-My first kiss
-I wanna know
-달콤한 feeling
-손만 잡아도 빨개지는 나지만
-준비됐어
-촉촉한 내 입술을 봐봐 oh
-조금 더 다가와봐 조금 더
-살며시 눈을 감아줄게",
+"Lyric Snippet Synced": "My first kiss
+밤늦게 보고 싶다 했잖아
+설레게 만든 건 너잖아 (너잖아)
+이제와 쭈뼛쭈뼛 하니 넌
+기다린 나는 어떡해
+한발 더 다가와봐 조금 더
+살며시 눈을 감아줄게
+처음이란 말 살짝 겁나도
+괜찮을 거야 너니까
+우리 둘 사이 떨리는 느낌",
 "Artwork": "Image",
 "Video URL": "",
-"Shazem URL": "https://www.shazam.com/track/319694739/my-first-kiss?co=GB&referrer=shortcuts&offsetInMilliseconds=77825&timeSkew=-1.168251E-5&trackLength=195814&startDate=2024-05-08T05:55:50.687Z",
+"Shazem URL": "https://www.shazam.com/track/319694739/my-first-kiss?co=GB&referrer=shortcuts&offsetInMilliseconds=148469&timeSkew=6.3836575E-4&trackLength=195843&startDate=2024-05-08T06:46:12.946Z",
 "Apple Music URL": "https://music.apple.com/gb/album/my-first-kiss/1723469109?i=1723469110&itscg=30201&itsct=Shazam_shortcuts",
 "Name": "Minah - My First Kiss",
+"Snippet Translate": "The feeling that only I don't know
+
+All my friends already know oh o
+
+I heard you're still a child.
+
+Everyone makes fun of me like this.
+
+I wanna know
+
+Exhilarating feeling
+
+The trembling of my heart is about to explode.
+
+Come on
+
+What the hell have you been hesitating since a while ago?
+
+Oh, come a little closer. A little more.
+
+I'll close your eyes gently."
 },
 {
-"TimeStamp": "8 May 2024 at 06:58",
-"Title": "You Look Pretty",
-"Artist": "DINDIN & JUNIEL",
+"TimeStamp": "8 May 2024 at 07:48",
+"Title": "If It's You",
+"Artist": "Yeoeun",
 "is_Explicit": "No",
-"Lyrics Snippets": "조금씩 내게 다가오는 그대
-시작인걸까 낯설지만 이런 기분
-정말 사랑인걸까
-추운겨울 이불같은 포근함
-마주잡은 두손 다신 놓지 말자
-어쩐지 그럴것만 같았어
-느낌이 왔어 벌써
-시작하기전부터 두근 대서
-마치 고장난것 마냥 멈추지를 않아
-그런데 말야 조금도 힘들지 않아",
-"Lyric Snippet Synced": "추운겨울 이불같은 포근함
-마주잡은 두손 다신 놓지 말자
-어쩐지 그럴것만 같았어
-느낌이 왔어 벌써
-시작하기전부터 두근 대서
-마치 고장난것 마냥 멈추지를 않아
-그런데 말야 조금도 힘들지 않아
-이젠 시작하자 오늘 부터 첫날
-그렇게 닮아가자 모든걸, 너와나",
+"Lyrics Snippets": "햇살이 참 좋은 날
+기분 좋은 바람처럼
+그댄 내게 다가와 날 어루만졌죠
+그댄 언제나 날 설레이게 해
+나의 마음속에서조차 내게 달려와
+너무나 가슴이 크게 뛰는걸 어떻게 하죠
+시간이 지난대도 나 절대로 변하지 않아
+그대만 있다면 그대라면
+저 높은 하늘 안에",
+"Lyric Snippet Synced": "시간이 지난대도 나 절대로 변하지 않아
+그대만 있다면 그대라면
+저 높은 하늘 안에
+빛나는 태양처럼
+그댄 나의 세상에
+눈부시게 다가왔죠
+오직 그대만이 날 숨 쉬게 해
+나의 마음속에서조차 내게 달려와
+너무나 가슴이 크게 뛰는걸 어떻게 하죠",
 "Artwork": "Image",
 "Video URL": "",
-"Shazem URL": "https://www.shazam.com/track/322031739/you-look-pretty?co=GB&referrer=shortcuts&offsetInMilliseconds=12753&timeSkew=2.9325485E-5&trackLength=198623&startDate=2024-05-08T05:58:03.344Z",
-"Apple Music URL": "https://music.apple.com/gb/album/you-look-pretty/1723467576?i=1723467577&itscg=30201&itsct=Shazam_shortcuts",
-"Name": "DINDIN & JUNIEL - You Look Pretty",
+"Shazem URL": "https://www.shazam.com/track/323705270/if-its-you?co=GB&referrer=shortcuts&offsetInMilliseconds=52434&timeSkew=4.917383E-4&trackLength=205715&startDate=2024-05-08T06:48:04.444Z",
+"Apple Music URL": "https://music.apple.com/gb/album/if-its-you/1723467783?i=1723467784&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Yeoeun - If It's You",
+"Snippet Translate": "A sunny day
+
+Like a pleasant wind
+
+He came up to me and messed me.
+
+He always makes my heart flutter.
+
+Run to me even in my heart.
+
+What should I do if my heart beats so much?
+
+Even if time passes, I will never change.
+
+If it's you, if it's you
+
+In that high sky"
 },
 {
-"TimeStamp": "8 May 2024 at 07:00",
-"Title": "You Look Pretty",
-"Artist": "DINDIN & JUNIEL",
+"TimeStamp": "8 May 2024 at 07:52",
+"Title": "Waiting For You",
+"Artist": "NELL",
 "is_Explicit": "No",
-"Lyrics Snippets": "조금씩 내게 다가오는 그대
-시작인걸까 낯설지만 이런 기분
-정말 사랑인걸까
-추운겨울 이불같은 포근함
-마주잡은 두손 다신 놓지 말자
-어쩐지 그럴것만 같았어
-느낌이 왔어 벌써
-시작하기전부터 두근 대서
-마치 고장난것 마냥 멈추지를 않아
-그런데 말야 조금도 힘들지 않아",
-"Lyric Snippet Synced": "궁금하고 꿈꿔봐도
-그럴수록 자꾸 그대만 커져가
-I don't worry bout a thing baby
-널 만난 후 매일이 설래는지 왜이리
-중독됐어 난이미
-Becuz you make me smile all day
-My boo cant get away from you",
+"Lyrics Snippets": "니가 보고 싶어서
+자꾸만 생각나서
+한참을 멈춰 서서
+서성거린다
+아닌걸 알면서도
+계속 미련이 남고
+붙잡고 싶어져서
+자꾸 눈물이나
+내 삶의 일부라고 생각했어
+내 전부가 될 줄은 몰랐어
+이렇게까지 너의 그 미소가
+간절해 질 거 란걸 몰랐어
+너를 꼭 지켜내고 싶어",
+"Lyric Snippet Synced": "너를 꼭 지켜내고 싶어
+내 삶의 일부라고 생각했어
+내 전부가 될 줄은 몰랐어
+이렇게까지 너의 목소리가
+간절해 질 거 란걸 몰랐어
+너를 꼭 지켜내고 싶어
+니가 보고 싶어서
+자꾸만 생각나서
+붙잡고 싶어져서
+서성거린다
+아무리 애를 써도
+달라질 건 없지만
+난 같은 자리에서",
 "Artwork": "Image",
 "Video URL": "",
-"Shazem URL": "https://www.shazam.com/track/322031739/you-look-pretty?co=GB&referrer=shortcuts&offsetInMilliseconds=145390&timeSkew=4.3320656E-4&trackLength=198623&startDate=2024-05-08T06:00:15.928Z",
-"Apple Music URL": "https://music.apple.com/gb/album/you-look-pretty/1723467576?i=1723467577&itscg=30201&itsct=Shazam_shortcuts",
-"Name": "DINDIN & JUNIEL - You Look Pretty",
+"Shazem URL": "https://www.shazam.com/track/322412046/waiting-for-you?co=GB&referrer=shortcuts&offsetInMilliseconds=81334&timeSkew=-0.0013567209&trackLength=195174&startDate=2024-05-08T06:52:00.608Z",
+"Apple Music URL": "https://music.apple.com/gb/album/waiting-for-you/1723467389?i=1723467393&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "NELL - Waiting For You",
+"Snippet Translated": "Because I miss you
+
+I keep thinking about it
+
+Stop for a long time
+
+Linger
+
+Even though I know it's not
+
+I still have regrets.
+
+I want to hold on.
+
+I keep crying
+
+I thought it was part of my life.
+
+I didn't know it would be my everything.
+
+Your smile like this
+
+I didn't know you were going to be desperate.
+
+I really want to protect you."
+"Lyric Snippet Synced Translated": "I really want to protect you.
+
+I thought it was part of my life.
+
+I didn't know it would be my everything.
+
+Your voice is like this.
+
+I didn't know you were going to be desperate.
+
+I really want to protect you.
+
+Because I miss you
+
+I keep thinking about it
+
+I want to hold on.
+
+Linger
+
+No matter how hard you try
+
+It doesn't change but
+
+I'm in the same place"
+},
+
+
+
+{
+"TimeStamp": "8 May 2024 at 08:23",
+"Title": "My First Kiss",
+"Artist": "Minah",
+"is_Explicit": "No",
+"Lyrics Snippets": "나만 모르는 그 기분
+친구들 이미 모두 알고 있대 oh o
+아직 어린아이라며
+이렇게 다들 나를 놀리잖아
+I wanna know
+짜릿한 느낌
+가슴 터질 것 같은 떨림을
+Come On
+아까부터 도대체 뭘 망설이는 건데
+오 조금 더 다가와봐 조금 더
+살며시 눈을 감아줄게",
+"Lyric Snippet Synced": "괜찮을 거야 너니까
+우리 둘 사이 떨리는 느낌
+이 어색함을 깨뜨려줘
+이 순간 네게만 허락된걸
+지금이야 바보야 나 나나나 oh yeah
+I wanna know
+My first kiss my my my first kiss
+My first kiss
+밤늦게 보고 싶다 했잖아",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/319694739/my-first-kiss?co=GB&referrer=shortcuts&offsetInMilliseconds=110670&timeSkew=0.0011113882&trackLength=195843&startDate=2024-05-08T07:23:40.829Z",
+"Apple Music URL": "https://music.apple.com/gb/album/my-first-kiss/1723469109?i=1723469110&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Minah - My First Kiss",
+"Snippet Translated": "The feeling that only I don't know
+
+All my friends already know oh o
+
+I heard you're still a child.
+
+Everyone makes fun of me like this.
+
+I wanna know
+
+Exhilarating feeling
+
+The trembling of my heart is about to explode.
+
+Come on
+
+What the hell have you been hesitating since a while ago?
+
+Oh, come a little closer. A little more.
+
+I'll close your eyes gently.",
+"Lyric Snippet Synced Translated": "It'll be okay because it's you
+
+The feeling of trembling between the two of us
+
+Break this awkwardness.
+
+Only you are allowed at this moment.
+
+It's now, stupid, I'm Nana, oh yeah
+
+I wanna know
+
+My first kiss my my first kiss
+
+My first kiss
+
+You said you wanted to see me late at night.",
+"Artist Translated": "",
+"Translated Title: "",
+"Translated Name":"Minah - My First Kiss"
 },
 {
-"TimeStamp": "8 May 2024 at 07:02",
-"Title": "Again",
-"Artist": "Realslow",
+"TimeStamp": "8 May 2024 at 08:37",
+"Title": "Love Cells",
+"Artist": "Jang Wooram",
 "is_Explicit": "No",
-"Lyrics Snippets": "자꾸 자꾸만 눈이 가는 걸 어떡하죠
-자꾸 자꾸만 널 향하는 내 맘
-제발 너에게 (제발 너에게)
-좋아하는 내 맘 닿기를 (닿기를)
-자꾸 자꾸만 니 생각에 또 웃음이 나
-자꾸 자꾸만 커져가는 내 맘
-정말 어떡해? (정말 어떡해?)
-네게 난 푹 빠져 버린 걸",
-"Lyric Snippet Synced": "내 가슴이 떨려 (떨려 떨려)
-너만 보면 웃음만 나와
-Can't stop loving you (woo woo woo)
-Love me baby (woo woo woo)
-자꾸 자꾸만 눈이 가는 걸 어떡하죠
-자꾸 자꾸만 널 향하는 내 맘
-제발 너에게 (제발 너에게)",
+"Lyrics Snippets": "헷갈리고 난감해
+너를 알고부터 난 그래
+도대체 왜 이래 다 무슨 일인지
+알 수 없는 말들로 날
+이리저리 헤집어놓고 웃음만
+어떻게 널 생각해야 할까
+넌 내겐 너무 어려운 걸
+바보 같은 난 너만 보는 난
+머릿속이 멈춰지는데 멍해지는데
+막을 수 없어 나도 몰랐었던",
+"Lyric Snippet Synced": "더 다가가서 시작해보면 알게 될까
+있잖아 아무래도 난 말야
+내가 꼼짝없이 빠진 듯해
+Fall in love",
 "Artwork": "Image",
 "Video URL": "",
-"Shazem URL": "https://www.shazam.com/track/322985247/again?co=GB&referrer=shortcuts&offsetInMilliseconds=77988&timeSkew=-0.0042952895&trackLength=226484&startDate=2024-05-08T06:02:28.491Z",
-"Apple Music URL": "https://music.apple.com/gb/album/again/1723467466?i=1723467857&itscg=30201&itsct=Shazam_shortcuts",
-"Name": "Realslow - Again",
+"Shazem URL": "https://www.shazam.com/track/321032762/love-cells?co=GB&referrer=shortcuts&offsetInMilliseconds=178475&timeSkew=0.0021612644&trackLength=194090&startDate=2024-05-08T07:37:08.744Z",
+"Apple Music URL": "https://music.apple.com/gb/album/love-cells/1723467245?i=1723467246&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Jang Wooram - Love Cells",
+"Snippet Translated": "I'm confused and confused
+
+I've been like that since I knew you.
+
+What the hell is going on like this?
+
+Me with unknown words.
+
+I'm just laughing around.
+
+How should I think about you?
+
+You're too hard for me.
+
+I'm stupid. I only see you.
+
+My head stops, but I'm dazed.
+
+I can't stop it. I didn't know either.",
+"Lyric Snippet Synced Translated": "Will we know if we get closer and start?
+
+You know, I guess I am.
+
+I think I'm stuck.
+
+Fall in love",
+"Artist Translated": "",
+"Translated Title: "",
+"Translated Name":""
 },
 {
-"TimeStamp": "8 May 2024 at 07:04",
-"Title": "Again",
-"Artist": "Realslow",
+"TimeStamp": "8 May 2024 at 08:37",
+"Title": "Much As the Time (We Loved Each Other)",
+"Artist": "Yoon Do Hyun",
 "is_Explicit": "No",
-"Lyrics Snippets": "자꾸 자꾸만 눈이 가는 걸 어떡하죠
-자꾸 자꾸만 널 향하는 내 맘
-제발 너에게 (제발 너에게)
-좋아하는 내 맘 닿기를 (닿기를)
-자꾸 자꾸만 니 생각에 또 웃음이 나
-자꾸 자꾸만 커져가는 내 맘
-정말 어떡해? (정말 어떡해?)
-네게 난 푹 빠져 버린 걸",
-"Lyric Snippet Synced": "너만 보면 웃음만 나와
-Can't stop loving you (woo woo woo)
-Can't stop loving you
-Can't stop loving you
-Can't stop loving you
-Can't stop loving you",
+"Lyrics Snippets": "우리 함께했던 시간의 흔적들
+이젠 모두 지웠다고 생각했지만
+서랍 속 깊숙이 숨어있던 네가 준 작은 메모 한 장
+우리 서로 마지막 사랑이 됐으면 좋겠단 바람
+나 없이 너는 행복한 건지 혹시 나만 아픈 건 아닌지
+우리 사랑했던 시간만큼만 힘들면 널 잊을는지",
+"Lyric Snippet Synced": "우리 함께했던 시간의 흔적들
+이젠 모두 지웠다고 생각했지만
+서랍 속 깊숙이 숨어있던 네가 준 작은 메모 한 장
+우리 서로 마지막 사랑이 됐으면 좋겠단 바람
+나 없이 너는 행복한 건지 혹시 나만 아픈 건 아닌지
+우리 사랑했던 시간만큼만 힘들면 널 잊을는지",
 "Artwork": "Image",
 "Video URL": "",
-"Shazem URL": "https://www.shazam.com/track/322985247/again?co=GB&referrer=shortcuts&offsetInMilliseconds=201761&timeSkew=4.2164326E-4&trackLength=226484&startDate=2024-05-08T06:04:32.284Z",
-"Apple Music URL": "https://music.apple.com/gb/album/again/1723467466?i=1723467857&itscg=30201&itsct=Shazam_shortcuts",
-"Name": "Realslow - Again",
+"Shazem URL": "https://www.shazam.com/track/152948954/much-as-the-time-we-loved-each-other?co=GB&referrer=shortcuts&offsetInMilliseconds=17392&timeSkew=3.7908554E-5&trackLength=210000&startDate=2024-05-08T07:37:42.673Z",
+"Apple Music URL": "https://music.apple.com/gb/album/much-as-the-time-we-loved-each-other/1443746539?i=1443746559&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Yoon Do Hyun - Much As the Time (We Loved Each Other)",
+"Snippet Translated": "Traces of the time we spent together
+
+I thought I deleted everything now, but
+
+A small note you gave me that was hidden deep in the drawer.
+
+I hope we can be the last love for each other.
+
+Are you happy without me or maybe I'm the only one who's sick?
+
+If it's as hard as the time we loved, I'll forget you.",
+"Lyric Snippet Synced Translated": "Traces of the time we spent together
+
+I thought I deleted everything now, but
+
+A small note you gave me that was hidden deep in the drawer.
+
+I hope we can be the last love for each other.
+
+Are you happy without me or maybe I'm the only one who's sick?
+
+If it's as hard as the time we loved, I'll forget you.",
+"Artist Translated": "Yoon Do Hyun",
+"Translated Title: "",
+"Translated Name":""
+},
+{
+"TimeStamp": "8 May 2024 at 08:38",
+"Title": "Much As the Time (We Loved Each Other)",
+"Artist": "Yoon Do Hyun",
+"is_Explicit": "No",
+"Lyrics Snippets": "우리 함께했던 시간의 흔적들
+이젠 모두 지웠다고 생각했지만
+서랍 속 깊숙이 숨어있던 네가 준 작은 메모 한 장
+우리 서로 마지막 사랑이 됐으면 좋겠단 바람
+나 없이 너는 행복한 건지 혹시 나만 아픈 건 아닌지
+우리 사랑했던 시간만큼만 힘들면 널 잊을는지",
+"Lyric Snippet Synced": "나 없이 너는 행복한 건지 혹시 나만 아픈 건 아닌지
+우리 사랑했던 시간만큼만 힘들면 널 잊을는지
+좋은 친구로 남아 달라던 부탁
+정말 미안하지만 난 못할 것 같아
+나 없이 너는 행복한 건지 혹시 나만 아픈 건 아닌지
+우리 사랑했던 시간만큼만 힘들면 널 잊을는지",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/152948954/much-as-the-time-we-loved-each-other?co=GB&referrer=shortcuts&offsetInMilliseconds=51710&timeSkew=0.0017073154&trackLength=210000&startDate=2024-05-08T07:38:16.997Z",
+"Apple Music URL": "https://music.apple.com/gb/album/much-as-the-time-we-loved-each-other/1443746539?i=1443746559&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Yoon Do Hyun - Much As the Time (We Loved Each Other)",
+"Snippet Translated": "Traces of the time we spent together
+
+I thought I deleted everything now, but
+
+A small note you gave me that was hidden deep in the drawer.
+
+I hope we can be the last love for each other.
+
+Are you happy without me or maybe I'm the only one who's sick?
+
+If it's as hard as the time we loved, I'll forget you.",
+"Lyric Snippet Synced Translated": "Are you happy without me or maybe I'm the only one who's sick?
+
+If it's as hard as the time we loved, I'll forget you.
+
+Please stay as a good friend.
+
+I'm really sorry, but I don't think I can do it.
+
+Are you happy without me or maybe I'm the only one who's sick?
+
+If it's as hard as the time we loved, I'll forget you.",
+"Artist Translated": "Yoon Do Hyun",
+"Translated Title: "",
+"Translated Name":""
+},
+{
+"TimeStamp": "8 May 2024 at 08:39",
+"Title": "Much As the Time (We Loved Each Other)",
+"Artist": "Yoon Do Hyun",
+"is_Explicit": "No",
+"Lyrics Snippets": "우리 함께했던 시간의 흔적들
+이젠 모두 지웠다고 생각했지만
+서랍 속 깊숙이 숨어있던 네가 준 작은 메모 한 장
+우리 서로 마지막 사랑이 됐으면 좋겠단 바람
+나 없이 너는 행복한 건지 혹시 나만 아픈 건 아닌지
+우리 사랑했던 시간만큼만 힘들면 널 잊을는지",
+"Lyric Snippet Synced": "난 가끔씩 마시던 술도 마시지 않아
+혹시 술에 취해 또 너에게 전화해
+너무 힘들다 말할까봐
+나 없이 너는 행복한 건지 혹시 나만 아픈 건 아닌지
+우리 사랑했던 시간만큼만 힘들면 널 잊을는지
+언젠간 다른 사랑 하겠지 내 맘을 모두 주게 되겠지",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/152948954/much-as-the-time-we-loved-each-other?co=GB&referrer=shortcuts&offsetInMilliseconds=124771&timeSkew=1.1301041E-4&trackLength=210000&startDate=2024-05-08T07:39:30.059Z",
+"Apple Music URL": "https://music.apple.com/gb/album/much-as-the-time-we-loved-each-other/1443746539?i=1443746559&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Yoon Do Hyun - Much As the Time (We Loved Each Other)",
+},
+{
+"TimeStamp": "8 May 2024 at 08:40",
+"Title": "Much As the Time (We Loved Each Other)",
+"Artist": "Yoon Do Hyun",
+"is_Explicit": "No",
+"Lyrics Snippets": "우리 함께했던 시간의 흔적들
+이젠 모두 지웠다고 생각했지만
+서랍 속 깊숙이 숨어있던 네가 준 작은 메모 한 장
+우리 서로 마지막 사랑이 됐으면 좋겠단 바람
+나 없이 너는 행복한 건지 혹시 나만 아픈 건 아닌지
+우리 사랑했던 시간만큼만 힘들면 널 잊을는지",
+"Lyric Snippet Synced": "하지만 네가 가져 가버린 내 맘만큼 작아져 있겠지
+우리 함께했던 시간의 흔적들
+내 마음속에 흉터로 남을 것 같아",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/152948954/much-as-the-time-we-loved-each-other?co=GB&referrer=shortcuts&offsetInMilliseconds=178084&timeSkew=3.5011768E-4&trackLength=210000&startDate=2024-05-08T07:40:23.360Z",
+"Apple Music URL": "https://music.apple.com/gb/album/much-as-the-time-we-loved-each-other/1443746539?i=1443746559&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Yoon Do Hyun - Much As the Time (We Loved Each Other)",
+"Snippet Translated": "Traces of the time we spent together
+
+I thought I deleted everything now, but
+
+A small note you gave me that was hidden deep in the drawer.
+
+I hope we can be the last love for each other.
+
+Are you happy without me or maybe I'm the only one who's sick?
+
+If it's as hard as the time we loved, I'll forget you.",
+"Lyric Snippet Synced Translated": "But it must be as small as my heart that you took.
+
+Traces of the time we spent together
+
+I think it will remain as a scar in my heart.",
+"Artist Translated": "",
+"Translated Title: "",
+"Translated Name":""
+},
+{
+"TimeStamp": "8 May 2024 at 08:41",
+"Title": "If It's You",
+"Artist": "Yeoeun",
+"is_Explicit": "No",
+"Lyrics Snippets": "햇살이 참 좋은 날
+기분 좋은 바람처럼
+그댄 내게 다가와 날 어루만졌죠
+그댄 언제나 날 설레이게 해
+나의 마음속에서조차 내게 달려와
+너무나 가슴이 크게 뛰는걸 어떻게 하죠
+시간이 지난대도 나 절대로 변하지 않아
+그대만 있다면 그대라면
+저 높은 하늘 안에",
+"Lyric Snippet Synced": "햇살이 참 좋은 날
+기분 좋은 바람처럼
+그댄 내게 다가와 날 어루만졌죠
+그댄 언제나 날 설레이게 해
+나의 마음속에서조차 내게 달려와
+너무나 가슴이 크게 뛰는걸 어떻게 하죠
+시간이 지난대도 나 절대로 변하지 않아
+그대만 있다면 그대라면
+저 높은 하늘 안에",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/323705270/if-its-you?co=GB&referrer=shortcuts&offsetInMilliseconds=1718&timeSkew=3.38912E-4&trackLength=205715&startDate=2024-05-08T07:40:57.396Z",
+"Apple Music URL": "https://music.apple.com/gb/album/if-its-you/1723467783?i=1723467784&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Yeoeun - If It's You",
+"Snippet Translated": "A sunny day
+
+Like a pleasant wind
+
+He came up to me and messed me.
+
+He always makes my heart flutter.
+
+Run to me even in my heart.
+
+What should I do if my heart beats so much?
+
+Even if time passes, I will never change.
+
+If it's you, if it's you
+
+In that high sky",
+"Lyric Snippet Synced Translated": "A sunny day
+
+Like a pleasant wind
+
+He came up to me and messed me.
+
+He always makes my heart flutter.
+
+Run to me even in my heart.
+
+What should I do if my heart beats so much?
+
+Even if time passes, I will never change.
+
+If it's you, if it's you
+
+In that high sky",
+"Artist Translated": "Yeoeun",
+"Translated Title: "",
+"Translated Name":""
+},
+{
+"TimeStamp": "8 May 2024 at 08:41",
+"Title": "If It's You",
+"Artist": "Yeoeun",
+"is_Explicit": "No",
+"Lyrics Snippets": "햇살이 참 좋은 날
+기분 좋은 바람처럼
+그댄 내게 다가와 날 어루만졌죠
+그댄 언제나 날 설레이게 해
+나의 마음속에서조차 내게 달려와
+너무나 가슴이 크게 뛰는걸 어떻게 하죠
+시간이 지난대도 나 절대로 변하지 않아
+그대만 있다면 그대라면
+저 높은 하늘 안에",
+"Lyric Snippet Synced": "나의 마음속에서조차 내게 달려와
+너무나 가슴이 크게 뛰는걸 어떻게 하죠
+시간이 지난대도 나 절대로 변하지 않아
+그대만 있다면 그대라면
+저 높은 하늘 안에
+빛나는 태양처럼
+그댄 나의 세상에
+눈부시게 다가왔죠
+오직 그대만이 날 숨 쉬게 해
+나의 마음속에서조차 내게 달려와",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/323705270/if-its-you?co=GB&referrer=shortcuts&offsetInMilliseconds=37801&timeSkew=0.0018261671&trackLength=205715&startDate=2024-05-08T07:41:33.453Z",
+"Apple Music URL": "https://music.apple.com/gb/album/if-its-you/1723467783?i=1723467784&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Yeoeun - If It's You",
+"Snippet Translated": "A sunny day
+
+Like a pleasant wind
+
+He came up to me and messed me.
+
+He always makes my heart flutter.
+
+Run to me even in my heart.
+
+What should I do if my heart beats so much?
+
+Even if time passes, I will never change.
+
+If it's you, if it's you
+
+In that high sky",
+"Lyric Snippet Synced Translated": "Run to me even in my heart.
+
+What should I do if my heart beats so much?
+
+Even if time passes, I will never change.
+
+If it's you, if it's you
+
+In that high sky
+
+Like the shining sun
+
+That's my world.
+
+It came dazzlingly.
+
+Only you make me breathe.
+
+Run to me even in my heart.",
+"Artist Translated": "Yeoeun",
+"Translated Title: "",
+"Translated Name":""
+},
+{
+"TimeStamp": "8 May 2024 at 08:50",
+"Title": "Flying Ship",
+"Artist": "Gyohan",
+"is_Explicit": "No",
+"Lyrics Snippets": "그토록 꿈꿔 온 순간
+하늘을 달리는 배를 띄울 그날
+그 누구도 믿지 못한
+모든 날의 시작
+모든 모험의 시작
+처음 딛는 걸음
+처음 마주하는
+건너편의 세상으로
+모든 두려움 앞에
+돛을 올릴 때
+그땔 기억해
+우린 하얀 바람 따라 나아가
+언젠가 아스라이 하늘 끝에 닿는다",
+"Lyric Snippet Synced": "그토록 꿈꿔 온 순간
+하늘을 달리는 배를 띄울 그날
+그 누구도 믿지 못한
+모든 날의 시작
+모든 모험의 시작
+처음 딛는 걸음
+처음 마주하는
+건너편의 세상으로
+모든 두려움 앞에
+돛을 올릴 때
+그땔 기억해
+우린 하얀 바람 따라 나아가
+언젠가 아스라이 하늘 끝에 닿는다",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/693382023/flying-ship?co=GB&referrer=shortcuts&offsetInMilliseconds=102957&timeSkew=4.8744678E-4&trackLength=234837&startDate=2024-05-08T07:50:25.874Z",
+"Apple Music URL": "https://music.apple.com/gb/album/flying-ship/1733444915?i=1733445198&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Gyohan - Flying Ship",
+"Snippet Translated": "The moment I've been dreaming so much
+
+The day I'm going to float a boat running in the sky
+
+No one believed
+
+The beginning of every day
+
+The beginning of every adventure
+
+First step
+
+First time facing
+
+To the other side of the world
+
+In front of all fear
+
+When you raise the sail
+
+Remember that.
+
+We follow the white wind.
+
+Someday Asrai will reach the end of the sky.",
+"Lyric Snippet Synced Translated": "The moment I've been dreaming so much
+
+The day I'm going to float a boat running in the sky
+
+No one believed
+
+The beginning of every day
+
+The beginning of every adventure
+
+First step
+
+First time facing
+
+To the other side of the world
+
+In front of all fear
+
+When you raise the sail
+
+Remember that.
+
+We follow the white wind.
+
+Someday Asrai will reach the end of the sky.",
+"Artist Translated": "",
+"Translated Title: "",
+"Translated Name":""
+},
+{
+"TimeStamp": "8 May 2024 at 08:54",
+"Title": "A Good Start",
+"Artist": "Maria Taylor",
+"is_Explicit": "No",
+"Lyrics Snippets": "You're one with the burdon of intuition
+You're one with the freedom of a blank stare
+You're one with the best friend you lost",
+"Lyric Snippet Synced": "You are
+It was a faint line that brought you here
+And a pulse that kept you in time
+It was the comfort of a tradition",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/44907396/a-good-start?co=GB&referrer=shortcuts&offsetInMilliseconds=40953&timeSkew=2.5331974E-4&trackLength=253093&startDate=2024-05-08T07:54:51.980Z",
+"Apple Music URL": "https://music.apple.com/gb/album/a-good-start/1455128880?i=1455128883&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Maria Taylor - A Good Start",
+"Snippet Translated": "",
+"Lyric Snippet Synced Translated": "",
+"Artist Translated": "",
+"Translated Title: "",
+"Translated Name":""
+},
+{
+"TimeStamp": "8 May 2024 at 08:55",
+"Title": "A Good Start",
+"Artist": "Maria Taylor",
+"is_Explicit": "No",
+"Lyrics Snippets": "You're one with the burdon of intuition
+You're one with the freedom of a blank stare
+You're one with the best friend you lost",
+"Lyric Snippet Synced": "As the one that's gonna pick you up
+And pick you up
+You're one with the echos of conversation
+You're one with the strangers you overheard",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/44907396/a-good-start?co=GB&referrer=shortcuts&offsetInMilliseconds=74644&timeSkew=-0.0015243888&trackLength=253093&startDate=2024-05-08T07:55:25.661Z",
+"Apple Music URL": "https://music.apple.com/gb/album/a-good-start/1455128880?i=1455128883&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Maria Taylor - A Good Start",
+"Snippet Translated": "",
+"Lyric Snippet Synced Translated": "",
+"Artist Translated": "Maria Taylor",
+"Translated Title: "",
+"Translated Name":""
 },
