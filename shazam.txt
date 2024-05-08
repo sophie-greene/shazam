@@ -1,0 +1,1822 @@
+{
+"TimeStamp": "8 May 2024 at 01:11",
+"Title": "Live and Learn",
+"Artist": "The Cardigans",
+"is_Explicit": "No",
+"Lyrics Snippets": "I came home in the morning
+And everything was gone
+Oh, what have I done?
+I dropped dead in the hallway
+Cursing the dawn
+Oh come on, sun",
+"Lyric Snippet Synced": "Well, you get what you give
+And hell, yes, I lived
+But if you live as you learn
+I don't think I can learn
+Oh with the sun in my eyes",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/live-and-learn/1445697840",
+"Shazem URL": "https://www.shazam.com/track/11241484/live-and-learn?co=GB&referrer=shortcuts&offsetInMilliseconds=203940&timeSkew=0.0013536215&trackLength=253133&startDate=2024-05-08T00:11:06.902Z",
+"Apple Music URL": "https://music.apple.com/gb/album/live-and-learn/1444077673?i=1444078698&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "The Cardigans - Live and Learn",
+},
+{
+"TimeStamp": "8 May 2024 at 01:13",
+"Title": "Sunshine (Wookie Main Mix)",
+"Artist": "Gabrielle",
+"is_Explicit": "No",
+"Lyrics Snippets": "Made a wish I can dream
+I can be what I want to be
+Not afraid to live life
+And fulfill my fantasies
+I learned a lot of tricks to help me live my life",
+"Lyric Snippet Synced": "I can be what I want to be
+Not afraid to live life
+And fulfill my fantasies
+I learned a lot of tricks to help me live my life",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/221976/sunshine-wookie-main-mix?co=GB&referrer=shortcuts&offsetInMilliseconds=48528&timeSkew=-5.1021576E-5&trackLength=266066&startDate=2024-05-08T00:13:10.629Z",
+"Apple Music URL": "https://music.apple.com/gb/album/sunshine-wookie-main-mix/1443404490?i=1443404804&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Gabrielle - Sunshine (Wookie Main Mix)",
+},
+{
+"TimeStamp": "8 May 2024 at 01:15",
+"Title": "You Have to Hurt",
+"Artist": "Carly Simon",
+"is_Explicit": "No",
+"Lyrics Snippets": "(Frank Musker, Dominic King)
+'I'm in love with him' she said
+With all the innocence of tender years
+But somewhere down the road ahead",
+"Lyric Snippet Synced": "(Frank Musker, Dominic King)
+'I'm in love with him' she said
+With all the innocence of tender years
+But somewhere down the road ahead",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/389433/you-have-to-hurt?co=GB&referrer=shortcuts&offsetInMilliseconds=108861&timeSkew=1.3017654E-4&trackLength=242407&startDate=2024-05-08T00:15:14.303Z",
+"Apple Music URL": "https://music.apple.com/gb/album/you-have-to-hurt/272189025?i=272189059&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Carly Simon - You Have to Hurt",
+},
+{
+"TimeStamp": "8 May 2024 at 01:17",
+"Title": "That Ole Devil Called Love",
+"Artist": "Alison Moyet",
+"is_Explicit": "No",
+"Lyrics Snippets": "It's that ole devil called love again
+Gets behind me
+And keeps giving me that shock again
+Puttin' rain in my eyes
+Tears in my dreams",
+"Lyric Snippet Synced": "It's that ole devil called love again
+Gets behind me
+And keeps giving me that shock again
+Puttin' rain in my eyes
+Tears in my dreams",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/5175007/that-ole-devil-called-love?co=GB&referrer=shortcuts&offsetInMilliseconds=277&timeSkew=-0.0019918084&trackLength=184850&startDate=2024-05-08T00:17:29.309Z",
+"Apple Music URL": "https://music.apple.com/gb/album/that-ole-devil-called-love/334987302?i=334987467&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Alison Moyet - That Ole Devil Called Love",
+},
+{
+"TimeStamp": "8 May 2024 at 01:19",
+"Title": "That Ole Devil Called Love",
+"Artist": "Alison Moyet",
+"is_Explicit": "No",
+"Lyrics Snippets": "It's that ole devil called love again
+Gets behind me
+And keeps giving me that shock again
+Puttin' rain in my eyes
+Tears in my dreams",
+"Lyric Snippet Synced": "With that ole devil called love
+He'd follow me 'round
+Build me up, tear me down
+Till I'd be so bewildered
+I wouldn't know what to do",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/5175007/that-ole-devil-called-love?co=GB&referrer=shortcuts&offsetInMilliseconds=123875&timeSkew=7.264614E-4&trackLength=184850&startDate=2024-05-08T00:19:32.925Z",
+"Apple Music URL": "https://music.apple.com/gb/album/that-ole-devil-called-love/334987302?i=334987467&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Alison Moyet - That Ole Devil Called Love",
+},
+{
+"TimeStamp": "8 May 2024 at 01:21",
+"Title": "BET",
+"Artist": "METTE",
+"is_Explicit": "Yes",
+"Lyrics Snippets": "I know it might sound stupid
+I'm a fool for you so I'll just say it anyway, oh
+I think I'm in love with you
+I love you
+I wanna bribe Cupid",
+"Lyric Snippet Synced": "One day soon you'll be loving me
+You bet
+I bet, bet on that you do
+Bet, bet on that you do
+Bet, bet on that you do
+Bet, bet on that you do",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/bet-visualizer/1744441792",
+"Shazem URL": "https://www.shazam.com/track/698055929/bet?co=GB&referrer=shortcuts&offsetInMilliseconds=50177&timeSkew=0.0016571283&trackLength=198671&startDate=2024-05-08T00:21:36.380Z",
+"Apple Music URL": "https://music.apple.com/gb/album/bet/1741343008?i=1741343011&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "METTE - BET",
+},
+{
+"TimeStamp": "8 May 2024 at 01:23",
+"Title": "Sex (I'm A)",
+"Artist": "Berlin",
+"is_Explicit": "No",
+"Lyrics Snippets": "Feel the fire, feel my love inside you it's so right
+There's the sound and the smell of love in my mind",
+"Lyric Snippet Synced": "I'm a man - Well I'm your mother
+I'm a man - I'm a one night stand
+I'm a man - Am I bi
+I'm a man - I'm a slave
+I'm a man - I'm a little girl",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/54155474/sex-im-a?co=GB&referrer=shortcuts&offsetInMilliseconds=113408&timeSkew=-0.0013768077&trackLength=313759&startDate=2024-05-08T00:23:40.036Z",
+"Apple Music URL": "https://music.apple.com/gb/album/sex-im-a/201448196?i=201448201&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Berlin - Sex (I'm A)",
+},
+{
+"TimeStamp": "8 May 2024 at 01:25",
+"Title": "Sex (I'm A)",
+"Artist": "Berlin",
+"is_Explicit": "No",
+"Lyrics Snippets": "Feel the fire, feel my love inside you it's so right
+There's the sound and the smell of love in my mind",
+"Lyric Snippet Synced": "And we'll make love forever",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/54155474/sex-im-a?co=GB&referrer=shortcuts&offsetInMilliseconds=237068&timeSkew=-0.0023018718&trackLength=313759&startDate=2024-05-08T00:25:43.700Z",
+"Apple Music URL": "https://music.apple.com/gb/album/sex-im-a/201448196?i=201448201&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Berlin - Sex (I'm A)",
+},
+{
+"TimeStamp": "8 May 2024 at 01:27",
+"Title": "Dawn to Dust",
+"Artist": "Shy Child",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/221858416/dawn-to-dust?co=GB&referrer=shortcuts&offsetInMilliseconds=86169&timeSkew=-0.022543907&trackLength=266695&startDate=2024-05-08T00:27:47.171Z",
+"Apple Music URL": "",
+"Name": "Shy Child - Dawn to Dust",
+},
+{
+"TimeStamp": "8 May 2024 at 01:29",
+"Title": "Indian",
+"Artist": "Sleeping At Last",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/113545177/indian?co=GB&referrer=shortcuts&offsetInMilliseconds=172477&timeSkew=-0.001408875&trackLength=235624&startDate=2024-05-08T00:29:54.781Z",
+"Apple Music URL": "https://music.apple.com/gb/album/indian/860628890?i=860629064&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Sleeping At Last - Indian",
+},
+{
+"TimeStamp": "8 May 2024 at 01:32",
+"Title": "Lady (You Bring Me Up)",
+"Artist": "The Commodores",
+"is_Explicit": "No",
+"Lyrics Snippets": "Lady, you bring me up when I'm down
+And maybe you're gonna change my life around
+You came to me when I was lonely and no one cared",
+"Lyric Snippet Synced": "I saw your face and somethin' told me you were the one
+You smiled at me and now I see my life's begun",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/lady-you-bring-me-up/1494535258",
+"Shazem URL": "https://www.shazam.com/track/290234/lady-you-bring-me-up?co=GB&referrer=shortcuts&offsetInMilliseconds=58808&timeSkew=4.0960312E-4&trackLength=289360&startDate=2024-05-08T00:31:58.459Z",
+"Apple Music URL": "https://music.apple.com/gb/album/lady-you-bring-me-up/1443092235?i=1443092246&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "The Commodores - Lady (You Bring Me Up)",
+},
+{
+"TimeStamp": "8 May 2024 at 01:34",
+"Title": "Lady (You Bring Me Up)",
+"Artist": "The Commodores",
+"is_Explicit": "No",
+"Lyrics Snippets": "Lady, you bring me up when I'm down
+And maybe you're gonna change my life around
+You came to me when I was lonely and no one cared",
+"Lyric Snippet Synced": "And maybe (Maybe), you're gonna change my life around
+Whoa
+Lady, you bring me up when I'm down
+Up when I'm down",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/lady-you-bring-me-up/1494535258",
+"Shazem URL": "https://www.shazam.com/track/290234/lady-you-bring-me-up?co=GB&referrer=shortcuts&offsetInMilliseconds=166830&timeSkew=0.003122449&trackLength=240280&startDate=2024-05-08T00:34:02.112Z",
+"Apple Music URL": "https://music.apple.com/gb/album/lady-you-bring-me-up/1443092235?i=1443092246&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "The Commodores - Lady (You Bring Me Up)",
+},
+{
+"TimeStamp": "8 May 2024 at 01:38",
+"Title": "And I Fell Back Alone",
+"Artist": "World Party",
+"is_Explicit": "No",
+"Lyrics Snippets": "If we walk through each other
+As we leave the room
+You don't have to tell me that it's over
+Whoever you were then
+I never really knew",
+"Lyric Snippet Synced": "If we walk through each other
+As we leave the room
+You don't have to tell me that it's over
+Whoever you were then
+I never really knew",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/316909/and-i-fell-back-alone?co=GB&referrer=shortcuts&offsetInMilliseconds=112846&timeSkew=-1.0550022E-4&trackLength=237413&startDate=2024-05-08T00:38:48.367Z",
+"Apple Music URL": "https://music.apple.com/gb/album/and-i-fell-back-alone/977887401?i=977887410&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "World Party - And I Fell Back Alone",
+},
+{
+"TimeStamp": "8 May 2024 at 01:40",
+"Title": "After All (feat. Bryan Adams)",
+"Artist": "Michael Bublé",
+"is_Explicit": "No",
+"Lyrics Snippets": "Way back when we started
+There was a part of me that knew
+One day there'd be heartache
+And I would lose myself to you
+And I walked all night",
+"Lyric Snippet Synced": "Way back when we started
+There was a part of me that knew
+One day there'd be heartache
+And I would lose myself to you
+And I walked all night",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/86896300/after-all-feat-bryan-adams?co=GB&referrer=shortcuts&offsetInMilliseconds=19&timeSkew=-0.0014952421&trackLength=217480&startDate=2024-05-08T00:40:53.994Z",
+"Apple Music URL": "https://music.apple.com/gb/album/after-all-feat-bryan-adams/605526675?i=605526685&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Michael Bublé - After All (feat. Bryan Adams)",
+},
+{
+"TimeStamp": "8 May 2024 at 01:43",
+"Title": "After All (feat. Bryan Adams)",
+"Artist": "Michael Bublé",
+"is_Explicit": "No",
+"Lyrics Snippets": "Way back when we started
+There was a part of me that knew
+One day there'd be heartache
+And I would lose myself to you
+And I walked all night",
+"Lyric Snippet Synced": "And I'll catch you when you fall
+After all
+I was lost, alright
+Lost in the sleepless, empty night
+Dreamin' of you",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/86896300/after-all-feat-bryan-adams?co=GB&referrer=shortcuts&offsetInMilliseconds=123742&timeSkew=-1.6838312E-4&trackLength=217480&startDate=2024-05-08T00:42:57.733Z",
+"Apple Music URL": "https://music.apple.com/gb/album/after-all-feat-bryan-adams/605526675?i=605526685&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Michael Bublé - After All (feat. Bryan Adams)",
+},
+{
+"TimeStamp": "8 May 2024 at 01:45",
+"Title": "Private Eyes",
+"Artist": "Sleeping At Last",
+"is_Explicit": "No",
+"Lyrics Snippets": "Oh-oh oh-oh, oh-oh oh-oh
+Oh-oh oh-oh, oh-oh oh-oh
+Oh-oh oh-oh, oh-oh oh-oh
+Oh-oh oh-oh, oh-oh oh-oh
+I see you, you see me",
+"Lyric Snippet Synced": "Oh-oh oh-oh, oh-oh oh-oh
+Oh-oh oh-oh, oh-oh oh-oh
+I see you, you see me
+Watch you blurring the lines when you're making a scene",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/110820212/private-eyes?co=GB&referrer=shortcuts&offsetInMilliseconds=28455&timeSkew=0.005813718&trackLength=206426&startDate=2024-05-08T00:45:01.187Z",
+"Apple Music URL": "https://music.apple.com/gb/album/private-eyes/875863303?i=875863314&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Sleeping At Last - Private Eyes",
+},
+{
+"TimeStamp": "8 May 2024 at 01:47",
+"Title": "Private Eyes",
+"Artist": "Sleeping At Last",
+"is_Explicit": "No",
+"Lyrics Snippets": "Oh-oh oh-oh, oh-oh oh-oh
+Oh-oh oh-oh, oh-oh oh-oh
+Oh-oh oh-oh, oh-oh oh-oh
+Oh-oh oh-oh, oh-oh oh-oh
+I see you, you see me",
+"Lyric Snippet Synced": "Oh-oh oh-oh, oh-oh oh-oh
+Oh-oh oh-oh, oh-oh oh-oh
+Private eyes, they're watching you
+They see your every move
+Private eyes, they're watching you",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/110820212/private-eyes?co=GB&referrer=shortcuts&offsetInMilliseconds=152176&timeSkew=0.0016081333&trackLength=206426&startDate=2024-05-08T00:47:04.911Z",
+"Apple Music URL": "https://music.apple.com/gb/album/private-eyes/875863303?i=875863314&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Sleeping At Last - Private Eyes",
+},
+{
+"TimeStamp": "8 May 2024 at 01:49",
+"Title": "New York City Boy",
+"Artist": "Pet Shop Boys",
+"is_Explicit": "No",
+"Lyrics Snippets": "New York City Boy
+You'll never have a bored day
+'Cause you're a New York City Boy
+Where Seventh Avenue meets Broadway",
+"Lyric Snippet Synced": "New York City Boy
+You'll never have a bored day
+'Cause you're a New York City Boy
+Where Seventh Avenue meets Broadway",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/561004/new-york-city-boy?co=GB&referrer=shortcuts&offsetInMilliseconds=67725&timeSkew=0.0018210411&trackLength=315466&startDate=2024-05-08T00:49:08.355Z",
+"Apple Music URL": "https://music.apple.com/gb/album/new-york-city-boy/693126602?i=693126606&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Pet Shop Boys - New York City Boy",
+},
+{
+"TimeStamp": "8 May 2024 at 01:51",
+"Title": "New York City Boy",
+"Artist": "Pet Shop Boys",
+"is_Explicit": "No",
+"Lyrics Snippets": "New York City Boy
+You'll never have a bored day
+'Cause you're a New York City Boy
+Where Seventh Avenue meets Broadway",
+"Lyric Snippet Synced": "New York City Boy
+You'll never have a bored day
+'Cause you're a New York City Boy
+Where Seventh Avenue meets Broadway",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/561004/new-york-city-boy?co=GB&referrer=shortcuts&offsetInMilliseconds=191452&timeSkew=-1.5985966E-4&trackLength=315466&startDate=2024-05-08T00:51:11.958Z",
+"Apple Music URL": "https://music.apple.com/gb/album/new-york-city-boy/693126602?i=693126606&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Pet Shop Boys - New York City Boy",
+},
+{
+"TimeStamp": "8 May 2024 at 01:55",
+"Title": "Stars",
+"Artist": "Axel Flóvent",
+"is_Explicit": "No",
+"Lyrics Snippets": "I stand up from all the cloudy wonders
+My hands down, I feel it all take control
+And I'm sorry if you don't believe I'm honest",
+"Lyric Snippet Synced": "And every time I
+I feel you're under
+I feel you under the stars
+I'm calling my home to see you under
+A new moon
+It feels like we've been here before",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/437110265/stars?co=GB&referrer=shortcuts&offsetInMilliseconds=83082&timeSkew=-3.796816E-5&trackLength=213813&startDate=2024-05-08T00:55:41.058Z",
+"Apple Music URL": "https://music.apple.com/gb/album/stars/1611913176?i=1611913202&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Axel Flóvent - Stars",
+},
+{
+"TimeStamp": "8 May 2024 at 03:04",
+"Title": "Take My Breath Away (Re-Recorded)",
+"Artist": "Berlin",
+"is_Explicit": "No",
+"Lyrics Snippets": "Watchin' every motion in my foolish, lover's game
+On this endless ocean, finally lovers know no shame",
+"Lyric Snippet Synced": "Take my breath away
+Watchin' every motion in this foolish, lover's game
+Haunted by the notion somewhere there's a love in flames",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/40395869/take-my-breath-away-re-recorded?co=GB&referrer=shortcuts&offsetInMilliseconds=169598&timeSkew=0.001352191&trackLength=257986&startDate=2024-05-08T02:04:01.362Z",
+"Apple Music URL": "https://music.apple.com/gb/album/take-my-breath-away-re-recorded/250167154?i=250167159&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Berlin - Take My Breath Away (Re-Recorded)",
+},
+{
+"TimeStamp": "8 May 2024 at 03:06",
+"Title": "Posh Girls",
+"Artist": "Scouting for Girls",
+"is_Explicit": "No",
+"Lyrics Snippets": "She passed, she's class
+Candy for the eye and a twinkle in her smile
+And she looks like butter wouldn't melt
+He's bewitched, her daddy's rich",
+"Lyric Snippet Synced": "I never thought I'd say this, but I think you're so
+Aw-aw-aw-aw-awfully nice, Is that alright?"
+She said, "Fine"",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/51980008/posh-girls?co=GB&referrer=shortcuts&offsetInMilliseconds=28854&timeSkew=0.00290668&trackLength=188533&startDate=2024-05-08T02:06:05.075Z",
+"Apple Music URL": "https://music.apple.com/gb/album/posh-girls/387153214?i=387153328&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Scouting for Girls - Posh Girls",
+},
+{
+"TimeStamp": "8 May 2024 at 03:08",
+"Title": "Posh Girls",
+"Artist": "Scouting for Girls",
+"is_Explicit": "No",
+"Lyrics Snippets": "She passed, she's class
+Candy for the eye and a twinkle in her smile
+And she looks like butter wouldn't melt
+He's bewitched, her daddy's rich",
+"Lyric Snippet Synced": "Posh girls have good manners, but they go like the clappers
+'Cause they never got to hang around with boys at school",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/51980008/posh-girls?co=GB&referrer=shortcuts&offsetInMilliseconds=152680&timeSkew=-9.794831E-4&trackLength=188533&startDate=2024-05-08T02:08:08.896Z",
+"Apple Music URL": "https://music.apple.com/gb/album/posh-girls/387153214?i=387153328&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Scouting for Girls - Posh Girls",
+},
+{
+"TimeStamp": "8 May 2024 at 03:10",
+"Title": "Kingston Town",
+"Artist": "UB40",
+"is_Explicit": "No",
+"Lyrics Snippets": "The night seems to fade
+But the moonlight lingers on
+There are wonders for everyone
+The stars shine so bright
+But they're fading after dawn",
+"Lyric Snippet Synced": "The night seems to fade
+But the moonlight lingers on
+There are wonders for everyone
+The stars shine so bright
+But they're fading after dawn",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/kingston-town-remastered-2009/719774458",
+"Shazem URL": "https://www.shazam.com/track/20149020/kingston-town?co=GB&referrer=shortcuts&offsetInMilliseconds=11688&timeSkew=0.003088832&trackLength=230826&startDate=2024-05-08T02:10:12.379Z",
+"Apple Music URL": "https://music.apple.com/gb/album/kingston-town/391986006?i=391986067&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "UB40 - Kingston Town",
+},
+{
+"TimeStamp": "8 May 2024 at 03:12",
+"Title": "Kingston Town",
+"Artist": "UB40",
+"is_Explicit": "No",
+"Lyrics Snippets": "The night seems to fade
+But the moonlight lingers on
+There are wonders for everyone
+The stars shine so bright
+But they're fading after dawn",
+"Lyric Snippet Synced": "The night seems to fade
+But the moonlight lingers on
+There are wonders for everyone
+The stars shine so bright
+But they're fading after dawn",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/kingston-town-remastered-2009/719774458",
+"Shazem URL": "https://www.shazam.com/track/20149020/kingston-town?co=GB&referrer=shortcuts&offsetInMilliseconds=135340&timeSkew=-0.001395464&trackLength=230826&startDate=2024-05-08T02:12:16.031Z",
+"Apple Music URL": "https://music.apple.com/gb/album/kingston-town/391986006?i=391986067&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "UB40 - Kingston Town",
+},
+{
+"TimeStamp": "8 May 2024 at 03:14",
+"Title": "Sugar Tooth",
+"Artist": "Merrick",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/57998356/sugar-tooth?co=GB&referrer=shortcuts&offsetInMilliseconds=25408&timeSkew=6.937981E-5&trackLength=200727&startDate=2024-05-08T02:14:19.531Z",
+"Apple Music URL": "https://music.apple.com/gb/album/sugar-tooth/4626746?i=4626726&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Merrick - Sugar Tooth",
+},
+{
+"TimeStamp": "8 May 2024 at 03:16",
+"Title": "Sugar Tooth",
+"Artist": "Merrick",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/57998356/sugar-tooth?co=GB&referrer=shortcuts&offsetInMilliseconds=158044&timeSkew=-1.2457371E-4&trackLength=200727&startDate=2024-05-08T02:16:32.171Z",
+"Apple Music URL": "https://music.apple.com/gb/album/sugar-tooth/4626746?i=4626726&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Merrick - Sugar Tooth",
+},
+{
+"TimeStamp": "8 May 2024 at 03:18",
+"Title": "Black Balloon",
+"Artist": "The Goo Goo Dolls",
+"is_Explicit": "No",
+"Lyrics Snippets": "Baby's black balloon makes her fly
+I almost fell into that hole in your life
+And you're not thinking about tomorrow
+'Cause you were the same as me",
+"Lyric Snippet Synced": "Coming down, the world turned over
+And angels fall without you there
+And I go on as you get colder
+Or are you someone's prayer?",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/20010935/black-balloon?co=GB&referrer=shortcuts&offsetInMilliseconds=88718&timeSkew=5.1164627E-4&trackLength=250066&startDate=2024-05-08T02:18:44.608Z",
+"Apple Music URL": "https://music.apple.com/gb/album/black-balloon/1109658139?i=1109658197&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "The Goo Goo Dolls - Black Balloon",
+},
+{
+"TimeStamp": "8 May 2024 at 03:20",
+"Title": "Black Balloon",
+"Artist": "The Goo Goo Dolls",
+"is_Explicit": "No",
+"Lyrics Snippets": "Baby's black balloon makes her fly
+I almost fell into that hole in your life
+And you're not thinking about tomorrow
+'Cause you were the same as me",
+"Lyric Snippet Synced": "And I'll go on, and I'll lead you home, and
+All because I'm
+All because I'm
+And I'll become
+What you became to me",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/20010935/black-balloon?co=GB&referrer=shortcuts&offsetInMilliseconds=212354&timeSkew=0.0015057325&trackLength=250066&startDate=2024-05-08T02:20:48.260Z",
+"Apple Music URL": "https://music.apple.com/gb/album/black-balloon/1109658139?i=1109658197&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "The Goo Goo Dolls - Black Balloon",
+},
+{
+"TimeStamp": "8 May 2024 at 03:22",
+"Title": "The Way You Do The Things You Do",
+"Artist": "UB40 featuring Ali, Astro & Mickey",
+"is_Explicit": "No",
+"Lyrics Snippets": "You got a smile so bright
+You know you could've been a candle
+I'm holding you so tight
+You know you could've been a handle",
+"Lyric Snippet Synced": "I like the way you do the things you do
+You make my life so rich
+You know you could've been some money
+And, baby, you're so sweet",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/233861/the-way-you-do-the-things-you-do?co=GB&referrer=shortcuts&offsetInMilliseconds=84736&timeSkew=0.0013709068&trackLength=183226&startDate=2024-05-08T02:22:51.734Z",
+"Apple Music URL": "https://music.apple.com/gb/album/the-way-you-do-the-things-you-do/1440865121?i=1440865506&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "UB40 featuring Ali, Astro & Mickey - The Way You Do The Things You Do",
+},
+{
+"TimeStamp": "8 May 2024 at 03:27",
+"Title": "This House Is Empty Now",
+"Artist": "Bill Frisell",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/2910382/this-house-is-empty-now?co=GB&referrer=shortcuts&offsetInMilliseconds=109884&timeSkew=0.0010644197&trackLength=308866&startDate=2024-05-08T02:27:25.204Z",
+"Apple Music URL": "https://music.apple.com/gb/album/this-house-is-empty-now/1452593929?i=1452593964&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Bill Frisell - This House Is Empty Now",
+},
+{
+"TimeStamp": "8 May 2024 at 03:29",
+"Title": "This House Is Empty Now",
+"Artist": "Bill Frisell",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/2910382/this-house-is-empty-now?co=GB&referrer=shortcuts&offsetInMilliseconds=233569&timeSkew=-0.0017232895&trackLength=308866&startDate=2024-05-08T02:29:28.862Z",
+"Apple Music URL": "https://music.apple.com/gb/album/this-house-is-empty-now/1452593929?i=1452593964&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Bill Frisell - This House Is Empty Now",
+},
+{
+"TimeStamp": "8 May 2024 at 03:31",
+"Title": "Every Breath You Take",
+"Artist": "The Police",
+"is_Explicit": "No",
+"Lyrics Snippets": "Every breath you take
+Every move you make
+Every bond you break
+Every step you take
+I'll be watching you
+Every single day
+Every word you say",
+"Lyric Snippet Synced": "Oh, can't you see?
+You belong to me
+How my poor heart aches
+With every step you take
+Every move you make
+Every vow you break
+Every smile you fake",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/266407/every-breath-you-take?co=GB&referrer=shortcuts&offsetInMilliseconds=49409&timeSkew=1.5735626E-4&trackLength=255503&startDate=2024-05-08T02:31:32.339Z",
+"Apple Music URL": "https://music.apple.com/gb/album/every-breath-you-take/1440804541?i=1440805336&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "The Police - Every Breath You Take",
+},
+{
+"TimeStamp": "8 May 2024 at 03:33",
+"Title": "Every Breath You Take",
+"Artist": "The Police",
+"is_Explicit": "No",
+"Lyrics Snippets": "Every breath you take
+Every move you make
+Every bond you break
+Every step you take
+I'll be watching you
+Every single day
+Every word you say",
+"Lyric Snippet Synced": "I'll be watching you
+I'll be watching you
+Every breath you take, every move you make
+Every bond you break, every step you take
+I'll be watching you",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/266407/every-breath-you-take?co=GB&referrer=shortcuts&offsetInMilliseconds=173089&timeSkew=9.191036E-5&trackLength=255503&startDate=2024-05-08T02:33:36.000Z",
+"Apple Music URL": "https://music.apple.com/gb/album/every-breath-you-take/1440804541?i=1440805336&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "The Police - Every Breath You Take",
+},
+{
+"TimeStamp": "8 May 2024 at 03:35",
+"Title": "This Will Be (An Everlasting Love)",
+"Artist": "Natalie Cole",
+"is_Explicit": "No",
+"Lyrics Snippets": "Ooh, oh-ha
+Ooh, oh-ha, yeah
+Hmm-hmm-hmm-hmm
+This will be an everlasting love
+This will be the one I've waited for",
+"Lyric Snippet Synced": "This will be the first time anyone has loved me, oh
+I'm so glad you found me in time
+And I'm so glad that you rectified my mind",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/390697/this-will-be-an-everlasting-love?co=GB&referrer=shortcuts&offsetInMilliseconds=40505&timeSkew=1.1277199E-4&trackLength=171960&startDate=2024-05-08T02:35:39.485Z",
+"Apple Music URL": "https://music.apple.com/gb/album/this-will-be-an-everlasting-love/715770738?i=715770841&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Natalie Cole - This Will Be (An Everlasting Love)",
+},
+{
+"TimeStamp": "8 May 2024 at 03:37",
+"Title": "Adventure of a Lifetime",
+"Artist": "Coldplay",
+"is_Explicit": "No",
+"Lyrics Snippets": "Turn your magic on
+Umi, she'd say
+Everything you want's a dream away
+We are legends, every day
+That's what she told me
+Turn your magic on",
+"Lyric Snippet Synced": "Turn your magic on
+Umi, she'd say
+Everything you want's a dream away
+We are legends, every day
+That's what she told me
+Turn your magic on",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/adventure-of-a-lifetime/1063763751",
+"Shazem URL": "https://www.shazam.com/track/295542579/adventure-of-a-lifetime?co=GB&referrer=shortcuts&offsetInMilliseconds=845&timeSkew=4.323721E-4&trackLength=222586&startDate=2024-05-08T02:37:52.053Z",
+"Apple Music URL": "https://music.apple.com/gb/album/adventure-of-a-lifetime/1053933969?i=1053934846&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Coldplay - Adventure of a Lifetime",
+},
+{
+"TimeStamp": "8 May 2024 at 03:39",
+"Title": "Adventure of a Lifetime",
+"Artist": "Coldplay",
+"is_Explicit": "No",
+"Lyrics Snippets": "Turn your magic on
+Umi, she'd say
+Everything you want's a dream away
+We are legends, every day
+That's what she told me
+Turn your magic on",
+"Lyric Snippet Synced": "I feel my heart underneath my skin
+Oh, I can feel my heart beating
+'Cause you make me feel
+Like I'm alive again
+Alive again
+Oh, you make me feel",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/adventure-of-a-lifetime/1063763751",
+"Shazem URL": "https://www.shazam.com/track/295542579/adventure-of-a-lifetime?co=GB&referrer=shortcuts&offsetInMilliseconds=124316&timeSkew=1.206398E-4&trackLength=263786&startDate=2024-05-08T02:39:55.686Z",
+"Apple Music URL": "https://music.apple.com/gb/album/adventure-of-a-lifetime/1053933969?i=1053934846&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Coldplay - Adventure of a Lifetime",
+},
+{
+"TimeStamp": "8 May 2024 at 03:42",
+"Title": "Adventure of a Lifetime",
+"Artist": "Coldplay",
+"is_Explicit": "No",
+"Lyrics Snippets": "Turn your magic on
+Umi, she'd say
+Everything you want's a dream away
+We are legends, every day
+That's what she told me
+Turn your magic on",
+"Lyric Snippet Synced": "This adventure, oh, then I
+If we've only got this life
+You'll get me through, oh
+And if we've only got this life
+In this adventure, oh, then I",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/adventure-of-a-lifetime/1063763751",
+"Shazem URL": "https://www.shazam.com/track/295542579/adventure-of-a-lifetime?co=GB&referrer=shortcuts&offsetInMilliseconds=205120&timeSkew=0.001087904&trackLength=222586&startDate=2024-05-08T02:41:59.147Z",
+"Apple Music URL": "https://music.apple.com/gb/album/adventure-of-a-lifetime/1053933969?i=1053934846&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Coldplay - Adventure of a Lifetime",
+},
+{
+"TimeStamp": "8 May 2024 at 03:44",
+"Title": "I Don't Want To Live Without You",
+"Artist": "Foreigner",
+"is_Explicit": "No",
+"Lyrics Snippets": "I find myself in a strange situation
+And I don't know how
+What seemed to be an infatuation
+Is so different now
+I can't get by if we're not together",
+"Lyric Snippet Synced": "Hopin' that you will promise to be mine
+And never go away
+I don't want to live without you
+I don't want to live without you",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/i-dont-want-to-live-without-you/1497026525",
+"Shazem URL": "https://www.shazam.com/track/11177292/i-dont-want-to-live-without-you?co=GB&referrer=shortcuts&offsetInMilliseconds=57880&timeSkew=-0.0011209846&trackLength=289173&startDate=2024-05-08T02:44:02.629Z",
+"Apple Music URL": "https://music.apple.com/gb/album/i-dont-want-to-live-without-you/1222635002?i=1222636703&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Foreigner - I Don't Want To Live Without You",
+},
+{
+"TimeStamp": "8 May 2024 at 03:46",
+"Title": "I Don't Want To Live Without You",
+"Artist": "Foreigner",
+"is_Explicit": "No",
+"Lyrics Snippets": "I find myself in a strange situation
+And I don't know how
+What seemed to be an infatuation
+Is so different now
+I can't get by if we're not together",
+"Lyric Snippet Synced": "Ooh, without your love",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/i-dont-want-to-live-without-you/1497026525",
+"Shazem URL": "https://www.shazam.com/track/11177292/i-dont-want-to-live-without-you?co=GB&referrer=shortcuts&offsetInMilliseconds=210194&timeSkew=-0.0038633347&trackLength=289173&startDate=2024-05-08T02:46:06.294Z",
+"Apple Music URL": "https://music.apple.com/gb/album/i-dont-want-to-live-without-you/1222635002?i=1222636703&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Foreigner - I Don't Want To Live Without You",
+},
+{
+"TimeStamp": "8 May 2024 at 03:48",
+"Title": "Ground Running",
+"Artist": "Will Young",
+"is_Explicit": "No",
+"Lyrics Snippets": "I've seen this place so many times
+We're savin' face to save a life
+And I'm sinkin' till I realize you're holdin' me up",
+"Lyric Snippet Synced": "We can hit the ground running
+Struggling to make it last
+I made a change, no lookin' back
+We were pulled out of the ocean
+But still swimmin' in doubt",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/460405820/ground-running?co=GB&referrer=shortcuts&offsetInMilliseconds=57548&timeSkew=0.0014163256&trackLength=201853&startDate=2024-05-08T02:48:09.747Z",
+"Apple Music URL": "https://music.apple.com/gb/album/ground-running/1455068136?i=1455068151&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Will Young - Ground Running",
+},
+{
+"TimeStamp": "8 May 2024 at 03:50",
+"Title": "Ground Running",
+"Artist": "Will Young",
+"is_Explicit": "No",
+"Lyrics Snippets": "I've seen this place so many times
+We're savin' face to save a life
+And I'm sinkin' till I realize you're holdin' me up",
+"Lyric Snippet Synced": "We can hit the ground running",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/460405820/ground-running?co=GB&referrer=shortcuts&offsetInMilliseconds=181166&timeSkew=0.0023608208&trackLength=201853&startDate=2024-05-08T02:50:13.371Z",
+"Apple Music URL": "https://music.apple.com/gb/album/ground-running/1455068136?i=1455068151&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Will Young - Ground Running",
+},
+{
+"TimeStamp": "8 May 2024 at 03:52",
+"Title": "You To Me Are Everything",
+"Artist": "The Real Thing",
+"is_Explicit": "No",
+"Lyrics Snippets": "I would take the stars out of the sky for you
+Stop the rain from falling if you asked me to
+I'd do anything for you, your wish is my command",
+"Lyric Snippet Synced": "Though you're close to me, we seem so far apart
+Maybe given time you'll have a change of heart
+If it takes forever, girl, then I'm prepared to wait",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/333223/you-to-me-are-everything?co=GB&referrer=shortcuts&offsetInMilliseconds=103468&timeSkew=-0.0034431815&trackLength=200458&startDate=2024-05-08T02:52:16.851Z",
+"Apple Music URL": "https://music.apple.com/gb/album/you-to-me-are-everything/1052486801?i=1052486809&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "The Real Thing - You To Me Are Everything",
+},
+{
+"TimeStamp": "8 May 2024 at 03:54",
+"Title": "Wake Up in the Sky",
+"Artist": "Gucci Mane, Bruno Mars & Kodak Black",
+"is_Explicit": "Yes",
+"Lyrics Snippets": "Fly
+Fly
+Fly
+It's Gucci, huh?
+Fly
+Woo
+I drink till I'm drunk
+Yeah
+Smoke till I'm high
+Yeah
+Castle on the hill
+Well, damn
+Wake up in the sky",
+"Lyric Snippet Synced": "Castle on the hill
+Well, damn
+Wake up in the sky
+You can't tell me I ain't fly
+You can't tell me I ain't fly
+I know I'm super fly
+I know",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/wake-up-in-the-sky/1441528267",
+"Shazem URL": "https://www.shazam.com/track/439575216/wake-up-in-the-sky?co=GB&referrer=shortcuts&offsetInMilliseconds=16670&timeSkew=-1.2123585E-4&trackLength=204664&startDate=2024-05-08T02:54:20.479Z",
+"Apple Music URL": "https://music.apple.com/gb/album/wake-up-in-the-sky/1445409352?i=1445409363&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Gucci Mane, Bruno Mars & Kodak Black - Wake Up in the Sky",
+},
+{
+"TimeStamp": "8 May 2024 at 03:56",
+"Title": "Wake Up in the Sky",
+"Artist": "Gucci Mane, Bruno Mars & Kodak Black",
+"is_Explicit": "Yes",
+"Lyrics Snippets": "Fly
+Fly
+Fly
+It's Gucci, huh?
+Fly
+Woo
+I drink till I'm drunk
+Yeah
+Smoke till I'm high
+Yeah
+Castle on the hill
+Well, damn
+Wake up in the sky",
+"Lyric Snippet Synced": "Like it's basketball, I drop 50 pointer on my wrist
+It's Lil' Kodak, take a pic
+I came home then dropped a hit
+All these diamonds got me sick",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/wake-up-in-the-sky/1441528267",
+"Shazem URL": "https://www.shazam.com/track/439575216/wake-up-in-the-sky?co=GB&referrer=shortcuts&offsetInMilliseconds=140253&timeSkew=8.9144707E-4&trackLength=187000&startDate=2024-05-08T02:56:24.130Z",
+"Apple Music URL": "https://music.apple.com/gb/album/wake-up-in-the-sky/1445409352?i=1445409363&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Gucci Mane, Bruno Mars & Kodak Black - Wake Up in the Sky",
+},
+{
+"TimeStamp": "8 May 2024 at 03:58",
+"Title": "Stay (feat. Chaka Khan)",
+"Artist": "Rufus",
+"is_Explicit": "No",
+"Lyrics Snippets": "Please, stay with me now
+Don't you let me go
+I'll make it somehow
+I got to let you know
+That I'll make it somehow, someway
+Though I wait on the day",
+"Lyric Snippet Synced": "Please, stay with me now
+Don't you let me go
+I'll make it somehow
+I got to let you know
+That I'll make it somehow, someway
+Though I wait on the day",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/665212/stay-feat-chaka-khan?co=GB&referrer=shortcuts&offsetInMilliseconds=14938&timeSkew=-9.786487E-4&trackLength=347036&startDate=2024-05-08T02:58:27.659Z",
+"Apple Music URL": "https://music.apple.com/gb/album/stay-feat-chaka-khan/1443998489?i=1443998498&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Rufus - Stay (feat. Chaka Khan)",
+},
+{
+"TimeStamp": "8 May 2024 at 04:00",
+"Title": "Stay (feat. Chaka Khan)",
+"Artist": "Rufus",
+"is_Explicit": "No",
+"Lyrics Snippets": "Please, stay with me now
+Don't you let me go
+I'll make it somehow
+I got to let you know
+That I'll make it somehow, someway
+Though I wait on the day",
+"Lyric Snippet Synced": "And the green grass grows from the dirt
+Yeah, that's a fact of life, alright
+The good lord stands behind every step
+We are blind to fate
+That's life",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/665212/stay-feat-chaka-khan?co=GB&referrer=shortcuts&offsetInMilliseconds=138805&timeSkew=-4.1252375E-4&trackLength=347036&startDate=2024-05-08T03:00:31.337Z",
+"Apple Music URL": "https://music.apple.com/gb/album/stay-feat-chaka-khan/1443998489?i=1443998498&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Rufus - Stay (feat. Chaka Khan)",
+},
+{
+"TimeStamp": "8 May 2024 at 04:02",
+"Title": "Stay (feat. Chaka Khan)",
+"Artist": "Rufus",
+"is_Explicit": "No",
+"Lyrics Snippets": "Please, stay with me now
+Don't you let me go
+I'll make it somehow
+I got to let you know
+That I'll make it somehow, someway
+Though I wait on the day",
+"Lyric Snippet Synced": "Stay
+Right here
+Stay
+Stay
+Stay
+Stay
+Stay
+Stay
+Stay
+I want you to stay right here, we can stay here
+Stay
+Together, together, yeah
+Stay",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/665212/stay-feat-chaka-khan?co=GB&referrer=shortcuts&offsetInMilliseconds=262379&timeSkew=0.0030308962&trackLength=347036&startDate=2024-05-08T03:02:34.801Z",
+"Apple Music URL": "https://music.apple.com/gb/album/stay-feat-chaka-khan/1443998489?i=1443998498&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Rufus - Stay (feat. Chaka Khan)",
+},
+{
+"TimeStamp": "8 May 2024 at 04:04",
+"Title": "Devoted to You",
+"Artist": "Carly Simon & James Taylor",
+"is_Explicit": "No",
+"Lyrics Snippets": "Darlin', you can count on me
+Till the sun dries up the sea
+Until then I'll always be devoted to you
+I'll be yours till endless time",
+"Lyric Snippet Synced": "Guess by now you know that I'm devoted to you
+I'll never hurt you, I'll never lie
+I'll never be untrue
+I'll never give you reason to cry",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/520407/devoted-to-you?co=GB&referrer=shortcuts&offsetInMilliseconds=42288&timeSkew=2.9408932E-4&trackLength=149001&startDate=2024-05-08T03:04:38.275Z",
+"Apple Music URL": "https://music.apple.com/gb/album/devoted-to-you/1057325293?i=1057325297&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Carly Simon & James Taylor - Devoted to You",
+},
+{
+"TimeStamp": "8 May 2024 at 04:06",
+"Title": "Nice 'n Easy",
+"Artist": "Michael Bublé",
+"is_Explicit": "No",
+"Lyrics Snippets": "Let's take it nice 'n easy
+It's gonna be so easy
+For us to fall in love
+Hey baby, what's your hurry?
+Relax and don't you worry",
+"Lyric Snippet Synced": "It's gonna be so easy
+For us to fall in love
+Hey baby, what's your hurry?
+Relax and don't you worry
+We're gonna fall in love",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/40950652/nice-n-easy?co=GB&referrer=shortcuts&offsetInMilliseconds=15083&timeSkew=1.5854836E-4&trackLength=182813&startDate=2024-05-08T03:06:41.948Z",
+"Apple Music URL": "https://music.apple.com/gb/album/nice-n-easy/6337702?i=6337517&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Michael Bublé - Nice 'n Easy",
+},
+{
+"TimeStamp": "8 May 2024 at 04:08",
+"Title": "Nice 'n Easy",
+"Artist": "Michael Bublé",
+"is_Explicit": "No",
+"Lyrics Snippets": "Let's take it nice 'n easy
+It's gonna be so easy
+For us to fall in love
+Hey baby, what's your hurry?
+Relax and don't you worry",
+"Lyric Snippet Synced": "To simply hold your horses
+To rush would be a crime
+'Cause nice 'n easy does it
+Nice 'n easy does it
+Nice 'n easy does it every time",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/40950652/nice-n-easy?co=GB&referrer=shortcuts&offsetInMilliseconds=138864&timeSkew=-2.6774406E-4&trackLength=182813&startDate=2024-05-08T03:08:45.751Z",
+"Apple Music URL": "https://music.apple.com/gb/album/nice-n-easy/6337702?i=6337517&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Michael Bublé - Nice 'n Easy",
+},
+{
+"TimeStamp": "8 May 2024 at 04:13",
+"Title": "Sweet Caroline",
+"Artist": "Neil Diamond",
+"is_Explicit": "No",
+"Lyrics Snippets": "Where it began
+I can't begin to know when
+But then I know it's growing strong
+Was in the spring
+And spring became the summer",
+"Lyric Snippet Synced": "Hurting runs off my shoulders
+How can I hurt when holding you?
+One
+Touching one
+Reaching out
+Touching me
+Touching you
+Sweet Caroline",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/244298/sweet-caroline?co=GB&referrer=shortcuts&offsetInMilliseconds=109610&timeSkew=-0.011142373&trackLength=201760&startDate=2024-05-08T03:13:14.711Z",
+"Apple Music URL": "https://music.apple.com/gb/album/sweet-caroline/1422898547?i=1422898880&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Neil Diamond - Sweet Caroline",
+},
+{
+"TimeStamp": "8 May 2024 at 04:15",
+"Title": "Hunter",
+"Artist": "Dido",
+"is_Explicit": "No",
+"Lyrics Snippets": "With on light on in one room
+I know you're up when I get home
+With one small step upon the stair
+I know your look when I get there",
+"Lyric Snippet Synced": "For this queen you think you own
+Wants to be a hunter again
+I want to see the world alone again
+To take a chance on life again
+So let me go",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/hunter-top-of-the-pops-21-09-2001/1610021141",
+"Shazem URL": "https://www.shazam.com/track/11158119/hunter?co=GB&referrer=shortcuts&offsetInMilliseconds=30694&timeSkew=-0.0011708736&trackLength=237693&startDate=2024-05-08T03:15:18.388Z",
+"Apple Music URL": "https://music.apple.com/gb/album/hunter/731939412?i=731939557&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Dido - Hunter",
+},
+{
+"TimeStamp": "8 May 2024 at 04:17",
+"Title": "Dancing On My Own",
+"Artist": "Calum Scott",
+"is_Explicit": "No",
+"Lyrics Snippets": "Somebody said you got a new friend
+Does she love you better than I can?
+And there's a big black sky over my town",
+"Lyric Snippet Synced": "I'm in the corner, watching you kiss her, oh, oh, oh
+And I'm right over here, why can't you see me? Oh, oh, oh",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/dancing-on-my-own/1445004241",
+"Shazem URL": "https://www.shazam.com/track/322333351/dancing-on-my-own?co=GB&referrer=shortcuts&offsetInMilliseconds=58448&timeSkew=-0.0038321018&trackLength=212062&startDate=2024-05-08T03:17:22.086Z",
+"Apple Music URL": "https://music.apple.com/gb/album/dancing-on-my-own/1428794709?i=1428795504&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Calum Scott - Dancing On My Own",
+},
+{
+"TimeStamp": "8 May 2024 at 04:19",
+"Title": "Dancing On My Own",
+"Artist": "Calum Scott",
+"is_Explicit": "No",
+"Lyrics Snippets": "Somebody said you got a new friend
+Does she love you better than I can?
+And there's a big black sky over my town",
+"Lyric Snippet Synced": "And oh, no
+So far away but still so near
+The lights come on, the music dies
+But you don't see me standing here
+I just came to say goodbye",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/dancing-on-my-own/1445004241",
+"Shazem URL": "https://www.shazam.com/track/322333351/dancing-on-my-own?co=GB&referrer=shortcuts&offsetInMilliseconds=157548&timeSkew=-8.4751844E-4&trackLength=212062&startDate=2024-05-08T03:19:25.727Z",
+"Apple Music URL": "https://music.apple.com/gb/album/dancing-on-my-own/1428794709?i=1428795504&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Calum Scott - Dancing On My Own",
+},
+{
+"TimeStamp": "8 May 2024 at 04:21",
+"Title": "Arctic",
+"Artist": "Sleeping At Last",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/113545174/arctic?co=GB&referrer=shortcuts&offsetInMilliseconds=65025&timeSkew=-0.0047459006&trackLength=292415&startDate=2024-05-08T03:21:29.181Z",
+"Apple Music URL": "https://music.apple.com/gb/album/arctic/860628890?i=860629066&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Sleeping At Last - Arctic",
+},
+{
+"TimeStamp": "8 May 2024 at 04:23",
+"Title": "Arctic",
+"Artist": "Sleeping At Last",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/113545174/arctic?co=GB&referrer=shortcuts&offsetInMilliseconds=188402&timeSkew=-4.979372E-4&trackLength=292415&startDate=2024-05-08T03:23:32.672Z",
+"Apple Music URL": "https://music.apple.com/gb/album/arctic/860628890?i=860629066&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Sleeping At Last - Arctic",
+},
+{
+"TimeStamp": "8 May 2024 at 04:26",
+"Title": "Gimme Three Steps",
+"Artist": "Lynyrd Skynyrd",
+"is_Explicit": "No",
+"Lyrics Snippets": "I was cuttin' a rug down at a place called The Jug
+With a girl named Linda Lu
+When in walked a man with a gun in his hand",
+"Lyric Snippet Synced": "I was cuttin' a rug down at a place called The Jug
+With a girl named Linda Lu
+When in walked a man with a gun in his hand",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/289364/gimme-three-steps?co=GB&referrer=shortcuts&offsetInMilliseconds=121&timeSkew=-0.0011402369&trackLength=270360&startDate=2024-05-08T03:26:11.133Z",
+"Apple Music URL": "https://music.apple.com/gb/album/gimme-three-steps/1440838012?i=1440838310&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Lynyrd Skynyrd - Gimme Three Steps",
+},
+{
+"TimeStamp": "8 May 2024 at 04:28",
+"Title": "Gimme Three Steps",
+"Artist": "Lynyrd Skynyrd",
+"is_Explicit": "No",
+"Lyrics Snippets": "I was cuttin' a rug down at a place called The Jug
+With a girl named Linda Lu
+When in walked a man with a gun in his hand",
+"Lyric Snippet Synced": "Gimme three steps towards the door?
+Gimme three steps, gimme three steps, mister
+And you'll never see me no more
+For sure",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/289364/gimme-three-steps?co=GB&referrer=shortcuts&offsetInMilliseconds=129536&timeSkew=0.0012323856&trackLength=270360&startDate=2024-05-08T03:28:20.717Z",
+"Apple Music URL": "https://music.apple.com/gb/album/gimme-three-steps/1440838012?i=1440838310&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Lynyrd Skynyrd - Gimme Three Steps",
+},
+{
+"TimeStamp": "8 May 2024 at 04:30",
+"Title": "Gimme Three Steps",
+"Artist": "Lynyrd Skynyrd",
+"is_Explicit": "No",
+"Lyrics Snippets": "I was cuttin' a rug down at a place called The Jug
+With a girl named Linda Lu
+When in walked a man with a gun in his hand",
+"Lyric Snippet Synced": "Show me the back door",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/289364/gimme-three-steps?co=GB&referrer=shortcuts&offsetInMilliseconds=252830&timeSkew=0.0028738976&trackLength=270360&startDate=2024-05-08T03:30:24.167Z",
+"Apple Music URL": "https://music.apple.com/gb/album/gimme-three-steps/1440838012?i=1440838310&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Lynyrd Skynyrd - Gimme Three Steps",
+},
+{
+"TimeStamp": "8 May 2024 at 04:32",
+"Title": "Akher Ayam El Saifeye",
+"Artist": "Fairouz",
+"is_Explicit": "No",
+"Lyrics Snippets": "آخر أيام الصيفيي والصبيي شويي شويي
+وصلت عساحة ميس الريم
+وانقطعت فيها العربيي
+آخر أيام الصيفيي والصبيي شويي شويي
+وصلت عساحة ميس الريم",
+"Lyric Snippet Synced": "وصلت عساحة ميس الريم
+وانقطعت فيها العربيي
+تأخرنا وشو طالع بالإيد حبيبي وسبقتنا المواعيد
+تأخرنا وشو طالع بالإيد حبيبي وسبقتنا المواعيد",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/52141977/akher-ayam-el-saifeye?co=GB&referrer=shortcuts&offsetInMilliseconds=106547&timeSkew=0.013280034&trackLength=176773&startDate=2024-05-08T03:32:27.637Z",
+"Apple Music URL": "https://music.apple.com/gb/album/akher-ayam-el-saifeye/1438214608?i=1438214784&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Fairouz - Akher Ayam El Saifeye",
+},
+{
+"TimeStamp": "8 May 2024 at 04:34",
+"Title": "Different Seasons",
+"Artist": "Johnny Hates Jazz",
+"is_Explicit": "No",
+"Lyrics Snippets": "There is a face deep in your mind
+One that your heart won't leave behind
+Memories are cold, empty of laughs
+And all that remain are photographs",
+"Lyric Snippet Synced": "When she's gone there are no reasons
+Nature's cruel, it's just different seasons
+Goin' on and on and on and on and on and on and on",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/447098/different-seasons?co=GB&referrer=shortcuts&offsetInMilliseconds=49700&timeSkew=0.0010792017&trackLength=212040&startDate=2024-05-08T03:34:31.299Z",
+"Apple Music URL": "https://music.apple.com/gb/album/different-seasons/714893506?i=714893544&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Johnny Hates Jazz - Different Seasons",
+},
+{
+"TimeStamp": "8 May 2024 at 04:36",
+"Title": "Different Seasons",
+"Artist": "Johnny Hates Jazz",
+"is_Explicit": "No",
+"Lyrics Snippets": "There is a face deep in your mind
+One that your heart won't leave behind
+Memories are cold, empty of laughs
+And all that remain are photographs",
+"Lyric Snippet Synced": "Say it's only different seasons, yeah, yeah
+There is a face deep in your mind
+One that your heart won't leave behind",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/447098/different-seasons?co=GB&referrer=shortcuts&offsetInMilliseconds=173425&timeSkew=7.2193146E-4&trackLength=212040&startDate=2024-05-08T03:36:34.993Z",
+"Apple Music URL": "https://music.apple.com/gb/album/different-seasons/714893506?i=714893544&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Johnny Hates Jazz - Different Seasons",
+},
+{
+"TimeStamp": "8 May 2024 at 04:38",
+"Title": "No Bravery",
+"Artist": "James Blunt",
+"is_Explicit": "No",
+"Lyrics Snippets": "There are children standing here
+Arms outstretched into the sky
+Tears drying on their face
+He has been here
+Brothers lie in shallow graves",
+"Lyric Snippet Synced": "The smell of death is in the air
+A woman weeping in despair says
+He has been here
+Tracer lighting up the sky
+It's another family's turn to die",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/40639436/no-bravery?co=GB&referrer=shortcuts&offsetInMilliseconds=83624&timeSkew=-1.6242266E-4&trackLength=239680&startDate=2024-05-08T03:38:38.480Z",
+"Apple Music URL": "https://music.apple.com/gb/album/no-bravery/714602877?i=714604047&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "James Blunt - No Bravery",
+},
+{
+"TimeStamp": "8 May 2024 at 04:40",
+"Title": "No Bravery",
+"Artist": "James Blunt",
+"is_Explicit": "No",
+"Lyrics Snippets": "There are children standing here
+Arms outstretched into the sky
+Tears drying on their face
+He has been here
+Brothers lie in shallow graves",
+"Lyric Snippet Synced": "Only sadness
+And I see no bravery
+No bravery in your eyes anymore
+Only sadness
+Only sadness",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/40639436/no-bravery?co=GB&referrer=shortcuts&offsetInMilliseconds=207251&timeSkew=-0.0026833415&trackLength=239680&startDate=2024-05-08T03:40:42.117Z",
+"Apple Music URL": "https://music.apple.com/gb/album/no-bravery/714602877?i=714604047&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "James Blunt - No Bravery",
+},
+{
+"TimeStamp": "8 May 2024 at 04:42",
+"Title": "Call Me",
+"Artist": "Blondie",
+"is_Explicit": "No",
+"Lyrics Snippets": "Color me your color, baby
+Color me your car
+Color me your color, darling
+I know who you are
+Come up off your color chart",
+"Lyric Snippet Synced": "Color me your car
+Color me your color, darling
+I know who you are
+Come up off your color chart
+I know where you're coming from",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/call-me/719686775",
+"Shazem URL": "https://www.shazam.com/track/83647639/call-me?co=GB&referrer=shortcuts&offsetInMilliseconds=20260&timeSkew=-0.0030055046&trackLength=200040&startDate=2024-05-08T03:42:45.610Z",
+"Apple Music URL": "https://music.apple.com/gb/album/call-me/716231242?i=716231650&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Blondie - Call Me",
+},
+{
+"TimeStamp": "8 May 2024 at 04:44",
+"Title": "Call Me",
+"Artist": "Blondie",
+"is_Explicit": "No",
+"Lyrics Snippets": "Color me your color, baby
+Color me your car
+Color me your color, darling
+I know who you are
+Come up off your color chart",
+"Lyric Snippet Synced": "Anytime, any place, anywhere, any day, any way
+Call me, my love (Call me)
+Call me, call me any, anytime
+Call me, for a ride (Call me)",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/call-me/719686775",
+"Shazem URL": "https://www.shazam.com/track/83647639/call-me?co=GB&referrer=shortcuts&offsetInMilliseconds=143638&timeSkew=8.776188E-4&trackLength=200040&startDate=2024-05-08T03:44:49.277Z",
+"Apple Music URL": "https://music.apple.com/gb/album/call-me/716231242?i=716231650&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Blondie - Call Me",
+},
+{
+"TimeStamp": "8 May 2024 at 04:46",
+"Title": "Lonesome Town",
+"Artist": "Ricky Nelson",
+"is_Explicit": "No",
+"Lyrics Snippets": "There's a place where lovers go
+To cry their troubles away
+And they call it Lonesome Town
+Where the broken hearts stay
+You can buy a dream or two",
+"Lyric Snippet Synced": "There's a place where lovers go
+To cry their troubles away
+And they call it Lonesome Town
+Where the broken hearts stay
+You can buy a dream or two",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/353194/lonesome-town?co=GB&referrer=shortcuts&offsetInMilliseconds=100322&timeSkew=-4.1282177E-4&trackLength=137026&startDate=2024-05-08T03:46:52.728Z",
+"Apple Music URL": "https://music.apple.com/gb/album/lonesome-town/1495874766?i=1495874792&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Ricky Nelson - Lonesome Town",
+},
+{
+"TimeStamp": "8 May 2024 at 04:48",
+"Title": "Real Life",
+"Artist": "Emeli Sandé",
+"is_Explicit": "No",
+"Lyrics Snippets": "If a soldier had a gun to my head
+Would you fight or would you just play dead?
+If we ain't got no food, ain't got no bread",
+"Lyric Snippet Synced": "Would you go and work, make sure the kids get fed?
+See, I know now what's real nice
+But what about real life?",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/464741891/real-life?co=GB&referrer=shortcuts&offsetInMilliseconds=39238&timeSkew=0.0033420324&trackLength=238346&startDate=2024-05-08T03:48:56.391Z",
+"Apple Music URL": "https://music.apple.com/gb/album/real-life/1459085844?i=1459086583&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Emeli Sandé - Real Life",
+},
+{
+"TimeStamp": "8 May 2024 at 04:51",
+"Title": "Real Life",
+"Artist": "Emeli Sandé",
+"is_Explicit": "No",
+"Lyrics Snippets": "If a soldier had a gun to my head
+Would you fight or would you just play dead?
+If we ain't got no food, ain't got no bread",
+"Lyric Snippet Synced": "Oh, but what about real, real life?
+And what about real life?
+Oh, real, real life
+Yes, I know the flower's in bloom, sweet honeymoon paradise",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/464741891/real-life?co=GB&referrer=shortcuts&offsetInMilliseconds=162932&timeSkew=0.003518939&trackLength=238346&startDate=2024-05-08T03:51:00.060Z",
+"Apple Music URL": "https://music.apple.com/gb/album/real-life/1459085844?i=1459086583&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Emeli Sandé - Real Life",
+},
+{
+"TimeStamp": "8 May 2024 at 04:53",
+"Title": "Welcome To the Pleasuredome",
+"Artist": "Frankie Goes to Hollywood",
+"is_Explicit": "No",
+"Lyrics Snippets": "The animals are winding me up
+The jungle call
+The jungle call
+In Xanadu did Kublai Khan
+A Pleasuredome erect
+Movin' on, keep movin' on, yeah",
+"Lyric Snippet Synced": "The animals are winding me up
+The jungle call
+The jungle call
+In Xanadu did Kublai Khan
+A Pleasuredome erect
+Movin' on, keep movin' on, yeah",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/welcome-to-the-pleasuredome/1364041456",
+"Shazem URL": "https://www.shazam.com/track/54417319/welcome-to-the-pleasuredome?co=GB&referrer=shortcuts&offsetInMilliseconds=46999&timeSkew=0.0027434826&trackLength=820640&startDate=2024-05-08T03:53:03.589Z",
+"Apple Music URL": "https://music.apple.com/gb/album/welcome-to-the-pleasuredome/1367992369?i=1367996649&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Frankie Goes to Hollywood - Welcome To the Pleasuredome",
+},
+{
+"TimeStamp": "8 May 2024 at 04:55",
+"Title": "Welcome To the Pleasuredome",
+"Artist": "Frankie Goes to Hollywood",
+"is_Explicit": "No",
+"Lyrics Snippets": "The animals are winding me up
+The jungle call
+The jungle call
+In Xanadu did Kublai Khan
+A Pleasuredome erect
+Movin' on, keep movin' on, yeah",
+"Lyric Snippet Synced": "The jungle call
+The jungle call
+In Xanadu did Kublai Khan
+A Pleasuredome erect
+Movin' on, keep movin' on, yeah
+Movin' at one million miles an hour",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/welcome-to-the-pleasuredome/1364041456",
+"Shazem URL": "https://www.shazam.com/track/54417319/welcome-to-the-pleasuredome?co=GB&referrer=shortcuts&offsetInMilliseconds=170740&timeSkew=1.7488003E-4&trackLength=820640&startDate=2024-05-08T03:55:07.314Z",
+"Apple Music URL": "https://music.apple.com/gb/album/welcome-to-the-pleasuredome/1367992369?i=1367996649&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Frankie Goes to Hollywood - Welcome To the Pleasuredome",
+},
+{
+"TimeStamp": "8 May 2024 at 04:57",
+"Title": "Welcome To the Pleasuredome",
+"Artist": "Frankie Goes to Hollywood",
+"is_Explicit": "No",
+"Lyrics Snippets": "The animals are winding me up
+The jungle call
+The jungle call
+In Xanadu did Kublai Khan
+A Pleasuredome erect
+Movin' on, keep movin' on, yeah",
+"Lyric Snippet Synced": "The animals are winding me up
+The jungle call
+The jungle call
+In Xanadu did Kublai Khan
+A Pleasuredome erect
+Movin' on, keep movin' on, yeah",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/welcome-to-the-pleasuredome/1364041456",
+"Shazem URL": "https://www.shazam.com/track/54417319/welcome-to-the-pleasuredome?co=GB&referrer=shortcuts&offsetInMilliseconds=153538&timeSkew=0.001128912&trackLength=205498&startDate=2024-05-08T03:57:10.828Z",
+"Apple Music URL": "https://music.apple.com/gb/album/welcome-to-the-pleasuredome/1367992369?i=1367996649&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Frankie Goes to Hollywood - Welcome To the Pleasuredome",
+},
+{
+"TimeStamp": "8 May 2024 at 04:59",
+"Title": "Welcome To the Pleasuredome",
+"Artist": "Frankie Goes to Hollywood",
+"is_Explicit": "No",
+"Lyrics Snippets": "The animals are winding me up
+The jungle call
+The jungle call
+In Xanadu did Kublai Khan
+A Pleasuredome erect
+Movin' on, keep movin' on, yeah",
+"Lyric Snippet Synced": "Welcome to the Pleasuredome
+War is war
+War is war
+War, war, war
+Keep moving on
+Gotta reach the top
+Don't stop
+Live love and light, oh my",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/welcome-to-the-pleasuredome/1364041456",
+"Shazem URL": "https://www.shazam.com/track/54417319/welcome-to-the-pleasuredome?co=GB&referrer=shortcuts&offsetInMilliseconds=417749&timeSkew=0.0036940575&trackLength=820640&startDate=2024-05-08T03:59:14.307Z",
+"Apple Music URL": "https://music.apple.com/gb/album/welcome-to-the-pleasuredome/1367992369?i=1367996649&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Frankie Goes to Hollywood - Welcome To the Pleasuredome",
+},
+{
+"TimeStamp": "8 May 2024 at 05:01",
+"Title": "Welcome To the Pleasuredome",
+"Artist": "Frankie Goes to Hollywood",
+"is_Explicit": "No",
+"Lyrics Snippets": "The animals are winding me up
+The jungle call
+The jungle call
+In Xanadu did Kublai Khan
+A Pleasuredome erect
+Movin' on, keep movin' on, yeah",
+"Lyric Snippet Synced": "War is war
+War is war
+War, war, war
+Keep moving on
+Gotta reach the top
+Don't stop
+Live love and light, oh my
+Keep moving on
+Oh, yeah",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/welcome-to-the-pleasuredome/1364041456",
+"Shazem URL": "https://www.shazam.com/track/54417319/welcome-to-the-pleasuredome?co=GB&referrer=shortcuts&offsetInMilliseconds=541262&timeSkew=0.0014576912&trackLength=820640&startDate=2024-05-08T04:01:17.832Z",
+"Apple Music URL": "https://music.apple.com/gb/album/welcome-to-the-pleasuredome/1367992369?i=1367996649&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Frankie Goes to Hollywood - Welcome To the Pleasuredome",
+},
+{
+"TimeStamp": "8 May 2024 at 05:03",
+"Title": "Welcome To the Pleasuredome",
+"Artist": "Frankie Goes to Hollywood",
+"is_Explicit": "No",
+"Lyrics Snippets": "The animals are winding me up
+The jungle call
+The jungle call
+In Xanadu did Kublai Khan
+A Pleasuredome erect
+Movin' on, keep movin' on, yeah",
+"Lyric Snippet Synced": "Shooting stars never stop
+Shooting stars never stop
+Shooting stars never stop
+There goes a supernova
+What a pushover
+Shooting stars never stop",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/welcome-to-the-pleasuredome/1364041456",
+"Shazem URL": "https://www.shazam.com/track/54417319/welcome-to-the-pleasuredome?co=GB&referrer=shortcuts&offsetInMilliseconds=664765&timeSkew=-2.9039383E-4&trackLength=820640&startDate=2024-05-08T04:03:21.352Z",
+"Apple Music URL": "https://music.apple.com/gb/album/welcome-to-the-pleasuredome/1367992369?i=1367996649&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Frankie Goes to Hollywood - Welcome To the Pleasuredome",
+},
+{
+"TimeStamp": "8 May 2024 at 05:05",
+"Title": "Welcome To the Pleasuredome",
+"Artist": "Frankie Goes to Hollywood",
+"is_Explicit": "No",
+"Lyrics Snippets": "The animals are winding me up
+The jungle call
+The jungle call
+In Xanadu did Kublai Khan
+A Pleasuredome erect
+Movin' on, keep movin' on, yeah",
+"Lyric Snippet Synced": "Ha ha ha
+The world is my oyster
+Ha ha ha
+The world is my oyster
+Ha ha ha ha ha ha ha ha ha ha ha
+Ha ha ha ha ha ha ha ha ha ha ha
+Welcome",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/welcome-to-the-pleasuredome/1364041456",
+"Shazem URL": "https://www.shazam.com/track/54417319/welcome-to-the-pleasuredome?co=GB&referrer=shortcuts&offsetInMilliseconds=788301&timeSkew=3.4987926E-4&trackLength=820640&startDate=2024-05-08T04:05:24.880Z",
+"Apple Music URL": "https://music.apple.com/gb/album/welcome-to-the-pleasuredome/1367992369?i=1367996649&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Frankie Goes to Hollywood - Welcome To the Pleasuredome",
+},
+{
+"TimeStamp": "8 May 2024 at 05:07",
+"Title": "Fields Of Gold",
+"Artist": "Sting",
+"is_Explicit": "No",
+"Lyrics Snippets": "You'll remember me when the west wind moves
+Upon the fields of barley
+You'll forget the sun in his jealous sky
+As we walk in fields of gold",
+"Lyric Snippet Synced": "Upon the fields of barley
+You'll forget the sun in his jealous sky
+As we walk in fields of gold
+So she took her love for to gaze a while",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/232122/fields-of-gold?co=GB&referrer=shortcuts&offsetInMilliseconds=27351&timeSkew=-9.083748E-5&trackLength=220023&startDate=2024-05-08T04:07:28.369Z",
+"Apple Music URL": "https://music.apple.com/gb/album/fields-of-gold/1725377395?i=1725377399&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Sting - Fields Of Gold",
+},
+{
+"TimeStamp": "8 May 2024 at 05:09",
+"Title": "Fields Of Gold",
+"Artist": "Sting",
+"is_Explicit": "No",
+"Lyrics Snippets": "You'll remember me when the west wind moves
+Upon the fields of barley
+You'll forget the sun in his jealous sky
+As we walk in fields of gold",
+"Lyric Snippet Synced": "Many years have passed since those summer days
+Among the fields of barley
+See the children run as the sun goes down
+Among the fields of gold",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/232122/fields-of-gold?co=GB&referrer=shortcuts&offsetInMilliseconds=150981&timeSkew=2.8133392E-4&trackLength=220023&startDate=2024-05-08T04:09:32.003Z",
+"Apple Music URL": "https://music.apple.com/gb/album/fields-of-gold/1725377395?i=1725377399&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Sting - Fields Of Gold",
+},
+{
+"TimeStamp": "8 May 2024 at 05:11",
+"Title": "Somebody Somewhere",
+"Artist": "LaBelle",
+"is_Explicit": "No",
+"Lyrics Snippets": "Somebody somewhere
+Has all the answers to the questions
+In our minds
+Somebody somewhere
+Has grown impatient
+With your reasons
+And your crimes",
+"Lyric Snippet Synced": "Going wide
+The weed
+Somebody somewhere
+Must lead us homeward to the truth
+In our hearts
+Somebody somewhere
+Will hear our cries for freedom",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/45532071/somebody-somewhere?co=GB&referrer=shortcuts&offsetInMilliseconds=50113&timeSkew=-0.0010467768&trackLength=204706&startDate=2024-05-08T04:11:35.469Z",
+"Apple Music URL": "https://music.apple.com/gb/album/somebody-somewhere/188249320?i=188249481&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "LaBelle - Somebody Somewhere",
+},
+{
+"TimeStamp": "8 May 2024 at 05:14",
+"Title": "Somebody Somewhere",
+"Artist": "LaBelle",
+"is_Explicit": "No",
+"Lyrics Snippets": "Somebody somewhere
+Has all the answers to the questions
+In our minds
+Somebody somewhere
+Has grown impatient
+With your reasons
+And your crimes",
+"Lyric Snippet Synced": "Be prepared
+He’s coming back that way
+Be prepared
+Be prepared
+He’s coming back that way
+Oh-oh, ah-huh
+Be prepared
+He’s coming back that way",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/45532071/somebody-somewhere?co=GB&referrer=shortcuts&offsetInMilliseconds=182662&timeSkew=-0.0013612509&trackLength=204706&startDate=2024-05-08T04:13:48.172Z",
+"Apple Music URL": "https://music.apple.com/gb/album/somebody-somewhere/188249320?i=188249481&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "LaBelle - Somebody Somewhere",
+},
+{
+"TimeStamp": "8 May 2024 at 05:16",
+"Title": "El Condor Pasa (If I Could)",
+"Artist": "Simon & Garfunkel",
+"is_Explicit": "No",
+"Lyrics Snippets": "I'd rather be a sparrow than a snail
+Yes, I would
+If I could
+I surely would
+I'd rather be a hammer than a nail
+Yes, I would
+If I only could",
+"Lyric Snippet Synced": "Its saddest sound
+I'd rather be a forest than a street
+Yes, I would
+If I could
+I surely would
+I'd rather feel the earth beneath my feet
+Yes, I would",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/279654333/el-condor-pasa-if-i-could?co=GB&referrer=shortcuts&offsetInMilliseconds=108661&timeSkew=8.6665154E-4&trackLength=187011&startDate=2024-05-08T04:16:00.608Z",
+"Apple Music URL": "https://music.apple.com/gb/album/el-condor-pasa-if-i-could/324127933?i=324127935&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Simon & Garfunkel - El Condor Pasa (If I Could)",
+},
+{
+"TimeStamp": "8 May 2024 at 05:18",
+"Title": "Lyin' Eyes",
+"Artist": "Eagles",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/215541/lyin-eyes?co=GB&referrer=shortcuts&offsetInMilliseconds=41591&timeSkew=0.0019797087&trackLength=381896&startDate=2024-05-08T04:18:04.203Z",
+"Apple Music URL": "https://music.apple.com/gb/album/lyin-eyes/635829971?i=635830027&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Eagles - Lyin' Eyes",
+},
+{
+"TimeStamp": "8 May 2024 at 05:20",
+"Title": "Lyin' Eyes",
+"Artist": "Eagles",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/215541/lyin-eyes?co=GB&referrer=shortcuts&offsetInMilliseconds=165186&timeSkew=-7.278323E-4&trackLength=381896&startDate=2024-05-08T04:20:07.802Z",
+"Apple Music URL": "https://music.apple.com/gb/album/lyin-eyes/635829971?i=635830027&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Eagles - Lyin' Eyes",
+},
+{
+"TimeStamp": "8 May 2024 at 05:22",
+"Title": "Lyin' Eyes",
+"Artist": "Eagles",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/215541/lyin-eyes?co=GB&referrer=shortcuts&offsetInMilliseconds=288640&timeSkew=-6.072521E-4&trackLength=381896&startDate=2024-05-08T04:22:11.252Z",
+"Apple Music URL": "https://music.apple.com/gb/album/lyin-eyes/635829971?i=635830027&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Eagles - Lyin' Eyes",
+},
+{
+"TimeStamp": "8 May 2024 at 05:27",
+"Title": "Coming Home",
+"Artist": "Simply Red",
+"is_Explicit": "No",
+"Lyrics Snippets": "Dark nights, headlights
+I'm goin' home
+Stars bright, hold tight
+I'm coming home
+And when I do
+I'm gonna love you more
+Than I've ever done before",
+"Lyric Snippet Synced": "I'm coming home
+No more alone
+I gotta get there
+I gotta get there
+Comin'
+I'm coming home
+Yes, I am now",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/262248546/coming-home?co=GB&referrer=shortcuts&offsetInMilliseconds=128163&timeSkew=-2.9027462E-5&trackLength=173053&startDate=2024-05-08T04:26:55.819Z",
+"Apple Music URL": "https://music.apple.com/gb/album/coming-home/985707306?i=985707327&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Simply Red - Coming Home",
+},
+{
+"TimeStamp": "8 May 2024 at 05:29",
+"Title": "Little Latin Lupe Lu",
+"Artist": "The Righteous Brothers",
+"is_Explicit": "No",
+"Lyrics Snippets": "Talk about my baby
+Little Latin Lupe Lu
+She's a hot footin' baby
+There ain't no dance she couldn't do
+She my groovy little baby, yeah",
+"Lyric Snippet Synced": "Mash it up pretty baby, yeah
+Little Latin Lupe Lu
+Wa, one more time
+A shake it, shake it, shake it, Lupe
+Watusi pretty baby",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/303342/little-latin-lupe-lu?co=GB&referrer=shortcuts&offsetInMilliseconds=85839&timeSkew=9.703636E-4&trackLength=139205&startDate=2024-05-08T04:29:08.479Z",
+"Apple Music URL": "https://music.apple.com/gb/album/little-latin-lupe-lu/1583870589?i=1583870981&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "The Righteous Brothers - Little Latin Lupe Lu",
+},
+{
+"TimeStamp": "8 May 2024 at 05:30",
+"Title": "Joy to the World (Mixtape)",
+"Artist": "Dj Ofori",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/519090533/joy-to-the-world-mixtape?co=GB&referrer=shortcuts&offsetInMilliseconds=2265856&timeSkew=-0.025581062&trackLength=3611141&startDate=2024-05-08T04:30:54.687Z",
+"Apple Music URL": "https://music.apple.com/gb/album/joy-to-the-world-mixtape/1493159817?i=1493159820&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Dj Ofori - Joy to the World (Mixtape)",
+},
+{
+"TimeStamp": "8 May 2024 at 05:33",
+"Title": "If You Want To Sing Out, Sing Out",
+"Artist": "Cat Stevens",
+"is_Explicit": "No",
+"Lyrics Snippets": "Well if you want to sing out, sing out
+And if you want to be free, be free
+'Cause there's a million things to be
+You know that there are",
+"Lyric Snippet Synced": "Well you can make it all true
+And you can make it undo
+You see, ah ah ah, it's easy ah, ah, ah
+You only need to know",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/5166850/if-you-want-to-sing-out-sing-out?co=GB&referrer=shortcuts&offsetInMilliseconds=55563&timeSkew=0.0019942522&trackLength=166533&startDate=2024-05-08T04:32:58.456Z",
+"Apple Music URL": "https://music.apple.com/gb/album/if-you-want-to-sing-out-sing-out/1535558765?i=1535560533&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Cat Stevens - If You Want To Sing Out, Sing Out",
+},
+{
+"TimeStamp": "8 May 2024 at 05:35",
+"Title": "One of These Nights",
+"Artist": "Eagles",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/20144898/one-of-these-nights?co=GB&referrer=shortcuts&offsetInMilliseconds=14324&timeSkew=-0.0018742085&trackLength=294566&startDate=2024-05-08T04:35:02.088Z",
+"Apple Music URL": "https://music.apple.com/gb/album/one-of-these-nights/635829971?i=635830022&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Eagles - One of These Nights",
+},
+{
+"TimeStamp": "8 May 2024 at 05:37",
+"Title": "One of These Nights",
+"Artist": "Eagles",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/20144898/one-of-these-nights?co=GB&referrer=shortcuts&offsetInMilliseconds=137858&timeSkew=-0.0021384358&trackLength=294566&startDate=2024-05-08T04:37:05.717Z",
+"Apple Music URL": "https://music.apple.com/gb/album/one-of-these-nights/635829971?i=635830022&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Eagles - One of These Nights",
+},
+{
+"TimeStamp": "8 May 2024 at 05:39",
+"Title": "One of These Nights",
+"Artist": "Eagles",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/20144898/one-of-these-nights?co=GB&referrer=shortcuts&offsetInMilliseconds=261277&timeSkew=3.9434433E-4&trackLength=294566&startDate=2024-05-08T04:39:09.192Z",
+"Apple Music URL": "https://music.apple.com/gb/album/one-of-these-nights/635829971?i=635830022&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Eagles - One of These Nights",
+},
+{
+"TimeStamp": "8 May 2024 at 05:41",
+"Title": "Bring Your Love Down (Didn't I)",
+"Artist": "Yazoo",
+"is_Explicit": "No",
+"Lyrics Snippets": "You say it's time to leave, now babe, I can't believe
+That you have the strength to go now
+I won't stand in your way, I'd be standing there all day",
+"Lyric Snippet Synced": "You play your games, but the fact remains
+I'm the only one that can hold your reins
+Didn't I bring your love down?",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/46054348/bring-your-love-down-didnt-i?co=GB&referrer=shortcuts&offsetInMilliseconds=31658&timeSkew=0.0024722815&trackLength=280586&startDate=2024-05-08T04:41:12.663Z",
+"Apple Music URL": "https://music.apple.com/gb/album/bring-your-love-down-didnt-i/1436832956?i=1436833061&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Yazoo - Bring Your Love Down (Didn't I)",
+},
+{
+"TimeStamp": "8 May 2024 at 05:43",
+"Title": "Bring Your Love Down (Didn't I)",
+"Artist": "Yazoo",
+"is_Explicit": "No",
+"Lyrics Snippets": "You say it's time to leave, now babe, I can't believe
+That you have the strength to go now
+I won't stand in your way, I'd be standing there all day",
+"Lyric Snippet Synced": "Didn't I bring your love down?
+Didn't I bring your love down all night?
+Didn't I bring your love down?
+Didn't I bring your love down all night?",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/46054348/bring-your-love-down-didnt-i?co=GB&referrer=shortcuts&offsetInMilliseconds=155598&timeSkew=0.0013444424&trackLength=280586&startDate=2024-05-08T04:43:16.336Z",
+"Apple Music URL": "https://music.apple.com/gb/album/bring-your-love-down-didnt-i/1436832956?i=1436833061&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Yazoo - Bring Your Love Down (Didn't I)",
+},
