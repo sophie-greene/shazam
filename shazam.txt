@@ -353,3 +353,407 @@ Pictures in my phone with people I don't know",
 "Apple Music URL": "https://music.apple.com/gb/album/old-me/1497416763?i=1497417104&itscg=30201&itsct=Shazam_shortcuts",
 "Name": "5 Seconds of Summer - Old Me",
 },
+{
+"TimeStamp": "8 May 2024 at 09:37",
+"Title": "Not In The Same Way",
+"Artist": "5 Seconds of Summer",
+"is_Explicit": "Yes",
+"Lyrics Snippets": "Drink all night, never sleep
+You say go, I won't leave
+I love you, you love me
+But not in the same way
+Rip my heart out and leave",
+"Lyric Snippet Synced": "Drink all night, never sleep
+You say go, I won't leave
+I love you, you love me
+But not in the same way
+Rip my heart out and leave",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/508511242/not-in-the-same-way?co=GB&referrer=shortcuts&offsetInMilliseconds=120&timeSkew=4.5657158E-4&trackLength=220605&startDate=2024-05-08T08:37:25.895Z",
+"Apple Music URL": "https://music.apple.com/gb/album/not-in-the-same-way/1528591101?i=1528591112&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "5 Seconds of Summer - Not In The Same Way",
+},
+{
+"TimeStamp": "8 May 2024 at 09:37",
+"Title": "You Make My Dreams",
+"Artist": "Daryl Hall & John Oates",
+"is_Explicit": "No",
+"Lyrics Snippets": "What I want, you've got
+And it might be hard to handle
+Well, like a flame that burns the candle
+The candle feeds the flame, yeah, yeah",
+"Lyric Snippet Synced": "What I want, you've got
+And it might be hard to handle
+Well, like a flame that burns the candle
+The candle feeds the flame, yeah, yeah",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/46903169/you-make-my-dreams?co=GB&referrer=shortcuts&offsetInMilliseconds=446&timeSkew=-0.0073203444&trackLength=186640&startDate=2024-05-08T08:37:43.009Z",
+"Apple Music URL": "https://music.apple.com/gb/album/you-make-my-dreams/333746621?i=333750667&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Daryl Hall & John Oates - You Make My Dreams",
+},
+{
+"TimeStamp": "8 May 2024 at 09:37",
+"Title": "You Make My Dreams",
+"Artist": "Daryl Hall & John Oates",
+"is_Explicit": "No",
+"Lyrics Snippets": "What I want, you've got
+And it might be hard to handle
+Well, like a flame that burns the candle
+The candle feeds the flame, yeah, yeah",
+"Lyric Snippet Synced": "What I want, you've got
+And it might be hard to handle
+Well, like a flame that burns the candle
+The candle feeds the flame, yeah, yeah",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/46903169/you-make-my-dreams?co=GB&referrer=shortcuts&offsetInMilliseconds=8655&timeSkew=-2.1356344E-4&trackLength=191078&startDate=2024-05-08T08:37:51.504Z",
+"Apple Music URL": "https://music.apple.com/gb/album/you-make-my-dreams/333746621?i=333750667&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Daryl Hall & John Oates - You Make My Dreams",
+},
+{
+"TimeStamp": "8 May 2024 at 09:38",
+"Title": "Black Velvet",
+"Artist": "Alannah Myles",
+"is_Explicit": "No",
+"Lyrics Snippets": "Mississippi in the middle of a dry spell
+Jimmy Rogers on the Victrola up high
+Mama's dancin' with baby on her shoulder",
+"Lyric Snippet Synced": "Mississippi in the middle of a dry spell
+Jimmy Rogers on the Victrola up high
+Mama's dancin' with baby on her shoulder",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/black-velvet-2021-remake/1588960649",
+"Shazem URL": "https://www.shazam.com/track/113546855/black-velvet?co=GB&referrer=shortcuts&offsetInMilliseconds=229&timeSkew=0.0011730194&trackLength=286333&startDate=2024-05-08T08:38:10.161Z",
+"Apple Music URL": "https://music.apple.com/gb/album/black-velvet/217502930?i=217503142&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Alannah Myles - Black Velvet",
+},
+{
+"TimeStamp": "8 May 2024 at 09:38",
+"Title": "Black Velvet",
+"Artist": "Alannah Myles",
+"is_Explicit": "No",
+"Lyrics Snippets": "Mississippi in the middle of a dry spell
+Jimmy Rogers on the Victrola up high
+Mama's dancin' with baby on her shoulder",
+"Lyric Snippet Synced": "Mississippi in the middle of a dry spell
+Jimmy Rogers on the Victrola up high
+Mama's dancin' with baby on her shoulder",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/black-velvet-2021-remake/1588960649",
+"Shazem URL": "https://www.shazam.com/track/113546855/black-velvet?co=GB&referrer=shortcuts&offsetInMilliseconds=8736&timeSkew=-5.427003E-4&trackLength=286333&startDate=2024-05-08T08:38:18.646Z",
+"Apple Music URL": "https://music.apple.com/gb/album/black-velvet/217502930?i=217503142&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Alannah Myles - Black Velvet",
+},
+{
+"TimeStamp": "8 May 2024 at 09:38",
+"Title": "Time Machine",
+"Artist": "Alicia Keys",
+"is_Explicit": "No",
+"Lyrics Snippets": "Fear of what's in the mirror, yeah
+So much to be afraid of
+Scared of what we're made of
+And what we might be
+Young life flies out the window, yeah",
+"Lyric Snippet Synced": "Fear of what's in the mirror, yeah
+So much to be afraid of
+Scared of what we're made of
+And what we might be
+Young life flies out the window, yeah",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/time-machine/1488045098",
+"Shazem URL": "https://www.shazam.com/track/503341334/time-machine?co=GB&referrer=shortcuts&offsetInMilliseconds=175&timeSkew=9.057522E-4&trackLength=269146&startDate=2024-05-08T08:38:47.196Z",
+"Apple Music URL": "https://music.apple.com/gb/album/time-machine/1576532578?i=1576532585&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Alicia Keys - Time Machine",
+},
+{
+"TimeStamp": "8 May 2024 at 09:38",
+"Title": "Time Machine",
+"Artist": "Alicia Keys",
+"is_Explicit": "No",
+"Lyrics Snippets": "Fear of what's in the mirror, yeah
+So much to be afraid of
+Scared of what we're made of
+And what we might be
+Young life flies out the window, yeah",
+"Lyric Snippet Synced": "Fear of what's in the mirror, yeah
+So much to be afraid of
+Scared of what we're made of
+And what we might be
+Young life flies out the window, yeah",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/time-machine/1488045098",
+"Shazem URL": "https://www.shazam.com/track/503341334/time-machine?co=GB&referrer=shortcuts&offsetInMilliseconds=8698&timeSkew=-0.0020511746&trackLength=269146&startDate=2024-05-08T08:38:55.719Z",
+"Apple Music URL": "https://music.apple.com/gb/album/time-machine/1576532578?i=1576532585&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Alicia Keys - Time Machine",
+},
+{
+"TimeStamp": "8 May 2024 at 09:39",
+"Title": "Tell Me Something Good (feat. Chaka Khan)",
+"Artist": "Rufus",
+"is_Explicit": "No",
+"Lyrics Snippets": "You ain't got no kind of feeling inside
+I got something that'll sho' nuff set your stuff on fire
+You refuse to put anything before your pride",
+"Lyric Snippet Synced": "You ain't got no kind of feeling inside
+I got something that'll sho' nuff set your stuff on fire
+You refuse to put anything before your pride",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/665230/tell-me-something-good-feat-chaka-khan?co=GB&referrer=shortcuts&offsetInMilliseconds=171&timeSkew=-3.3974648E-5&trackLength=279333&startDate=2024-05-08T08:39:04.430Z",
+"Apple Music URL": "https://music.apple.com/gb/album/tell-me-something-good-feat-chaka-khan/1444100904?i=1444101111&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Rufus - Tell Me Something Good (feat. Chaka Khan)",
+},
+{
+"TimeStamp": "8 May 2024 at 09:39",
+"Title": "El Euon El Sod 1 Live",
+"Artist": "Warda",
+"is_Explicit": "No",
+"Lyrics Snippets": "وعملت إيه؟
+فينا السنين
+عملت إيه؟
+فرقتنا، لا
+غيرتنا، لا
+ولا دوبت فينا الحنين، السنين
+لا الزمان
+ولا المكان
+قدروا يخلوا حبنا
+ده يبقى كان",
+"Lyric Snippet Synced": "وعملت إيه؟
+فينا السنين
+عملت إيه؟
+فرقتنا، لا
+غيرتنا، لا
+ولا دوبت فينا الحنين، السنين
+لا الزمان
+ولا المكان
+قدروا يخلوا حبنا
+ده يبقى كان",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/210392804/el-euon-el-sod-1-live?co=GB&referrer=shortcuts&offsetInMilliseconds=1141868&timeSkew=-0.010150492&trackLength=1146058&startDate=2024-05-08T08:39:12.980Z",
+"Apple Music URL": "https://music.apple.com/gb/album/el-euon-el-sod-1-live/849256021?i=849256124&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Warda - El Euon El Sod 1 Live",
+},
+{
+"TimeStamp": "8 May 2024 at 09:39",
+"Title": "El Layali",
+"Artist": "Abdel Halim Hafez",
+"is_Explicit": "No",
+"Lyrics Snippets": "عبد الحليم حافظ . اللّيالي
+"""""
+كلّ كلمة حب حلوة قُلتهالي
+كلّ همسة شوق بشوق سمّعتها لي
+كلّ كلمة حب حلوة قُلتهالي
+كلّ همسة شوق بشوق سمّعتها لي",
+"Lyric Snippet Synced": "عبد الحليم حافظ . اللّيالي
+"""""
+كلّ كلمة حب حلوة قُلتهالي
+كلّ همسة شوق بشوق سمّعتها لي
+كلّ كلمة حب حلوة قُلتهالي
+كلّ همسة شوق بشوق سمّعتها لي",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/45189791/el-layali?co=GB&referrer=shortcuts&offsetInMilliseconds=11799&timeSkew=1.06692314E-4&trackLength=1124768&startDate=2024-05-08T08:39:21.612Z",
+"Apple Music URL": "https://music.apple.com/gb/album/el-layali/843195159?i=843195180&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Abdel Halim Hafez - El Layali",
+},
+{
+"TimeStamp": "8 May 2024 at 09:39",
+"Title": "El Layali",
+"Artist": "Abdel Halim Hafez",
+"is_Explicit": "No",
+"Lyrics Snippets": "عبد الحليم حافظ . اللّيالي
+"""""
+كلّ كلمة حب حلوة قُلتهالي
+كلّ همسة شوق بشوق سمّعتها لي
+كلّ كلمة حب حلوة قُلتهالي
+كلّ همسة شوق بشوق سمّعتها لي",
+"Lyric Snippet Synced": "عبد الحليم حافظ . اللّيالي
+"""""
+كلّ كلمة حب حلوة قُلتهالي
+كلّ همسة شوق بشوق سمّعتها لي
+كلّ كلمة حب حلوة قُلتهالي
+كلّ همسة شوق بشوق سمّعتها لي",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/45189791/el-layali?co=GB&referrer=shortcuts&offsetInMilliseconds=29560&timeSkew=9.739399E-5&trackLength=1124768&startDate=2024-05-08T08:39:39.367Z",
+"Apple Music URL": "https://music.apple.com/gb/album/el-layali/843195159?i=843195180&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Abdel Halim Hafez - El Layali",
+},
+{
+"TimeStamp": "8 May 2024 at 09:40",
+"Title": "Like I'm Gonna Lose You (feat. John Legend)",
+"Artist": "Meghan Trainor",
+"is_Explicit": "No",
+"Lyrics Snippets": "I found myself dreaming
+In silver and gold
+Like a scene from a movie
+That every broken heart knows
+We were walking on moonlight",
+"Lyric Snippet Synced": "I found myself dreaming
+In silver and gold
+Like a scene from a movie
+That every broken heart knows
+We were walking on moonlight",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/like-im-gonna-lose-you-feat-john-legend/1017164321",
+"Shazem URL": "https://www.shazam.com/track/163890177/like-im-gonna-lose-you-feat-john-legend?co=GB&referrer=shortcuts&offsetInMilliseconds=260&timeSkew=-0.0047609806&trackLength=225226&startDate=2024-05-08T08:39:58.212Z",
+"Apple Music URL": "https://music.apple.com/gb/album/like-im-gonna-lose-you-feat-john-legend/1057999230?i=1057999237&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Meghan Trainor - Like I'm Gonna Lose You (feat. John Legend)",
+},
+{
+"TimeStamp": "8 May 2024 at 09:42",
+"Title": "Don't Do Down",
+"Artist": "Simply Red",
+"is_Explicit": "No",
+"Lyrics Snippets": "Some people out there are tryin' to bring me down
+But I won't let 'em
+No I won't let 'em
+Some people out there really let me down
+I don't regret 'em",
+"Lyric Snippet Synced": "Some people out there really let me down
+I don't regret 'em
+But I won't forget 'em
+I love my life
+Love my wife
+And my baby",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/501070686/dont-do-down?co=GB&referrer=shortcuts&offsetInMilliseconds=25285&timeSkew=5.389452E-4&trackLength=198920&startDate=2024-05-08T08:42:35.003Z",
+"Apple Music URL": "https://music.apple.com/gb/album/dont-do-down/1476824051?i=1476824064&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Simply Red - Don't Do Down",
+},
+{
+"TimeStamp": "8 May 2024 at 09:42",
+"Title": "Don't Do Down",
+"Artist": "Simply Red",
+"is_Explicit": "No",
+"Lyrics Snippets": "Some people out there are tryin' to bring me down
+But I won't let 'em
+No I won't let 'em
+Some people out there really let me down
+I don't regret 'em",
+"Lyric Snippet Synced": "But I won't forget 'em
+I love my life
+Love my wife
+And my baby
+Some people are suggestin' maybe I should leave town
+But I ain't leaving (no, no, no)",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/501070686/dont-do-down?co=GB&referrer=shortcuts&offsetInMilliseconds=29983&timeSkew=-0.0017674565&trackLength=198920&startDate=2024-05-08T08:42:39.696Z",
+"Apple Music URL": "https://music.apple.com/gb/album/dont-do-down/1476824051?i=1476824064&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Simply Red - Don't Do Down",
+},
+{
+"TimeStamp": "8 May 2024 at 09:43",
+"Title": "Maybe I'm Amazed",
+"Artist": "Jem",
+"is_Explicit": "No",
+"Lyrics Snippets": "Maybe I'm amazed at the way you love me all the time
+Maybe I'm afraid of the way I love you
+Maybe I'm amazed at the way you pulled me out of time",
+"Lyric Snippet Synced": "Maybe I'm amazed at the way you love me all the time
+Maybe I'm afraid of the way I love you
+Maybe I'm amazed at the way you pulled me out of time",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/40576842/maybe-im-amazed?co=GB&referrer=shortcuts&offsetInMilliseconds=-272&timeSkew=1.8692017E-4&trackLength=239551&startDate=2024-05-08T08:43:13.428Z",
+"Apple Music URL": "https://music.apple.com/gb/album/maybe-im-amazed/89335890?i=89335590&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Jem - Maybe I'm Amazed",
+},
+{
+"TimeStamp": "8 May 2024 at 09:43",
+"Title": "Maybe I'm Amazed",
+"Artist": "Jem",
+"is_Explicit": "No",
+"Lyrics Snippets": "Maybe I'm amazed at the way you love me all the time
+Maybe I'm afraid of the way I love you
+Maybe I'm amazed at the way you pulled me out of time",
+"Lyric Snippet Synced": "Maybe I'm amazed at the way you love me all the time
+Maybe I'm afraid of the way I love you
+Maybe I'm amazed at the way you pulled me out of time",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/40576842/maybe-im-amazed?co=GB&referrer=shortcuts&offsetInMilliseconds=4271&timeSkew=2.771616E-4&trackLength=239551&startDate=2024-05-08T08:43:17.955Z",
+"Apple Music URL": "https://music.apple.com/gb/album/maybe-im-amazed/89335890?i=89335590&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Jem - Maybe I'm Amazed",
+},
+{
+"TimeStamp": "8 May 2024 at 09:44",
+"Title": "Bonfire Heart",
+"Artist": "James Blunt",
+"is_Explicit": "No",
+"Lyrics Snippets": "Your mouth is a revolver
+Firing bullets in the sky
+Mmm
+Your love is like a soldier
+Loyal till you die
+Mmm",
+"Lyric Snippet Synced": "Your mouth is a revolver
+Firing bullets in the sky
+Mmm
+Your love is like a soldier
+Loyal till you die
+Mmm",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/92165974/bonfire-heart?co=GB&referrer=shortcuts&offsetInMilliseconds=63&timeSkew=6.674528E-4&trackLength=236826&startDate=2024-05-08T08:44:13.223Z",
+"Apple Music URL": "https://music.apple.com/gb/album/bonfire-heart/686566424?i=686566428&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "James Blunt - Bonfire Heart",
+},
+{
+"TimeStamp": "8 May 2024 at 09:44",
+"Title": "Bonfire Heart",
+"Artist": "James Blunt",
+"is_Explicit": "No",
+"Lyrics Snippets": "Your mouth is a revolver
+Firing bullets in the sky
+Mmm
+Your love is like a soldier
+Loyal till you die
+Mmm",
+"Lyric Snippet Synced": "Your mouth is a revolver
+Firing bullets in the sky
+Mmm
+Your love is like a soldier
+Loyal till you die
+Mmm",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/92165974/bonfire-heart?co=GB&referrer=shortcuts&offsetInMilliseconds=4369&timeSkew=-3.20673E-4&trackLength=235280&startDate=2024-05-08T08:44:17.702Z",
+"Apple Music URL": "https://music.apple.com/gb/album/bonfire-heart/686566424?i=686566428&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "James Blunt - Bonfire Heart",
+},
+{
+"TimeStamp": "8 May 2024 at 09:46",
+"Title": "Lord Have Mercy (feat. Sarah McIntosh)",
+"Artist": "Michael W. Smith",
+"is_Explicit": "No",
+"Lyrics Snippets": "Jesus, I've forgotten the words that You have spoken
+Promises that burned within my heart have now grown dim",
+"Lyric Snippet Synced": "Jesus, I've forgotten the words that You have spoken
+Promises that burned within my heart have now grown dim",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/40634009/lord-have-mercy-feat-sarah-mcintosh?co=GB&referrer=shortcuts&offsetInMilliseconds=22&timeSkew=-0.0024787188&trackLength=263666&startDate=2024-05-08T08:46:15.851Z",
+"Apple Music URL": "https://music.apple.com/gb/album/lord-have-mercy-feat-sarah-mcintosh/303182370?i=303182385&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Michael W. Smith - Lord Have Mercy (feat. Sarah McIntosh)",
+},
+{
+"TimeStamp": "8 May 2024 at 09:46",
+"Title": "Lord Have Mercy (feat. Sarah McIntosh)",
+"Artist": "Michael W. Smith",
+"is_Explicit": "No",
+"Lyrics Snippets": "Jesus, I've forgotten the words that You have spoken
+Promises that burned within my heart have now grown dim",
+"Lyric Snippet Synced": "Jesus, I've forgotten the words that You have spoken
+Promises that burned within my heart have now grown dim",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/40634009/lord-have-mercy-feat-sarah-mcintosh?co=GB&referrer=shortcuts&offsetInMilliseconds=8745&timeSkew=-0.014876962&trackLength=263666&startDate=2024-05-08T08:46:24.499Z",
+"Apple Music URL": "https://music.apple.com/gb/album/lord-have-mercy-feat-sarah-mcintosh/303182370?i=303182385&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Michael W. Smith - Lord Have Mercy (feat. Sarah McIntosh)",
+},
