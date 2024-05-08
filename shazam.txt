@@ -757,3 +757,210 @@ Promises that burned within my heart have now grown dim",
 "Apple Music URL": "https://music.apple.com/gb/album/lord-have-mercy-feat-sarah-mcintosh/303182370?i=303182385&itscg=30201&itsct=Shazam_shortcuts",
 "Name": "Michael W. Smith - Lord Have Mercy (feat. Sarah McIntosh)",
 },
+{
+"TimeStamp": "8 May 2024 at 09:52",
+"Title": "It's Definitely You (Instrumental)",
+"Artist": "V & JIN",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/337844492/%EC%A3%BD%EC%96%B4%EB%8F%84-%EB%84%88%EC%95%BC-instrumental?co=GB&referrer=shortcuts&offsetInMilliseconds=217008&timeSkew=-1.02341175E-4&trackLength=231853&startDate=2024-05-08T08:52:27.589Z",
+"Apple Music URL": "https://music.apple.com/gb/album/its-definitely-you-instrumental/1187146314?i=1187146428&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "V & JIN - It's Definitely You (Instrumental)",
+},
+{
+"TimeStamp": "8 May 2024 at 09:52",
+"Title": "It's Definitely You (Instrumental)",
+"Artist": "V & JIN",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/337844492/%EC%A3%BD%EC%96%B4%EB%8F%84-%EB%84%88%EC%95%BC-instrumental?co=GB&referrer=shortcuts&offsetInMilliseconds=221651&timeSkew=0.0016114712&trackLength=231853&startDate=2024-05-08T08:52:32.240Z",
+"Apple Music URL": "https://music.apple.com/gb/album/its-definitely-you-instrumental/1187146314?i=1187146428&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "V & JIN - It's Definitely You (Instrumental)",
+},
+{
+"TimeStamp": "8 May 2024 at 09:52",
+"Title": "Treasure",
+"Artist": "Bruno Mars",
+"is_Explicit": "Yes",
+"Lyrics Snippets": "Baby squirrel, you's a sexy motherfucker
+Gimme your, gimme your, gimme your attention, baby (Attention, baby)",
+"Lyric Snippet Synced": "Baby squirrel, you's a sexy motherfucker
+Gimme your, gimme your, gimme your attention, baby (Attention, baby)",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/83254895/treasure?co=GB&referrer=shortcuts&offsetInMilliseconds=-42&timeSkew=-4.0018559E-4&trackLength=178560&startDate=2024-05-08T08:52:42.119Z",
+"Apple Music URL": "https://music.apple.com/gb/album/treasure/572179738?i=572179980&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Bruno Mars - Treasure",
+},
+{
+"TimeStamp": "8 May 2024 at 09:52",
+"Title": "Treasure",
+"Artist": "Bruno Mars",
+"is_Explicit": "Yes",
+"Lyrics Snippets": "Baby squirrel, you's a sexy motherfucker
+Gimme your, gimme your, gimme your attention, baby (Attention, baby)",
+"Lyric Snippet Synced": "Baby squirrel, you's a sexy motherfucker
+Gimme your, gimme your, gimme your attention, baby (Attention, baby)",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/83254895/treasure?co=GB&referrer=shortcuts&offsetInMilliseconds=4616&timeSkew=-5.9074163E-4&trackLength=178560&startDate=2024-05-08T08:52:46.754Z",
+"Apple Music URL": "https://music.apple.com/gb/album/treasure/572179738?i=572179980&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Bruno Mars - Treasure",
+},
+{
+"TimeStamp": "8 May 2024 at 09:52",
+"Title": "Epiphany",
+"Artist": "BTS",
+"is_Explicit": "No",
+"Lyrics Snippets": "참 이상해
+분명 나는 너를 너무 사랑했는데
+뭐든 너에게 맞추고
+널 위해 살고 싶었는데
+그럴수록 내 맘속의
+폭풍을 견뎌낼 수 없게 돼
+웃고 있는 가면 속의
+진짜 내 모습을 다 드러내
+I'm the one I should love in this world",
+"Lyric Snippet Synced": "참 이상해
+분명 나는 너를 너무 사랑했는데
+뭐든 너에게 맞추고
+널 위해 살고 싶었는데
+그럴수록 내 맘속의
+폭풍을 견뎌낼 수 없게 돼
+웃고 있는 가면 속의
+진짜 내 모습을 다 드러내
+I'm the one I should love in this world",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/435093692/epiphany?co=GB&referrer=shortcuts&offsetInMilliseconds=74&timeSkew=-0.0016748905&trackLength=240404&startDate=2024-05-08T08:52:53.535Z",
+"Apple Music URL": "https://music.apple.com/gb/album/epiphany/1598730614?i=1598730973&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "BTS - Epiphany",
+},
+{
+"TimeStamp": "8 May 2024 at 09:53",
+"Title": "Epiphany",
+"Artist": "BTS",
+"is_Explicit": "No",
+"Lyrics Snippets": "참 이상해
+분명 나는 너를 너무 사랑했는데
+뭐든 너에게 맞추고
+널 위해 살고 싶었는데
+그럴수록 내 맘속의
+폭풍을 견뎌낼 수 없게 돼
+웃고 있는 가면 속의
+진짜 내 모습을 다 드러내
+I'm the one I should love in this world",
+"Lyric Snippet Synced": "참 이상해
+분명 나는 너를 너무 사랑했는데
+뭐든 너에게 맞추고
+널 위해 살고 싶었는데
+그럴수록 내 맘속의
+폭풍을 견뎌낼 수 없게 돼
+웃고 있는 가면 속의
+진짜 내 모습을 다 드러내
+I'm the one I should love in this world",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/435093692/epiphany?co=GB&referrer=shortcuts&offsetInMilliseconds=4577&timeSkew=0.0017843246&trackLength=240404&startDate=2024-05-08T08:52:58.027Z",
+"Apple Music URL": "https://music.apple.com/gb/album/epiphany/1598730614?i=1598730973&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "BTS - Epiphany",
+},
+{
+"TimeStamp": "8 May 2024 at 09:56",
+"Title": "Epiphany",
+"Artist": "BTS",
+"is_Explicit": "No",
+"Lyrics Snippets": "참 이상해
+분명 나는 너를 너무 사랑했는데
+뭐든 너에게 맞추고
+널 위해 살고 싶었는데
+그럴수록 내 맘속의
+폭풍을 견뎌낼 수 없게 돼
+웃고 있는 가면 속의
+진짜 내 모습을 다 드러내
+I'm the one I should love in this world",
+"Lyric Snippet Synced": "이제야 깨달아 So I love me
+좀 부족해도 너무 아름다운 걸
+I'm the one I should love
+(Oh oh oh oh oh oh oh oh oh oh)
+I'm the one I should love",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/435093692/epiphany?co=GB&referrer=shortcuts&offsetInMilliseconds=182634&timeSkew=0.0013014078&trackLength=234800&startDate=2024-05-08T08:56:23.848Z",
+"Apple Music URL": "https://music.apple.com/gb/album/epiphany/1598730614?i=1598730973&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "BTS - Epiphany",
+},
+{
+"TimeStamp": "8 May 2024 at 09:56",
+"Title": "Epiphany",
+"Artist": "BTS",
+"is_Explicit": "No",
+"Lyrics Snippets": "참 이상해
+분명 나는 너를 너무 사랑했는데
+뭐든 너에게 맞추고
+널 위해 살고 싶었는데
+그럴수록 내 맘속의
+폭풍을 견뎌낼 수 없게 돼
+웃고 있는 가면 속의
+진짜 내 모습을 다 드러내
+I'm the one I should love in this world",
+"Lyric Snippet Synced": "(Oh oh oh oh oh oh oh oh oh oh)
+I'm the one I should love
+(Oh oh oh oh oh oh oh oh oh oh)
+I'm the one I should love
+Oh oh oh whoa yeah",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/435093692/epiphany?co=GB&referrer=shortcuts&offsetInMilliseconds=197181&timeSkew=9.471178E-4&trackLength=234800&startDate=2024-05-08T08:56:38.395Z",
+"Apple Music URL": "https://music.apple.com/gb/album/epiphany/1598730614?i=1598730973&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "BTS - Epiphany",
+},
+{
+"TimeStamp": "8 May 2024 at 09:57",
+"Title": "Lost",
+"Artist": "The Wind and The Wave",
+"is_Explicit": "No",
+"Lyrics Snippets": "Oh whisky, water and an ambien
+I guess today's another day we're still
+At the bottom
+At the bottom
+Don't wanna die, but I could sleep",
+"Lyric Snippet Synced": "Oh whisky, water and an ambien
+I guess today's another day we're still
+At the bottom
+At the bottom
+Don't wanna die, but I could sleep",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/331531675/lost?co=GB&referrer=shortcuts&offsetInMilliseconds=-40&timeSkew=-2.6226044E-5&trackLength=218573&startDate=2024-05-08T08:56:55.346Z",
+"Apple Music URL": "https://music.apple.com/gb/album/lost/1451720974?i=1451721177&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "The Wind and The Wave - Lost",
+},
+{
+"TimeStamp": "8 May 2024 at 09:57",
+"Title": "Lost",
+"Artist": "The Wind and The Wave",
+"is_Explicit": "No",
+"Lyrics Snippets": "Oh whisky, water and an ambien
+I guess today's another day we're still
+At the bottom
+At the bottom
+Don't wanna die, but I could sleep",
+"Lyric Snippet Synced": "Don't wanna cry anymore, just keep it together
+I tell myself
+That I won't know where I'm going
+If I don't know where I am
+But I feel more
+I feel more",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/331531675/lost?co=GB&referrer=shortcuts&offsetInMilliseconds=23659&timeSkew=-7.1525574E-7&trackLength=218573&startDate=2024-05-08T08:57:19.049Z",
+"Apple Music URL": "https://music.apple.com/gb/album/lost/1451720974?i=1451721177&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "The Wind and The Wave - Lost",
+},
