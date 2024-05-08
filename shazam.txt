@@ -1053,3 +1053,268 @@ Can you hear me? I've been calling all day",
 "Apple Music URL": "https://music.apple.com/gb/album/bad-connection/1436832956?i=1436832964&itscg=30201&itsct=Shazam_shortcuts",
 "Name": "Yazoo - Bad Connection",
 },
+{
+"TimeStamp": "8 May 2024 at 10:09",
+"Title": "Take On Me",
+"Artist": "A1",
+"is_Explicit": "No",
+"Lyrics Snippets": "Talkin' away
+I don't know what I'm to say
+I'll say it anyway
+Today's another day to find you
+Shine away
+I'll be comin' for your love, okay",
+"Lyric Snippet Synced": "Talkin' away
+I don't know what I'm to say
+I'll say it anyway
+Today's another day to find you
+Shine away
+I'll be comin' for your love, okay",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/take-on-me/306115922",
+"Shazem URL": "https://www.shazam.com/track/217526/take-on-me?co=GB&referrer=shortcuts&offsetInMilliseconds=5850&timeSkew=-2.0861626E-6&trackLength=212880&startDate=2024-05-08T09:09:39.513Z",
+"Apple Music URL": "https://music.apple.com/gb/album/take-on-me/580394965?i=580394975&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "A1 - Take On Me",
+},
+{
+"TimeStamp": "8 May 2024 at 10:09",
+"Title": "Take On Me",
+"Artist": "A1",
+"is_Explicit": "No",
+"Lyrics Snippets": "Talkin' away
+I don't know what I'm to say
+I'll say it anyway
+Today's another day to find you
+Shine away
+I'll be comin' for your love, okay",
+"Lyric Snippet Synced": "Talkin' away
+I don't know what I'm to say
+I'll say it anyway
+Today's another day to find you
+Shine away
+I'll be comin' for your love, okay",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/take-on-me/306115922",
+"Shazem URL": "https://www.shazam.com/track/217526/take-on-me?co=GB&referrer=shortcuts&offsetInMilliseconds=20534&timeSkew=0.0023891926&trackLength=212880&startDate=2024-05-08T09:09:54.190Z",
+"Apple Music URL": "https://music.apple.com/gb/album/take-on-me/580394965?i=580394975&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "A1 - Take On Me",
+},
+{
+"TimeStamp": "8 May 2024 at 10:13",
+"Title": "Yabo Dehka Genan (Soundtracks)",
+"Artist": "Farid El Atrache",
+"is_Explicit": "No",
+"Lyrics Snippets": "يابو ضحكة جنان مليانه حنان
+اضحكها كمان وكمان
+يابو ضحكة جنان
+خليك فرحان وأضحك على طول
+لك ضحكة جنان شئ مش معقول
+تشفها الروح عمرها بيروح",
+"Lyric Snippet Synced": "يابو ضحكة جنان مليانه حنان
+اضحكها كمان وكمان
+يابو ضحكة جنان
+خليك فرحان وأضحك على طول
+لك ضحكة جنان شئ مش معقول
+تشفها الروح عمرها بيروح",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/10286834/yabo-dehka-genan-soundtracks?co=GB&referrer=shortcuts&offsetInMilliseconds=8347&timeSkew=5.4705143E-4&trackLength=336027&startDate=2024-05-08T09:13:16.871Z",
+"Apple Music URL": "https://music.apple.com/gb/album/yabo-dehka-genan-soundtracks/839554898?i=839554930&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Farid El Atrache - Yabo Dehka Genan (Soundtracks)",
+},
+{
+"TimeStamp": "8 May 2024 at 10:13",
+"Title": "Yabo Dehka Genan (Soundtracks)",
+"Artist": "Farid El Atrache",
+"is_Explicit": "No",
+"Lyrics Snippets": "يابو ضحكة جنان مليانه حنان
+اضحكها كمان وكمان
+يابو ضحكة جنان
+خليك فرحان وأضحك على طول
+لك ضحكة جنان شئ مش معقول
+تشفها الروح عمرها بيروح",
+"Lyric Snippet Synced": "يابو ضحكة جنان مليانه حنان
+اضحكها كمان وكمان
+يابو ضحكة جنان
+خليك فرحان وأضحك على طول
+لك ضحكة جنان شئ مش معقول
+تشفها الروح عمرها بيروح",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/10286834/yabo-dehka-genan-soundtracks?co=GB&referrer=shortcuts&offsetInMilliseconds=23494&timeSkew=0.0010885&trackLength=336027&startDate=2024-05-08T09:13:32.021Z",
+"Apple Music URL": "https://music.apple.com/gb/album/yabo-dehka-genan-soundtracks/839554898?i=839554930&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Farid El Atrache - Yabo Dehka Genan (Soundtracks)",
+},
+{
+"TimeStamp": "8 May 2024 at 10:18",
+"Title": "Kiss from a Rose",
+"Artist": "Seal",
+"is_Explicit": "No",
+"Lyrics Snippets": "There used to be a graying tower alone on the sea
+You became the light on the dark side of me
+Love remained a drug that's the high and not the pill",
+"Lyric Snippet Synced": "There used to be a graying tower alone on the sea
+You became the light on the dark side of me
+Love remained a drug that's the high and not the pill",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/601022/kiss-from-a-rose?co=GB&referrer=shortcuts&offsetInMilliseconds=183&timeSkew=-7.301569E-5&trackLength=288140&startDate=2024-05-08T09:18:39.673Z",
+"Apple Music URL": "https://music.apple.com/gb/album/kiss-from-a-rose/302788213?i=302788219&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Seal - Kiss from a Rose",
+},
+{
+"TimeStamp": "8 May 2024 at 10:19",
+"Title": "Kiss from a Rose",
+"Artist": "Seal",
+"is_Explicit": "No",
+"Lyrics Snippets": "There used to be a graying tower alone on the sea
+You became the light on the dark side of me
+Love remained a drug that's the high and not the pill",
+"Lyric Snippet Synced": "There used to be a graying tower alone on the sea
+You became the light on the dark side of me
+Love remained a drug that's the high and not the pill",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/601022/kiss-from-a-rose?co=GB&referrer=shortcuts&offsetInMilliseconds=12634&timeSkew=8.095503E-4&trackLength=218400&startDate=2024-05-08T09:19:03.276Z",
+"Apple Music URL": "https://music.apple.com/gb/album/kiss-from-a-rose/302788213?i=302788219&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Seal - Kiss from a Rose",
+},
+{
+"TimeStamp": "8 May 2024 at 10:24",
+"Title": "Break the Ice",
+"Artist": "John Farnham",
+"is_Explicit": "No",
+"Lyrics Snippets": "Frozen in silence
+Facing it alone
+Gotta keep my cool
+Make em think I'm made of stone
+It's a game of wills we're playin
+Our nerves are made of steel",
+"Lyric Snippet Synced": "Gotta feel it right through my skin
+And it's cuttin like a knife
+Get ready to break the ice
+Feels like time is standing still",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/94795423/break-the-ice?co=GB&referrer=shortcuts&offsetInMilliseconds=58024&timeSkew=0.001426816&trackLength=195209&startDate=2024-05-08T09:24:27.048Z",
+"Apple Music URL": "https://music.apple.com/gb/album/break-the-ice/1366294054?i=1366294058&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "John Farnham - Break the Ice",
+},
+{
+"TimeStamp": "8 May 2024 at 10:25",
+"Title": "Break the Ice",
+"Artist": "John Farnham",
+"is_Explicit": "No",
+"Lyrics Snippets": "Frozen in silence
+Facing it alone
+Gotta keep my cool
+Make em think I'm made of stone
+It's a game of wills we're playin
+Our nerves are made of steel",
+"Lyric Snippet Synced": "You can break the ice inside of me
+A single minded passion
+A solitary stand
+I thought I was alone
+Left out in the cold again",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/94795423/break-the-ice?co=GB&referrer=shortcuts&offsetInMilliseconds=87456&timeSkew=0.0020432472&trackLength=195209&startDate=2024-05-08T09:24:56.488Z",
+"Apple Music URL": "https://music.apple.com/gb/album/break-the-ice/1366294054?i=1366294058&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "John Farnham - Break the Ice",
+},
+{
+"TimeStamp": "8 May 2024 at 10:26",
+"Title": "Give Me All Night",
+"Artist": "Carly Simon",
+"is_Explicit": "No",
+"Lyrics Snippets": "I have no need of half of anything
+No half time, no half a man's attention
+Give me all the earth and sky
+And at the same time add a new dimension",
+"Lyric Snippet Synced": "I have no need of half of anything
+No half time, no half a man's attention
+Give me all the earth and sky
+And at the same time add a new dimension",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/give-me-all-night/1279158735",
+"Shazem URL": "https://www.shazam.com/track/389421/give-me-all-night?co=GB&referrer=shortcuts&offsetInMilliseconds=7816&timeSkew=0.0021293163&trackLength=264241&startDate=2024-05-08T09:26:17.464Z",
+"Apple Music URL": "https://music.apple.com/gb/album/give-me-all-night/272189025?i=272189037&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Carly Simon - Give Me All Night",
+},
+{
+"TimeStamp": "8 May 2024 at 10:26",
+"Title": "Try a Little Kindness",
+"Artist": "Glen Campbell",
+"is_Explicit": "No",
+"Lyrics Snippets": "If you see your brother standing by the road
+With a heavy load from the seeds he sowed
+And if you see your sister falling by the way",
+"Lyric Snippet Synced": "If you see your brother standing by the road
+With a heavy load from the seeds he sowed
+And if you see your sister falling by the way",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/601502/try-a-little-kindness?co=GB&referrer=shortcuts&offsetInMilliseconds=10716&timeSkew=0.004799485&trackLength=146173&startDate=2024-05-08T09:26:48.080Z",
+"Apple Music URL": "https://music.apple.com/gb/album/try-a-little-kindness/714419805?i=714419857&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Glen Campbell - Try a Little Kindness",
+},
+{
+"TimeStamp": "8 May 2024 at 10:28",
+"Title": "Try a Little Kindness",
+"Artist": "Glen Campbell",
+"is_Explicit": "No",
+"Lyrics Snippets": "If you see your brother standing by the road
+With a heavy load from the seeds he sowed
+And if you see your sister falling by the way",
+"Lyric Snippet Synced": "Of narrow minded people of the narrow minded streets",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/601502/try-a-little-kindness?co=GB&referrer=shortcuts&offsetInMilliseconds=131573&timeSkew=0.007453561&trackLength=146173&startDate=2024-05-08T09:28:48.524Z",
+"Apple Music URL": "https://music.apple.com/gb/album/try-a-little-kindness/714419805?i=714419857&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Glen Campbell - Try a Little Kindness",
+},
+{
+"TimeStamp": "8 May 2024 at 10:29",
+"Title": "Bonfire Heart",
+"Artist": "James Blunt",
+"is_Explicit": "No",
+"Lyrics Snippets": "Your mouth is a revolver
+Firing bullets in the sky
+Mmm
+Your love is like a soldier
+Loyal till you die
+Mmm",
+"Lyric Snippet Synced": "Your mouth is a revolver
+Firing bullets in the sky
+Mmm
+Your love is like a soldier
+Loyal till you die
+Mmm",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/92165974/bonfire-heart?co=GB&referrer=shortcuts&offsetInMilliseconds=3307&timeSkew=-1.9854307E-4&trackLength=235280&startDate=2024-05-08T09:29:07.041Z",
+"Apple Music URL": "https://music.apple.com/gb/album/bonfire-heart/686566424?i=686566428&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "James Blunt - Bonfire Heart",
+},
+{
+"TimeStamp": "8 May 2024 at 10:29",
+"Title": "Bonfire Heart",
+"Artist": "James Blunt",
+"is_Explicit": "No",
+"Lyrics Snippets": "Your mouth is a revolver
+Firing bullets in the sky
+Mmm
+Your love is like a soldier
+Loyal till you die
+Mmm",
+"Lyric Snippet Synced": "Mmm
+And I've been looking at the stars for a long, long time
+I've putting out fires all my life
+Everybody wants a flame
+They don't want to get burnt",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/92165974/bonfire-heart?co=GB&referrer=shortcuts&offsetInMilliseconds=21829&timeSkew=5.4872036E-4&trackLength=235280&startDate=2024-05-08T09:29:25.579Z",
+"Apple Music URL": "https://music.apple.com/gb/album/bonfire-heart/686566424?i=686566428&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "James Blunt - Bonfire Heart",
+},
