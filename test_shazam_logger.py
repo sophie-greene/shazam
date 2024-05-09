@@ -114,21 +114,6 @@ class TestShazamLogger(unittest.TestCase):
         # Asserting that subprocess.run was called
         mock_subprocess.run.assert_called()
 
-    def test_match(self):
-        """
-        Test the match function.
-        """
-        sentence = 'This is a test sentence.'
-        chars = 'aeiou'
-
-        # Testing when all characters are present
-        result = shazam_logger.match(sentence, chars)
-        self.assertTrue(result)
-
-        # Testing when not all characters are present
-        chars = '12345'
-        result = shazam_logger.match(sentence, chars)
-        self.assertFalse(result)
 
     @patch('shazam_logger.BeautifulSoup')
     def test_parse_row(self, mock_beautifulsoup):

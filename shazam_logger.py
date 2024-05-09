@@ -268,22 +268,7 @@ def get_row(outfile):
               outfile]
     return subprocess.run(script, None, None, check=False)
 
-
-def match(sentence, chars):
-    """
-    The match function takes two arguments and returns True
-    only if all the characters in `chars` are present
-    in `sentence` and False otherwise
-    ---------------------------------------------
-    :param sentence: Check if the sentence contains
-     all of the characters in chars
-    :param chars: Check if all the characters in it are present in the sentence
-    :return: A boolean value
-    """
-    return all(map(lambda c: c in sentence, chars))
-
-
-def parse_row(outfile):
+def parse_row(outfile, encoding='utf-8'):
     """
     The parse_row function parses the XML document using lxml parser.
     it uses the `SHAZAM_TEMPLATE` string as map to read the xml data
@@ -292,23 +277,26 @@ def parse_row(outfile):
     :return: A dictionary with keys as the tag names
         and values as the text content of those tags
     """
-    if not os.path.exists(outfile):
-        return None
-    soup = BeautifulSoup(SHAZAM_TEMPLATE.replace('\n', ''), 'xml')
+    soup = BeautifulSoup(SHAZAM_TEMPLATE, 'xml')
     root = soup.root
-    tags = []
-    for c in root.children:
-        tags.append(c.name)
-    # Parse the XML document using lxml parser
-    with open(outfile, encoding='utf-8') as f:
-        row = f.read().replace('\n', '')
-    soup = BeautifulSoup(row, 'xml')
-    dct = {}
-    # Iterate over the <item> tags
-    for tag in tags:
-        dct[tag] = soup.select_one(tag).text
-    if len(dct) == 0:
-        return None
+    tags = [tag  for tag in root.children if tag and tag!='root']
+    print()
+    try:
+        with open(outfile, encoding=encoding) as f:
+            row = f.read()
+    except FileNotFoundError:
+        return FileNotFoundError
+    # print(row)
+    soup = BeautifulSoup(row.replace('\n', ''), 'xml')
+    root = soup.select_one('root')
+    if root:
+        dct = {}
+        for tag in tags:
+            if not tag:
+                continue
+            tag_content = root.find(tag)
+            if tag_content:
+                dct[tag] = tag_content.text
     return dct
 
 
@@ -320,21 +308,14 @@ def read_db(db_file, encoding='utf-8'):
     :param encoding: Specify the encoding of the file
     :return: A pandas dataframe with the contents of the file
     """
+    print(db_file)
     name, ext = os.path.splitext(db_file)
     name = name.split('/')[-1]
     method = READ_EXT.get(ext)
     if method:
         read_method = getattr(pd, method)
         df = read_method(db_file, encoding=encoding)
-    else:
-        print("Unsupported file extension.")
-        print('trying to read file in csv format')
-        try:
-            df = pd.read_csv(db_file)
-        except pd.errors.ParserError as e:
-            print(f'Invalid data format {e.with_traceback}')
-            return None
-    return df
+        return df
 
 
 def write_db(df, db_file, encoding='utf-8'):

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+<timestamp>
+9 May 2024 at 18:57
+</timestamp>
+
+<title>
+Aloha
+</title>
+
+<artist>
+Cho Jung-seok
+</artist>
+
+<isexplicit>
+No
+</isexplicit>
+
+<lyricssnippet>
+어두운 불빛 아래 촛불 하나
+와인 잔에 담긴 약속 하나
+항상 너의 곁에서 널 지켜 줄 거야
+날 믿어 준 너였잖아
+나 바라는 건 오직 하나
+영원한 행복을 꿈꾸지만
+화려하지 않아도 꿈같진 않아도
+너만 있어 주면 돼
+걱정 마 (I believe)
+</lyricssnippet>
+
+<lyricsnippetsynced>
+'Cause your love is so sweet
+You are my everything
+첫날밤의 단꿈에 젖어
+하는 말이 아냐 난 변하지 않아
+오직 너만 바라볼 거야 Oh
+You're light of my life
+You are the one in my life
+</lyricsnippetsynced>
+
+<artwork>
+Image
+</artwork>
+
+<videourl>
+
+</videourl>
+
+<shazamurl>
+https://www.shazam.com/track/511213452/aloha?co=GB&referrer=shortcuts&offsetInMilliseconds=169884&timeSkew=0.0010513067&trackLength=244999&startDate=2024-05-09T17:57:05.276Z
+</shazamurl>
+
+<applemusicurl>
+https://music.apple.com/gb/album/aloha/1570389407?i=1570389411&itscg=30201&itsct=Shazam_shortcuts
+</applemusicurl>
+
+<name>
+Cho Jung-seok - Aloha
+</name>
+
+</root>
