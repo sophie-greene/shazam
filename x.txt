@@ -1,0 +1,21 @@
+{"TimeStamp": "9 May 2024 at 04:21",
+"Title": "With Me",
+"Artist": "Realslow",
+"is_Explicit": "No",
+"Lyrics Snippets": "This song is dedicated to
+All the broken hearts
+Been there, done that
+Mr. Real Slow, Real Slow
+Are you ready for shock?
+네 손짓하나 보는 게 난 좋은데",
+"Lyric Snippet Synced": "This song is dedicated to
+All the broken hearts
+Been there, done that
+Mr. Real Slow, Real Slow
+Are you ready for shock?
+네 손짓하나 보는 게 난 좋은데",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/40069883/with-me?co=GB&referrer=shortcuts&offsetInMilliseconds=140&timeSkew=0.004622698&trackLength=211293&startDate=2024-05-09T03:21:02.873Z",
+"Apple Music URL": "https://music.apple.com/gb/album/with-me/1375826431?i=1375826720&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Realslow - With Me"}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+<timestamp>
+9 May 2024 at 16:07
+</timestamp>
+
+<title>
+Heart Flutter (Inst.)
+</title>
+
+<artist>
+dori
+</artist>
+
+<isexplicit>
+No
+</isexplicit>
+
+<lyricssnippet>
+
+</lyricssnippet>
+
+<lyricsnippetsynced>
+
+</lyricsnippetsynced>
+
+<artwork>
+Image
+</artwork>
+
+<videourl>
+
+</videourl>
+
+<shazamurl>
+https://www.shazam.com/track/698398330/heart-flutter-inst?co=GB&referrer=shortcuts&offsetInMilliseconds=136302&timeSkew=-0.003493011&trackLength=220880&startDate=2024-05-09T15:07:37.301Z
+</shazamurl>
+
+<applemusicurl>
+https://music.apple.com/gb/album/heart-flutter-inst/1741915998?i=1741916000&itscg=30201&itsct=Shazam_shortcuts
+</applemusicurl>
+
+<name>
+dori - Heart Flutter (Inst.)
+</name>
+
+</root>

@@ -1318,3 +1318,597 @@ They don't want to get burnt",
 "Apple Music URL": "https://music.apple.com/gb/album/bonfire-heart/686566424?i=686566428&itscg=30201&itsct=Shazam_shortcuts",
 "Name": "James Blunt - Bonfire Heart",
 },
+{
+"TimeStamp": "8 May 2024 at 10:33",
+"Title": "Boyfriend",
+"Artist": "Tegan and Sara",
+"is_Explicit": "No",
+"Lyrics Snippets": "Tell you that I love you, that I can't hold back
+The feeling that you give me, wanna give it right back
+I know you always win at this particular game",
+"Lyric Snippet Synced": "Tell you that I love you, that I can't hold back
+The feeling that you give me, wanna give it right back
+I know you always win at this particular game",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/boyfriend/1114560459",
+"Shazem URL": "https://www.shazam.com/track/314585256/boyfriend?co=GB&referrer=shortcuts&offsetInMilliseconds=5190&timeSkew=-0.003941536&trackLength=167493&startDate=2024-05-08T09:33:07.216Z",
+"Apple Music URL": "https://music.apple.com/gb/album/boyfriend/1097169273?i=1097169276&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Tegan and Sara - Boyfriend",
+},
+{
+"TimeStamp": "8 May 2024 at 10:33",
+"Title": "Boyfriend",
+"Artist": "Tegan and Sara",
+"is_Explicit": "No",
+"Lyrics Snippets": "Tell you that I love you, that I can't hold back
+The feeling that you give me, wanna give it right back
+I know you always win at this particular game",
+"Lyric Snippet Synced": "I need to know the rules if you want me to play
+You treat me like your boyfriend
+And trust me like a, like a very best friend",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/boyfriend/1114560459",
+"Shazem URL": "https://www.shazam.com/track/314585256/boyfriend?co=GB&referrer=shortcuts&offsetInMilliseconds=23895&timeSkew=-3.7133694E-5&trackLength=167493&startDate=2024-05-08T09:33:25.947Z",
+"Apple Music URL": "https://music.apple.com/gb/album/boyfriend/1097169273?i=1097169276&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Tegan and Sara - Boyfriend",
+},
+{
+"TimeStamp": "8 May 2024 at 16:31",
+"Title": "Don't Go Breaking My Heart",
+"Artist": "Elton John & Kiki Dee",
+"is_Explicit": "No",
+"Lyrics Snippets": "Don't go breaking my heart
+I couldn't if I tried
+Oh honey, if I get restless
+Baby, you're not that kind
+Don't go breaking my heart",
+"Lyric Snippet Synced": "Don't go breaking my heart
+I couldn't if I tried
+Oh honey, if I get restless
+Baby, you're not that kind
+Don't go breaking my heart",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/383281/dont-go-breaking-my-heart?co=GB&referrer=shortcuts&offsetInMilliseconds=6181&timeSkew=2.874136E-4&trackLength=259333&startDate=2024-05-08T15:31:07.607Z",
+"Apple Music URL": "https://music.apple.com/gb/album/dont-go-breaking-my-heart/1440912950?i=1440913387&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Elton John & Kiki Dee - Don't Go Breaking My Heart",
+},
+{
+"TimeStamp": "8 May 2024 at 16:31",
+"Title": "Don't Go Breaking My Heart",
+"Artist": "Elton John & Kiki Dee",
+"is_Explicit": "No",
+"Lyrics Snippets": "Don't go breaking my heart
+I couldn't if I tried
+Oh honey, if I get restless
+Baby, you're not that kind
+Don't go breaking my heart",
+"Lyric Snippet Synced": "Baby, you're not that kind
+Don't go breaking my heart
+You take the weight off of me
+Oh honey, when you knock on my door
+Ooh, I gave you my key",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/383281/dont-go-breaking-my-heart?co=GB&referrer=shortcuts&offsetInMilliseconds=25008&timeSkew=8.227825E-4&trackLength=259333&startDate=2024-05-08T15:31:26.410Z",
+"Apple Music URL": "https://music.apple.com/gb/album/dont-go-breaking-my-heart/1440912950?i=1440913387&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Elton John & Kiki Dee - Don't Go Breaking My Heart",
+},
+{
+"TimeStamp": "8 May 2024 at 16:32",
+"Title": "Savoy Truffle",
+"Artist": "The Beatles",
+"is_Explicit": "No",
+"Lyrics Snippets": "Creme tangerine and montelimar
+A ginger sling with a pineapple heart
+A coffee dessert, yes, you know it's good news",
+"Lyric Snippet Synced": "Creme tangerine and montelimar
+A ginger sling with a pineapple heart
+A coffee dessert, yes, you know it's good news",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/5903354/savoy-truffle?co=GB&referrer=shortcuts&offsetInMilliseconds=1248&timeSkew=8.6033344E-4&trackLength=174466&startDate=2024-05-08T15:32:21.725Z",
+"Apple Music URL": "https://music.apple.com/gb/album/savoy-truffle/1441133180?i=1441134470&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "The Beatles - Savoy Truffle",
+},
+{
+"TimeStamp": "8 May 2024 at 16:32",
+"Title": "Chasin' the Wind",
+"Artist": "Chicago",
+"is_Explicit": "No",
+"Lyrics Snippets": "Did the best I could to make you mine
+If you ever felt anything for me
+Well, you never gave a sign
+Thought time would make you change",
+"Lyric Snippet Synced": "Did the best I could to make you mine
+If you ever felt anything for me
+Well, you never gave a sign
+Thought time would make you change",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/47113092/chasin-the-wind?co=GB&referrer=shortcuts&offsetInMilliseconds=-629&timeSkew=0.009298801&trackLength=257933&startDate=2024-05-08T15:32:43.680Z",
+"Apple Music URL": "https://music.apple.com/gb/album/chasin-the-wind/350289545?i=350289683&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Chicago - Chasin' the Wind",
+},
+{
+"TimeStamp": "8 May 2024 at 16:33",
+"Title": "Take It Easy",
+"Artist": "Eagles",
+"is_Explicit": "No",
+"Lyrics Snippets": "Well, I'm a-runnin' down the road tryna loosen my load
+I've got seven women on my mind
+Four that wanna own me, two that wanna stone me",
+"Lyric Snippet Synced": "Well, I'm a-runnin' down the road tryna loosen my load
+I've got seven women on my mind
+Four that wanna own me, two that wanna stone me",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/252903/take-it-easy?co=GB&referrer=shortcuts&offsetInMilliseconds=257&timeSkew=-0.0041509867&trackLength=212466&startDate=2024-05-08T15:33:04.011Z",
+"Apple Music URL": "https://music.apple.com/gb/album/take-it-easy/635791801?i=635791802&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Eagles - Take It Easy",
+},
+{
+"TimeStamp": "8 May 2024 at 16:33",
+"Title": "Take It Easy",
+"Artist": "Eagles",
+"is_Explicit": "No",
+"Lyrics Snippets": "Well, I'm a-runnin' down the road tryna loosen my load
+I've got seven women on my mind
+Four that wanna own me, two that wanna stone me",
+"Lyric Snippet Synced": "Well, I'm a-runnin' down the road tryna loosen my load
+I've got seven women on my mind
+Four that wanna own me, two that wanna stone me",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/252903/take-it-easy?co=GB&referrer=shortcuts&offsetInMilliseconds=18768&timeSkew=0.0&trackLength=212466&startDate=2024-05-08T15:33:22.556Z",
+"Apple Music URL": "https://music.apple.com/gb/album/take-it-easy/635791801?i=635791802&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Eagles - Take It Easy",
+},
+{
+"TimeStamp": "8 May 2024 at 16:36",
+"Title": "Sweet Home Alabama",
+"Artist": "Lynyrd Skynyrd",
+"is_Explicit": "No",
+"Lyrics Snippets": "One, two, three
+Turn it up
+Big wheels keep on turning
+Carry me home to see my kin
+Singing songs about the South-land",
+"Lyric Snippet Synced": "Turn it up
+Big wheels keep on turning
+Carry me home to see my kin
+Singing songs about the South-land",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/10596558/sweet-home-alabama?co=GB&referrer=shortcuts&offsetInMilliseconds=9813&timeSkew=0.0044373274&trackLength=285333&startDate=2024-05-08T15:36:45.684Z",
+"Apple Music URL": "https://music.apple.com/gb/album/sweet-home-alabama/1440846806?i=1440846819&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Lynyrd Skynyrd - Sweet Home Alabama",
+},
+{
+"TimeStamp": "8 May 2024 at 16:37",
+"Title": "Sweet Home Alabama",
+"Artist": "Lynyrd Skynyrd",
+"is_Explicit": "No",
+"Lyrics Snippets": "One, two, three
+Turn it up
+Big wheels keep on turning
+Carry me home to see my kin
+Singing songs about the South-land",
+"Lyric Snippet Synced": "Carry me home to see my kin
+Singing songs about the South-land
+I miss Alabamy once again and I think it's a sin, yes",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/10596558/sweet-home-alabama?co=GB&referrer=shortcuts&offsetInMilliseconds=28585&timeSkew=0.008736253&trackLength=285333&startDate=2024-05-08T15:37:04.315Z",
+"Apple Music URL": "https://music.apple.com/gb/album/sweet-home-alabama/1440846806?i=1440846819&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Lynyrd Skynyrd - Sweet Home Alabama",
+},
+{
+"TimeStamp": "8 May 2024 at 16:41",
+"Title": "Nightrider",
+"Artist": "Electric Light Orchestra",
+"is_Explicit": "No",
+"Lyrics Snippets": "I remember somewhere in the rain
+The faces of the passers-by
+Staring faces, broken blinds
+I recall the situation clearly
+Standin' in a crowded car",
+"Lyric Snippet Synced": "I remember somewhere in the rain
+The faces of the passers-by
+Staring faces, broken blinds
+I recall the situation clearly
+Standin' in a crowded car",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/10015222/nightrider?co=GB&referrer=shortcuts&offsetInMilliseconds=588&timeSkew=-0.0018040538&trackLength=262706&startDate=2024-05-08T15:41:22.628Z",
+"Apple Music URL": "https://music.apple.com/gb/album/nightrider/1054522350?i=1054522781&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Electric Light Orchestra - Nightrider",
+},
+{
+"TimeStamp": "8 May 2024 at 16:41",
+"Title": "Nightrider",
+"Artist": "Electric Light Orchestra",
+"is_Explicit": "No",
+"Lyrics Snippets": "I remember somewhere in the rain
+The faces of the passers-by
+Staring faces, broken blinds
+I recall the situation clearly
+Standin' in a crowded car",
+"Lyric Snippet Synced": "The faces of the passers-by
+Staring faces, broken blinds
+I recall the situation clearly
+Standin' in a crowded car
+I can feel the need in me (Ooh)",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/10015222/nightrider?co=GB&referrer=shortcuts&offsetInMilliseconds=19235&timeSkew=-0.0034722686&trackLength=262706&startDate=2024-05-08T15:41:41.340Z",
+"Apple Music URL": "https://music.apple.com/gb/album/nightrider/1054522350?i=1054522781&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Electric Light Orchestra - Nightrider",
+},
+{
+"TimeStamp": "8 May 2024 at 16:42",
+"Title": "Don't Stop",
+"Artist": "Fleetwood Mac",
+"is_Explicit": "No",
+"Lyrics Snippets": "If you wake up and don't wanna smile
+If it takes just a little while
+Open your eyes and look at the day
+You'll see things in a different way",
+"Lyric Snippet Synced": "If you wake up and don't wanna smile
+If it takes just a little while
+Open your eyes and look at the day
+You'll see things in a different way",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/226421/dont-stop?co=GB&referrer=shortcuts&offsetInMilliseconds=223&timeSkew=-0.0023082495&trackLength=193040&startDate=2024-05-08T15:42:18.457Z",
+"Apple Music URL": "https://music.apple.com/gb/album/dont-stop/594061854?i=594061858&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Fleetwood Mac - Don't Stop",
+},
+{
+"TimeStamp": "8 May 2024 at 16:42",
+"Title": "Piano Man",
+"Artist": "Billy Joel",
+"is_Explicit": "No",
+"Lyrics Snippets": "It's nine o'clock on a Saturday
+The regular crowd shuffles in
+There's an old man sitting next to me
+Making love to his tonic and gin",
+"Lyric Snippet Synced": "It's nine o'clock on a Saturday
+The regular crowd shuffles in
+There's an old man sitting next to me
+Making love to his tonic and gin",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/394858/piano-man?co=GB&referrer=shortcuts&offsetInMilliseconds=28&timeSkew=-0.0013625622&trackLength=337253&startDate=2024-05-08T15:42:38.235Z",
+"Apple Music URL": "https://music.apple.com/gb/album/piano-man/158617297?i=158617575&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Billy Joel - Piano Man",
+},
+{
+"TimeStamp": "8 May 2024 at 16:42",
+"Title": "Piano Man",
+"Artist": "Billy Joel",
+"is_Explicit": "No",
+"Lyrics Snippets": "It's nine o'clock on a Saturday
+The regular crowd shuffles in
+There's an old man sitting next to me
+Making love to his tonic and gin",
+"Lyric Snippet Synced": "It's nine o'clock on a Saturday
+The regular crowd shuffles in
+There's an old man sitting next to me
+Making love to his tonic and gin",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/394858/piano-man?co=GB&referrer=shortcuts&offsetInMilliseconds=18452&timeSkew=-7.3462725E-4&trackLength=337253&startDate=2024-05-08T15:42:56.710Z",
+"Apple Music URL": "https://music.apple.com/gb/album/piano-man/158617297?i=158617575&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Billy Joel - Piano Man",
+},
+{
+"TimeStamp": "8 May 2024 at 16:48",
+"Title": "Dancing In the Dark",
+"Artist": "Bruce Springsteen",
+"is_Explicit": "No",
+"Lyrics Snippets": "I get up in the evening
+And I ain't got nothing to say
+I come home in the morning
+I go to bed feeling the same way
+I ain't nothing but tired",
+"Lyric Snippet Synced": "I get up in the evening
+And I ain't got nothing to say
+I come home in the morning
+I go to bed feeling the same way
+I ain't nothing but tired",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/221006/dancing-in-the-dark?co=GB&referrer=shortcuts&offsetInMilliseconds=9776&timeSkew=0.002450347&trackLength=242547&startDate=2024-05-08T15:48:28.361Z",
+"Apple Music URL": "https://music.apple.com/gb/album/dancing-in-the-dark/203708420?i=203709340&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Bruce Springsteen - Dancing In the Dark",
+},
+{
+"TimeStamp": "8 May 2024 at 16:48",
+"Title": "Dancing In the Dark",
+"Artist": "Bruce Springsteen",
+"is_Explicit": "No",
+"Lyrics Snippets": "I get up in the evening
+And I ain't got nothing to say
+I come home in the morning
+I go to bed feeling the same way
+I ain't nothing but tired",
+"Lyric Snippet Synced": "I ain't nothing but tired
+Man, I'm just tired and bored with myself
+Hey there, baby
+I could use just a little help
+You can't start a fire",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/221006/dancing-in-the-dark?co=GB&referrer=shortcuts&offsetInMilliseconds=28444&timeSkew=0.0036290884&trackLength=242547&startDate=2024-05-08T15:48:46.966Z",
+"Apple Music URL": "https://music.apple.com/gb/album/dancing-in-the-dark/203708420?i=203709340&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Bruce Springsteen - Dancing In the Dark",
+},
+{
+"TimeStamp": "8 May 2024 at 16:52",
+"Title": "Desperado",
+"Artist": "Eagles",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/360920/desperado?co=GB&referrer=shortcuts&offsetInMilliseconds=3146&timeSkew=8.3863735E-4&trackLength=213712&startDate=2024-05-08T15:52:28.445Z",
+"Apple Music URL": "https://music.apple.com/gb/album/desperado/635800390?i=635800400&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Eagles - Desperado",
+},
+{
+"TimeStamp": "8 May 2024 at 16:52",
+"Title": "Desperado",
+"Artist": "Eagles",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/360920/desperado?co=GB&referrer=shortcuts&offsetInMilliseconds=21812&timeSkew=0.0014517307&trackLength=213712&startDate=2024-05-08T15:52:47.097Z",
+"Apple Music URL": "https://music.apple.com/gb/album/desperado/635800390?i=635800400&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Eagles - Desperado",
+},
+{
+"TimeStamp": "8 May 2024 at 16:53",
+"Title": "Vincent (feat. Don McLean)",
+"Artist": "Home Free",
+"is_Explicit": "No",
+"Lyrics Snippets": "Starry, starry night
+Paint your palette blue and gray
+Look out on a summer's day
+With eyes that know the darkness in my soul
+Shadows on the hills",
+"Lyric Snippet Synced": "Starry, starry night
+Paint your palette blue and gray
+Look out on a summer's day
+With eyes that know the darkness in my soul
+Shadows on the hills",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/697759530/vincent-feat-don-mclean?co=GB&referrer=shortcuts&offsetInMilliseconds=-1094&timeSkew=1.5056133E-4&trackLength=247699&startDate=2024-05-08T15:53:05.576Z",
+"Apple Music URL": "https://music.apple.com/gb/album/vincent-feat-don-mclean/1740840909?i=1740840915&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Home Free - Vincent (feat. Don McLean)",
+},
+{
+"TimeStamp": "8 May 2024 at 16:54",
+"Title": "Vincent (feat. Don McLean)",
+"Artist": "Home Free",
+"is_Explicit": "No",
+"Lyrics Snippets": "Starry, starry night
+Paint your palette blue and gray
+Look out on a summer's day
+With eyes that know the darkness in my soul
+Shadows on the hills",
+"Lyric Snippet Synced": "Starry, starry night
+Paint your palette blue and gray
+Look out on a summer's day
+With eyes that know the darkness in my soul
+Shadows on the hills",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/697759530/vincent-feat-don-mclean?co=GB&referrer=shortcuts&offsetInMilliseconds=100214&timeSkew=-2.335906E-4&trackLength=247699&startDate=2024-05-08T15:54:46.868Z",
+"Apple Music URL": "https://music.apple.com/gb/album/vincent-feat-don-mclean/1740840909?i=1740840915&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Home Free - Vincent (feat. Don McLean)",
+},
+{
+"TimeStamp": "8 May 2024 at 16:57",
+"Title": "Desperado",
+"Artist": "Eagles",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/360920/desperado?co=GB&referrer=shortcuts&offsetInMilliseconds=120225&timeSkew=-6.519556E-4&trackLength=213712&startDate=2024-05-08T15:57:35.803Z",
+"Apple Music URL": "https://music.apple.com/gb/album/desperado/635800390?i=635800400&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Eagles - Desperado",
+},
+{
+"TimeStamp": "8 May 2024 at 16:57",
+"Title": "Desperado",
+"Artist": "Eagles",
+"is_Explicit": "No",
+"Lyrics Snippets": "",
+"Lyric Snippet Synced": "",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/360920/desperado?co=GB&referrer=shortcuts&offsetInMilliseconds=138686&timeSkew=-0.00377208&trackLength=213712&startDate=2024-05-08T15:57:54.238Z",
+"Apple Music URL": "https://music.apple.com/gb/album/desperado/635800390?i=635800400&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Eagles - Desperado",
+},
+{
+"TimeStamp": "8 May 2024 at 16:59",
+"Title": "Vincent (feat. Don McLean)",
+"Artist": "Home Free",
+"is_Explicit": "No",
+"Lyrics Snippets": "Starry, starry night
+Paint your palette blue and gray
+Look out on a summer's day
+With eyes that know the darkness in my soul
+Shadows on the hills",
+"Lyric Snippet Synced": "Starry, starry night
+Paint your palette blue and gray
+Look out on a summer's day
+With eyes that know the darkness in my soul
+Shadows on the hills",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/697759530/vincent-feat-don-mclean?co=GB&referrer=shortcuts&offsetInMilliseconds=9&timeSkew=-6.4754486E-4&trackLength=247699&startDate=2024-05-08T15:59:10.101Z",
+"Apple Music URL": "https://music.apple.com/gb/album/vincent-feat-don-mclean/1740840909?i=1740840915&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Home Free - Vincent (feat. Don McLean)",
+},
+{
+"TimeStamp": "8 May 2024 at 16:59",
+"Title": "Vincent (feat. Don McLean)",
+"Artist": "Home Free",
+"is_Explicit": "No",
+"Lyrics Snippets": "Starry, starry night
+Paint your palette blue and gray
+Look out on a summer's day
+With eyes that know the darkness in my soul
+Shadows on the hills",
+"Lyric Snippet Synced": "Starry, starry night
+Paint your palette blue and gray
+Look out on a summer's day
+With eyes that know the darkness in my soul
+Shadows on the hills",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/697759530/vincent-feat-don-mclean?co=GB&referrer=shortcuts&offsetInMilliseconds=18498&timeSkew=8.2695484E-4&trackLength=247699&startDate=2024-05-08T15:59:28.609Z",
+"Apple Music URL": "https://music.apple.com/gb/album/vincent-feat-don-mclean/1740840909?i=1740840915&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Home Free - Vincent (feat. Don McLean)",
+},
+{
+"TimeStamp": "8 May 2024 at 19:09",
+"Title": "(They Long To Be) Close To You (1991 Remix)",
+"Artist": "Carpenters",
+"is_Explicit": "No",
+"Lyrics Snippets": "Why do birds suddenly appear
+Every time you are near?
+Just like me, they long to be
+Close to you
+Why do stars fall down from the sky",
+"Lyric Snippet Synced": "(Close to you)",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/54557726/they-long-to-be-close-to-you-1991-remix?co=GB&referrer=shortcuts&offsetInMilliseconds=248255&timeSkew=-1.4775991E-4&trackLength=274186&startDate=2024-05-08T18:09:44.365Z",
+"Apple Music URL": "https://music.apple.com/gb/album/they-long-to-be-close-to-you-1991-remix/1422038612?i=1422038989&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Carpenters - (They Long To Be) Close To You (1991 Remix)",
+},
+{
+"TimeStamp": "8 May 2024 at 19:10",
+"Title": "Killing Me Softly With His Song",
+"Artist": "Roberta Flack",
+"is_Explicit": "No",
+"Lyrics Snippets": "Strumming my pain with his fingers
+Singing my life with his words
+Killing me softly with his song
+Killing me softly with his song",
+"Lyric Snippet Synced": "With his song
+I heard he sang a good song
+I heard he had a style
+And so I came to see him to listen for a while
+And there he was this young boy",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/355098/killing-me-softly-with-his-song?co=GB&referrer=shortcuts&offsetInMilliseconds=30892&timeSkew=6.581545E-4&trackLength=289521&startDate=2024-05-08T18:10:41.045Z",
+"Apple Music URL": "https://music.apple.com/gb/album/killing-me-softly-with-his-song/355038498?i=355038523&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Roberta Flack - Killing Me Softly With His Song",
+},
+{
+"TimeStamp": "8 May 2024 at 19:12",
+"Title": "Killing Me Softly With His Song",
+"Artist": "Roberta Flack",
+"is_Explicit": "No",
+"Lyrics Snippets": "Strumming my pain with his fingers
+Singing my life with his words
+Killing me softly with his song
+Killing me softly with his song",
+"Lyric Snippet Synced": "Killing me softly with his song
+Telling my whole life with his words
+Killing me softly
+With his song
+He sang as if he knew me
+In all my dark despair",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/355098/killing-me-softly-with-his-song?co=GB&referrer=shortcuts&offsetInMilliseconds=138105&timeSkew=0.0023201704&trackLength=289521&startDate=2024-05-08T18:12:28.202Z",
+"Apple Music URL": "https://music.apple.com/gb/album/killing-me-softly-with-his-song/355038498?i=355038523&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Roberta Flack - Killing Me Softly With His Song",
+},
+{
+"TimeStamp": "8 May 2024 at 19:12",
+"Title": "Killing Me Softly With His Song",
+"Artist": "Roberta Flack",
+"is_Explicit": "No",
+"Lyrics Snippets": "Strumming my pain with his fingers
+Singing my life with his words
+Killing me softly with his song
+Killing me softly with his song",
+"Lyric Snippet Synced": "In all my dark despair
+And then he looked right through me as if I wasn't there
+And he just kept on singing
+Singing clear and strong",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/355098/killing-me-softly-with-his-song?co=GB&referrer=shortcuts&offsetInMilliseconds=156625&timeSkew=0.0021779537&trackLength=289521&startDate=2024-05-08T18:12:46.721Z",
+"Apple Music URL": "https://music.apple.com/gb/album/killing-me-softly-with-his-song/355038498?i=355038523&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Roberta Flack - Killing Me Softly With His Song",
+},
+{
+"TimeStamp": "8 May 2024 at 19:16",
+"Title": "It's Not Unusual",
+"Artist": "Tom Jones",
+"is_Explicit": "No",
+"Lyrics Snippets": "It's not unusual to be loved by anyone
+It's not unusual to have fun with anyone
+But when I see you hanging about with anyone",
+"Lyric Snippet Synced": "It's not unusual to be loved by anyone
+It's not unusual to have fun with anyone
+But when I see you hanging about with anyone",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/20077169/its-not-unusual?co=GB&referrer=shortcuts&offsetInMilliseconds=392&timeSkew=2.3448467E-4&trackLength=119033&startDate=2024-05-08T18:15:48.378Z",
+"Apple Music URL": "https://music.apple.com/gb/album/its-not-unusual/1443811002?i=1443811916&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Tom Jones - It's Not Unusual",
+},
+{
+"TimeStamp": "8 May 2024 at 19:16",
+"Title": "It's Not Unusual",
+"Artist": "Tom Jones",
+"is_Explicit": "No",
+"Lyrics Snippets": "It's not unusual to be loved by anyone
+It's not unusual to have fun with anyone
+But when I see you hanging about with anyone",
+"Lyric Snippet Synced": "It's not unusual to see me cry
+I wanna die
+It's not unusual to go out at any time
+But when I see you out and about it's such a crime",
+"Artwork": "Image",
+"Video URL": "",
+"Shazem URL": "https://www.shazam.com/track/20077169/its-not-unusual?co=GB&referrer=shortcuts&offsetInMilliseconds=27777&timeSkew=0.0013549328&trackLength=118706&startDate=2024-05-08T18:16:15.985Z",
+"Apple Music URL": "https://music.apple.com/gb/album/its-not-unusual/1443811002?i=1443811916&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Tom Jones - It's Not Unusual",
+},
+{
+"TimeStamp": "8 May 2024 at 20:09",
+"Title": "Hungry Eyes",
+"Artist": "Eric Carmen",
+"is_Explicit": "No",
+"Lyrics Snippets": "I've been meaning to tell you
+I've got this feeling that won't subside
+I look at you and I fantasize
+You're mine tonight",
+"Lyric Snippet Synced": "I've got hungry eyes
+I feel the magic between you and I
+I wanna hold you so hear me out
+I wanna show you what love's all about
+Darlin', tonight",
+"Artwork": "Image",
+"Video URL": "https://music.apple.com/gb/music-video/hungry-eyes/581418423",
+"Shazem URL": "https://www.shazam.com/track/55355506/hungry-eyes?co=GB&referrer=shortcuts&offsetInMilliseconds=71586&timeSkew=-0.007560611&trackLength=248235&startDate=2024-05-08T19:09:40.894Z",
+"Apple Music URL": "https://music.apple.com/gb/album/hungry-eyes/304880928?i=304880963&itscg=30201&itsct=Shazam_shortcuts",
+"Name": "Eric Carmen - Hungry Eyes",
+},
