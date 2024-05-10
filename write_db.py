@@ -1,4 +1,6 @@
 import os
+import threading
+import time
 
 import pandas as pd
 WRITE_FRMT = {
@@ -16,7 +18,7 @@ WRITE_FRMT = {
     '.sas7bdat': 'to_sas',
     }
 
-def write(df, db_file, frmt, **kwargs):
+def write(df, fn, frmt, **kwargs):
  
     """
     The write function is a function that writes the dataframe to a file.
@@ -27,12 +29,12 @@ def write(df, db_file, frmt, **kwargs):
     :param **kwargs: Pass a variable number of keyword arguments to a function
     :return: The dataframe that is written to the file
     """
-    args = kwargs if 'args' in kwargs else {'encoding': 'utf-8'}
+    
 
     method = WRITE_FRMT.get(frmt)
     if method:
         write_method = getattr(df, method)
-        write_method(db_file, **args)
+        write_method(fn, **kwargs)
 
 def write_db(df, fn, **kwargs):
 
@@ -44,6 +46,7 @@ def write_db(df, fn, **kwargs):
     :param **kwargs: Pass a dictionary of arguments to the write function
     :return: True if the file is written successfully,
     """
+    args = kwargs if 'args' in kwargs else {'encoding': 'utf-8'}
     if not isinstance(df, pd.DataFrame):
         return False
     if len(df) == 0:
@@ -55,12 +58,21 @@ def write_db(df, fn, **kwargs):
         frmt = '.csv'
         print('Unsupported file extension.')
         print(f'Writing {name}.csv in default format CSV')
+        
+    # Create a new thread for fetch_row function
+    thr_fetch_row = threading.Thread(target=write, args=(df,fn,frmt,), kwargs=args)
 
-    try:
-        write(df, fn, frmt, **kwargs)
-        return True
-    except pd.errors.ParserError:
-        return False
+    # Start the thread for fetch_row function
+    thr_fetch_row.start()
+    while True:
+        try:
+            print('Writting Data!.....')
+            if os.path.exists(fn):
+                print('Success!')
+                return True
+            time.sleep(1)
+        except Exception: # pylint: disable=broad-except
+            return False
 
 # test_df = pd.DataFrame({'A': [1, 2, 3], 'B': [4, 5, 6]})
 # print(write_db(test_df, 'data.csv',encoding='utf-8'))

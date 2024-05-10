@@ -97,6 +97,7 @@ def read(db_file, frmt, **kwargs):
     :param frmt: Specify the format of the file that is being read
     :param **kwargs: Pass a variable number of arguments to the function
     :return: A dataframe
+
     """
     args = kwargs if 'args' in kwargs else {'encoding': 'utf-8'}
     method = READ_FRMT.get(frmt)
