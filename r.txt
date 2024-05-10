@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+<timestamp>
+10 May 2024 at 13:10
+</timestamp>
+
+<title>
+Polaroid Love
+</title>
+
+<artist>
+ENHYPEN
+</artist>
+
+<isexplicit>
+No
+</isexplicit>
+
+<lyricssnippet>
+It's like a Polaroid Love
+사랑 촌스런 그 감정
+근데 내 가슴이 뛰어
+왜 나 이래 나
+왜 사랑에 목매는 건지
+어차피 뻔한 감정이잖아
+분명 다 안다 믿었지
+알고도 빠진 함정인가 봐
+나도 모르게 When you call my name
+</lyricssnippet>
+
+<lyricsnippetsynced>
+어차피 뻔한 감정이잖아
+분명 다 안다 믿었지
+알고도 빠진 함정인가 봐
+나도 모르게 When you call my name
+가슴 아프게 나의 심장이 쿵쿵
+It's like a Polaroid Love
+사랑 촌스런 그 감정
+근데 내 가슴이 뛰어
+왜 나 이래 나
+</lyricsnippetsynced>
+
+<artwork>
+Image
+</artwork>
+
+<videourl>
+
+</videourl>
+
+<shazamurl>
+https://www.shazam.com/track/596219373/polaroid-love?co=GB&referrer=shortcuts&offsetInMilliseconds=20675&timeSkew=0.0020542145&trackLength=184601&startDate=2024-05-10T12:09:58.543Z
+</shazamurl>
+
+<applemusicurl>
+https://music.apple.com/gb/album/polaroid-love/1600819216?i=1600819441&itscg=30201&itsct=Shazam_shortcuts
+</applemusicurl>
+
+<name>
+ENHYPEN - Polaroid Love
+</name>
+
+</root>

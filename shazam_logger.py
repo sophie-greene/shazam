@@ -64,6 +64,7 @@ Usage:
 import os  # The os module is a built-in Python module
 import subprocess  # The subprocess module is a built-in Python module
 import sys  # The sys module is a built-in Python module
+import threading
 import time  # The time module is a built-in Python module
 
 # ###########################################################
@@ -77,6 +78,7 @@ import pandas as pd
 # ###########################################################
 
 SUBSET = ["artist", "title", "name"]
+
 SHAZAM_TEMPLATE = """
 <root>
 
@@ -218,34 +220,39 @@ def get_data(outfile):
             using some sort of threading/queuing
     """
     p = ''
+    artist = ''
+    title = ''
     c_res = {}
     data = []
+    shazams = 0
     cnt = 0
-    try:
-        while True:
-            if cnt > 1e9:
-                break
+
+    while True:
             cnt += 1
             if len(c_res) > 0 and p == f"{c_res['artist']}{c_res['title']}":
                 continue
-            get_row(outfile)
+            status = get_row(outfile)
+            
             if wait_for_file(outfile):
                 c_res = parse_row(outfile)
                 if len(c_res) > 0 and 'title' in c_res:
+                    shazams += 1
                     cnt = 0
+                    title = c_res.get('title', '')
+                    artist = c_res.get('artist', '')
                     print('p=', p)
                     print(c_res['timestamp'], end=' ')
-                    print(f': Playing: {c_res['title']}', end=' ')
-                    print(f"by {c_res['artist']}")
+                    print(f': Playing: {title}', end=' ')
+                    print(f"by {artist}")
                     data.append(c_res)
-                p = f"{c_res['artist']}{c_res['title']}"
+                p = f"{artist}{title}"
                 # print(c_res['name'], p)
             else:
                 time.sleep(10)
                 continue
-            time.sleep(10)
-    except KeyboardInterrupt:
-        print('KeyboardInterrupt')
+            
+    # except KeyboardInterrupt:
+    #     print('KeyboardInterrupt')
     return data
 
 
@@ -268,6 +275,7 @@ def get_row(outfile):
               outfile]
     return subprocess.run(script, None, None, check=False)
 
+
 def parse_row(outfile, encoding='utf-8'):
     """
     The parse_row function parses the XML document using lxml parser.
@@ -279,8 +287,7 @@ def parse_row(outfile, encoding='utf-8'):
     """
     soup = BeautifulSoup(SHAZAM_TEMPLATE, 'xml')
     root = soup.root
-    tags = [tag  for tag in root.children if tag and tag!='root']
-    print()
+    tags = [tag.name  for tag in root.children if tag and tag.name!='root']
     try:
         with open(outfile, encoding=encoding) as f:
             row = f.read()
@@ -318,6 +325,21 @@ def read_db(db_file, encoding='utf-8'):
         return df
 
 
+def run_get_row(outfile):
+    # Create a new thread for get_row function
+    thr_get_row = threading.Thread(target=get_row, args=(outfile,))
+
+    # Start the thread for get_row function
+    thr_get_row.start()
+    while True:
+        print('Shazaming!.....')
+        if os.path.exists(outfile):
+            print('Success!')
+            break
+        time.sleep(1)
+    return 0
+
+
 def write_db(df, db_file, encoding='utf-8'):
     """
     The store_db function takes a dataframe and a file name as input.
@@ -345,17 +367,19 @@ def write_db(df, db_file, encoding='utf-8'):
     return 0
 
 
-def wait_for_file(outfile, limit=1e12):
-
+def wait_for_file(outfile, limit=1e12, lag=1):
     """
     The wait_for_file function waits for a file to be created.
     --------------------------------------------------
     :param outfile: Specify the file that is being waited for
     :param limit: Set a limit on the number of times the while loop will run
+    :param lag: time delay in seconds,
+        after every file check it sleep for `lag` seconds
     :return: True if the file exists, and false if `limit` is reached
     """
     cnt = 0
     while not os.path.exists(outfile):
+        time.sleep(lag)
         if cnt > limit:
             return False
         cnt += 1
@@ -363,7 +387,6 @@ def wait_for_file(outfile, limit=1e12):
 
 
 def main():
-
     """
     The main function is the entry point for this program.
     It calls other functions to do its work, and returns an integer value

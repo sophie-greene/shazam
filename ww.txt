@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+<timestamp>
+10 May 2024 at 13:20
+</timestamp>
+
+<title>
+긴 밤이 오면
+</title>
+
+<artist>
+Eddy Kim
+</artist>
+
+<isexplicit>
+No
+</isexplicit>
+
+<lyricssnippet>
+긴 밤이 오면 또 길을 잃어 니가 없는 난 (난)
+한번도 꾼적 없는 꿈속을 헤매 (헤매)
+날 깨워줄 그대가 없는 곳에
+나 멈춰서 널 기다리고 있어
+I need your love 날 데려가
+I need you now 꼭 안아줘
+다 놓쳐버린 기억들에 혼자 울고 있는 나
+</lyricssnippet>
+
+<lyricsnippetsynced>
+I need your love 니 품안에
+I need you now 꼭 안아줘 (Woo)
+너만이 날 깨울 수 있어 (있어)
+</lyricsnippetsynced>
+
+<artwork>
+Image
+</artwork>
+
+<videourl>
+
+</videourl>
+
+<shazamurl>
+https://www.shazam.com/track/376406798/%EA%B8%B4-%EB%B0%A4%EC%9D%B4-%EC%98%A4%EB%A9%B4?co=GB&referrer=shortcuts&offsetInMilliseconds=197871&timeSkew=5.9723854E-4&trackLength=226991&startDate=2024-05-10T12:20:47.373Z
+</shazamurl>
+
+<applemusicurl>
+https://music.apple.com/gb/album/%EA%B8%B4-%EB%B0%A4%EC%9D%B4-%EC%98%A4%EB%A9%B4/1686860542?i=1686860544&itscg=30201&itsct=Shazam_shortcuts
+</applemusicurl>
+
+<name>
+Eddy Kim - 긴 밤이 오면
+</name>
+
+</root>
