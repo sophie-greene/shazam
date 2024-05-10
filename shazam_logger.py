@@ -38,7 +38,7 @@ Functions:
         on command-line arguments.
     - get_data(outfile): Retrieves data from the Shazam app and stores it
         in a list of dictionaries.
-    - get_row(outfile): Runs the `shazam_step` Apple Shortcut and
+    - shazam_step.fetch_row(outfile): Runs the `shazam_step` Apple Shortcut and
         returns a subprocess.CompletedProcess object.
     - match(sentence, chars): Checks if all characters in `chars`
         are present in `sentence`.
@@ -62,9 +62,8 @@ Usage:
 
 
 import os  # The os module is a built-in Python module
-import subprocess  # The subprocess module is a built-in Python module
+import stat
 import sys  # The sys module is a built-in Python module
-import threading
 import time  # The time module is a built-in Python module
 
 # ###########################################################
@@ -75,6 +74,11 @@ import time  # The time module is a built-in Python module
 # !pip install pandas, bs4, lxml
 from bs4 import BeautifulSoup
 import pandas as pd
+# ###########################################################
+
+# ###########################################################
+# Custome module find in file ./shazam.py
+import shazam_step
 # ###########################################################
 
 SUBSET = ["artist", "title", "name"]
@@ -214,7 +218,7 @@ def get_data(outfile):
         all the dictionaries into a list
     -----------------------------------------------------------------
     :param outfile: Pass the name of the file that will be used to store
-    the xml data retrieved by `get_row(outfile)`
+    the xml data retrieved by `step_shazam.fetch_row(outfile)`
     :return: A list of dictionaries
     TODO: make sure data is stored when KeyboardInterrupt is raised
             using some sort of threading/queuing
@@ -228,52 +232,33 @@ def get_data(outfile):
     cnt = 0
 
     while True:
-            cnt += 1
-            if len(c_res) > 0 and p == f"{c_res['artist']}{c_res['title']}":
-                continue
-            status = get_row(outfile)
-            
-            if wait_for_file(outfile):
-                c_res = parse_row(outfile)
-                if len(c_res) > 0 and 'title' in c_res:
-                    shazams += 1
-                    cnt = 0
-                    title = c_res.get('title', '')
-                    artist = c_res.get('artist', '')
-                    print('p=', p)
-                    print(c_res['timestamp'], end=' ')
-                    print(f': Playing: {title}', end=' ')
-                    print(f"by {artist}")
-                    data.append(c_res)
+        cnt += 1
+        # check if the song has already been shazamed
+        if len(c_res) > 0 and p == f"{c_res['artist']}{c_res['title']}":
+            time.sleep(20)
+            continue
+        # check tha the data was not fetched
+        status = shazam_step.fetch_row(outfile)
+        if not status:
+            time.sleep(5)
+            continue
+        if os.path.exists(outfile):
+            c_res = parse_row(outfile)
+            if len(c_res) > 0 and 'title' in c_res:
+                shazams += 1
+                cnt = 0
+                title = c_res.get('title', '')
+                artist = c_res.get('artist', '')
+                print('p=', p)
+                print(c_res['timestamp'], end=' ')
+                print(f': Playing: {title}', end=' ')
+                print(f"by {artist}")
+                data.append(c_res)
                 p = f"{artist}{title}"
                 # print(c_res['name'], p)
             else:
-                time.sleep(10)
                 continue
-            
-    # except KeyboardInterrupt:
-    #     print('KeyboardInterrupt')
     return data
-
-
-def get_row(outfile):
-
-    """
-    The get_row function runs the shazam_step shortcut
-        and returns a subprocess.CompletedProcess object.
-        the returned value could be None or something else
-        please refer to documentation
-        [subprocess](https://docs.python.org/3/library/subprocess.html)
-    ------------------------------------------------
-    :param outfile: Specify the path for the output file
-    :return: A completedprocess object
-    """
-    script = ["shortcuts",
-              "run",
-              "shazam_step",
-              "--output-path",
-              outfile]
-    return subprocess.run(script, None, None, check=False)
 
 
 def parse_row(outfile, encoding='utf-8'):
@@ -323,21 +308,6 @@ def read_db(db_file, encoding='utf-8'):
         read_method = getattr(pd, method)
         df = read_method(db_file, encoding=encoding)
         return df
-
-
-def run_get_row(outfile):
-    # Create a new thread for get_row function
-    thr_get_row = threading.Thread(target=get_row, args=(outfile,))
-
-    # Start the thread for get_row function
-    thr_get_row.start()
-    while True:
-        print('Shazaming!.....')
-        if os.path.exists(outfile):
-            print('Success!')
-            break
-        time.sleep(1)
-    return 0
 
 
 def write_db(df, db_file, encoding='utf-8'):
@@ -402,12 +372,14 @@ def main():
     :return: 0 if it runs without errors 1 otherwise
     """
     db_file, outfile = assign_file_names()
-
-    data = get_data(outfile)
+    try:
+        data = get_data(outfile)
+    except KeyboardInterrupt:
+        print('Interrupted while getting data')
     try:
         append_db(data, db_file)
     except KeyboardInterrupt:
-        print('KeyboardInterrupt')
+        print('Interrupted while storing data')
         return 1
     return 0
 

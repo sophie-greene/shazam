@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+<timestamp>
+10 May 2024 at 15:14
+</timestamp>
+
+<title>
+Something In the Rain (Something In the Rain, Pt. 1 (Music from the Original TV Series))
+</title>
+
+<artist>
+Rachael Yamagata
+</artist>
+
+<isexplicit>
+No
+</isexplicit>
+
+<lyricssnippet>
+I feel you now from here
+Our time is not done yet
+You’ve given me my fullest heart
+We’ll never be apart
+I’m breathing through you now
+</lyricssnippet>
+
+<lyricsnippetsynced>
+I’ve never been so exposed
+Are there pieces still yet to be
+Discovered with your love?
+I can see anything through wherever you are
+I can feel you
+</lyricsnippetsynced>
+
+<artwork>
+Image
+</artwork>
+
+<videourl>
+
+</videourl>
+
+<shazamurl>
+https://www.shazam.com/track/414805857/%EB%B0%A5-%EC%9E%98-%EC%82%AC%EC%A3%BC%EB%8A%94-%EC%98%88%EC%81%9C-%EB%88%84%EB%82%98-pt-1-music-from-the-original-tv-series?co=GB&referrer=shortcuts&offsetInMilliseconds=181609&timeSkew=-2.1648407E-4&trackLength=299453&startDate=2024-05-10T14:14:07.125Z
+</shazamurl>
+
+<applemusicurl>
+https://music.apple.com/gb/album/something-in-the-rain-something-in-the-rain-pt-1/1458350926?i=1458350930&itscg=30201&itsct=Shazam_shortcuts
+</applemusicurl>
+
+<name>
+Rachael Yamagata - Something In the Rain (Something In the Rain, Pt. 1 (Music from the Original TV Series))
+</name>
+
+</root>
