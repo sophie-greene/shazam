@@ -79,20 +79,7 @@ SUBSET = ["artist", "title", "name"]
 
 
 
-WRITE_EXT = {
-    '.csv': 'to_csv',
-    '.xls': 'to_excel',
-    '.xlsx': 'to_excel',
-    '.json': 'to_json',
-    '.html': 'to_html',
-    '.sql': 'to_sql',
-    '.parquet': 'to_parquet',
-    '.feather': 'to_feather',
-    '.h5': 'to_hdf',
-    '.hdf': 'to_hdf',
-    '.dta': 'to_stata',
-    '.sas7bdat': 'to_sas',
-    }
+
 
 READ_EXT = {
     '.csv': 'read_csv',
@@ -188,31 +175,6 @@ def get_data(outfile):
     return data
 
 
-def write_db(df, db_file, encoding='utf-8'):
-    """
-    The store_db function takes a dataframe and a file name as input.
-    It then checks if the extension of the file is in write_ext,
-    which is a dictionary of valid extensions for storing dataframes.
-    If it is, it calls the appropriate method on df to store itself.
-    otherwise it stores `df` in csv file
-    ---------------------------------------------
-    :param df: Pass in the dataframe to be stored
-    :param db_file: Store the file name and extension of the database
-    :return: 0 for success, 1 otherwise
-    """
-    if not isinstance(df, pd.DataFrame):
-        return 1
-    name, ext = os.path.splitext(db_file)
-    method = WRITE_EXT.get(ext)
-    if method:
-        write_method = getattr(df, method)
-        write_method(db_file, encoding=encoding)
-    else:
-        print('Unsupported file extension.')
-        print('Writing file in default format CSV')
-        df.to_csv(db_file, encoding='utf-8')
-        print(f'Done writing file {name}.csv')
-    return 0
 
 
 def wait_for_file(outfile, limit=1e12, lag=1):
