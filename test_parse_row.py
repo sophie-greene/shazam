@@ -1,7 +1,8 @@
 """
 Test module for the 'parse_row' module.
 
-This module contains unit tests for the functions in the 'parse_row' module. It ensures that the 'parse_row' function behaves as expected under various conditions.
+This module contains unit tests for the functions in the 'parse_row'
+    module. It ensures that the 'parse_row' function behaves as expected under various conditions.
 
 Classes:
     - TestParseRow: A TestCase class containing unit tests for the 'parse_row' function.
@@ -22,7 +23,6 @@ Dependencies:
 
 import unittest
 import os
-from bs4 import BeautifulSoup
 from parse_row import parse_row, SHAZAM_TEMPLATE
 
 
@@ -34,7 +34,8 @@ class TestParseRow(unittest.TestCase):
 
     Methods:
         - setUp: Method called before each test case to set up any dependencies or fixtures.
-        - tearDown: Method called after each test case to clean up any resources used during testing.
+        - tearDown: Method called after each test case to clean up any resources
+            used during testing.
         - test_parse_row: Tests the 'parse_row' function with a sample XML file.
     """
 
@@ -62,9 +63,11 @@ class TestParseRow(unittest.TestCase):
         """
         Test the parse_row function with a sample XML file.
 
-        This method tests the behavior of the parse_row function with a sample XML file.
-        It ensures that the function correctly parses the XML data according to the provided template
-        and returns the expected dictionary output.
+        This method tests the behavior of the parse_row function
+            with a sample XML file.
+        It ensures that the function correctly parses the XML
+            data according to the provided template and returns
+            the expected dictionary output.
         """
         # Prepare test data
         expected_output = {
@@ -91,8 +94,10 @@ class TestParseRow(unittest.TestCase):
         """
         Test the parse_row function with a non-existing file.
 
-        This method tests the behavior of the parse_row function when the specified file does not exist.
-        It ensures that the function returns None when attempting to parse a non-existent file.
+        This method tests the behavior of the parse_row
+        function when the specified file does not exist.
+        It ensures that the function returns None when
+        attempting to parse a non-existent file.
         """
         # Call the parse_row function with a non-existing file
         result = parse_row('non_existent.xml')
@@ -102,3 +107,4 @@ class TestParseRow(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+   
