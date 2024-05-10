@@ -1,93 +1,71 @@
-"""
-The 'shazam_step' module provides utility functions for running the Shazam process asynchronously.
-
-Functions:
-- get_row(outfile): 
-  This function runs the 'shazam_step' shortcut using subprocess
-    and returns a subprocess.CompletedProcess object.
-  
-  Parameters:
-  - outfile (str): Specify the path for the output file.
-  
-  Returns:
-  - A subprocess.CompletedProcess object representing
-        the execution status of the 'shazam_step' process.
-
-- run_get_row(outfile):
-  This function creates a new thread to run the
-    'get_row' function asynchronously and continuously checks for
-    the existence of the output file until
-    the Shazam process completes.
-  
-  Parameters:
-  - outfile (str): Specify the path for the output file.
-  
-  Returns:
-  - 0 if the Shazam process completes successfully.
-  - 1 otherwise
-
-Usage:
-1. Import the module: `import shazam_step`
-2. Call the `run_get_row(outfile)` function with 
-    the desired output file path to run 
-    the Shazam process asynchronously
-    and wait for its completion.
-
-Example:
-```python
-import shazam_step
-
-# Run the Shazam process asynchronously 
-# and wait for its completion
-shazam_step.run_get_row('output.csv')
-"""
-
+import unittest
 import os
-import threading
-import subprocess
-import time
+import pandas as pd
+from unittest.mock import patch
+from read_db import detect_file_type, read_frmt
 
 
-def get_row(outfile):
+class TestParseRow(unittest.TestCase):
     """
-    The get_row function runs the shazam_step shortcut
-    and returns a subprocess.CompletedProcess object.
-    Please refer to the documentation for subprocess.
-
-    :param outfile: Specify the path for the output file
-    :return: A CompletedProcess object
+    Test suite for the 'parse_row' module.
     """
-    script = ["shortcuts",
-              "run",
-              "shazam_step",
-              "--output-path",
-              outfile]
-    return subprocess.run(script, capture_output=True, text=True, check=False)
+
+    def test_detect_file_type_existing_csv(self):
+        """
+        Test the detect_file_type function with an existing CSV file.
+        """
+        # Create a temporary CSV file
+        test_csv_path = 'test.csv'
+        with open(test_csv_path, 'w') as f:
+            f.write('Test data\n')
+
+        # Call the detect_file_type function
+        detected_type = detect_file_type(test_csv_path)
+
+        # Assert that the detected type matches the expected type
+        self.assertEqual(detected_type, 'text/plain')
+
+        # Remove the temporary CSV file
+        os.remove(test_csv_path)
+
+    def test_detect_file_type_nonexisting(self):
+        """
+        Test the detect_file_type function with a non-existing file.
+        """
+        # Call the detect_file_type function with a non-existing file
+        detected_type = detect_file_type('non_existing.csv')
+
+        # Assert that an empty string is returned
+        self.assertEqual(detected_type, '')
+
+    def test_read_frmt_csv(self):
+        """
+        Test the read_frmt function with a CSV file.
+        """
+        # Create a temporary CSV file with test data
+        test_df = pd.DataFrame({'A': [1, 2, 3], 'B': [4, 5, 6]})
+        test_file = 'test.csv'
+        test_df.to_csv(test_file, index=False)
+
+        # Test reading from CSV
+        df_from_csv = read_frmt(test_file)
+
+        # Assert that the DataFrame matches the expected DataFrame
+        self.assertTrue(df_from_csv.equals(test_df))
+
+        # Clean up temporary test file
+        os.remove(test_file)
+
+    def test_read_frmt_nonexisting(self):
+        """
+        Test the read_frmt function with a non-existing file.
+        """
+        # Test reading from a non-existing file
+        df = read_frmt('non_existing.csv')
+
+        # Assert that None is returned
+        self.assertIsNone(df)
 
 
-def run_get_row(outfile):
-    """
-    This function creates a new thread for the get_row function
-    and continuously checks for the existence of 
-    the output file until the shazam process completes.
-
-    :param outfile: Specify the path for the output file.
-    :return: 0 if the shazam process completes successfully.
-             1 otherwise
-    """
-    # Create a new thread for get_row function
-    thr_get_row = threading.Thread(target=get_row, args=(outfile,))
-
-    # Start the thread for get_row function
-    thr_get_row.start()
-
-    # Continuous check for the existence of the output file
-    while True:
-        try:
-            print('Shazaming!.....')
-            if os.path.exists(outfile):
-                print('Success!')
-                return 0
-            time.sleep(1)
-        except Exception: # pylint: disable=broad-except
-            return 1
+if __name__ == '__main__':
+    unittest.main()

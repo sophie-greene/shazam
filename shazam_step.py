@@ -53,9 +53,10 @@ def fetch_row(outfile):
     The fetch_row function runs the shazam_step shortcut
     and returns a subprocess.CompletedProcess object.
     Please refer to the documentation for subprocess.
-
+    ---------------------------------------------------------------
     :param outfile: Specify the path for the output file
     :return: A CompletedProcess object
+    https://support.apple.com/en-gb/guide/shortcuts-mac/welcome/mac
     """
     script = ["shortcuts",
               "run",

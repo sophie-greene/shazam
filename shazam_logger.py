@@ -62,7 +62,6 @@ Usage:
 
 
 import os  # The os module is a built-in Python module
-import stat
 import sys  # The sys module is a built-in Python module
 import time  # The time module is a built-in Python module
 
@@ -83,55 +82,7 @@ import shazam_step
 
 SUBSET = ["artist", "title", "name"]
 
-SHAZAM_TEMPLATE = """
-<root>
 
-<timestamp>
-Date
-</timestamp>
-
-<title>
-Shazam Media (Title)
-</title>
-
-<artist>
-Shazam Media (Artist)
-</artist>
-
-<isexplicit>
-Shazam Media (Is Explicit)
-</isexplicit>
-
-<lyricssnippet>
-Shazam Media (Lyrics Snippet)
-</lyricssnippet>
-
-<lyricsnippetsynced>
-Shazam Media (Lyric Snippet Synced)
-</lyricsnippetsynced>
-
-<artwork>
-Shazam Media (Artwork)
-</artwork>
-
-<videourl>
-Shazam Media (Video URL)
-</videourl>
-
-<shazamurl>
-Shazam Media (Shazam URL)
-</shazamurl>
-
-<applemusicurl>
-Shazam Media (Apple Music URL)
-</applemusicurl>
-
-<name>
-Shazam Media (Name)
-</name>
-
-</root>
-"""
 
 WRITE_EXT = {
     '.csv': 'to_csv',
@@ -259,55 +210,6 @@ def get_data(outfile):
             else:
                 continue
     return data
-
-
-def parse_row(outfile, encoding='utf-8'):
-    """
-    The parse_row function parses the XML document using lxml parser.
-    it uses the `SHAZAM_TEMPLATE` string as map to read the xml data
-    ---------------------------------------------------------
-    :param outfile: Specify the path to the xml file that will be parsed
-    :return: A dictionary with keys as the tag names
-        and values as the text content of those tags
-    """
-    soup = BeautifulSoup(SHAZAM_TEMPLATE, 'xml')
-    root = soup.root
-    tags = [tag.name  for tag in root.children if tag and tag.name!='root']
-    try:
-        with open(outfile, encoding=encoding) as f:
-            row = f.read()
-    except FileNotFoundError:
-        return FileNotFoundError
-    # print(row)
-    soup = BeautifulSoup(row.replace('\n', ''), 'xml')
-    root = soup.select_one('root')
-    if root:
-        dct = {}
-        for tag in tags:
-            if not tag:
-                continue
-            tag_content = root.find(tag)
-            if tag_content:
-                dct[tag] = tag_content.text
-    return dct
-
-
-def read_db(db_file, encoding='utf-8'):
-    """
-    The read_db function reads a database file and returns a pandas dataframe.
-    -------------------------------------------
-    :param db_file: Specify the file to be read
-    :param encoding: Specify the encoding of the file
-    :return: A pandas dataframe with the contents of the file
-    """
-    print(db_file)
-    name, ext = os.path.splitext(db_file)
-    name = name.split('/')[-1]
-    method = READ_EXT.get(ext)
-    if method:
-        read_method = getattr(pd, method)
-        df = read_method(db_file, encoding=encoding)
-        return df
 
 
 def write_db(df, db_file, encoding='utf-8'):

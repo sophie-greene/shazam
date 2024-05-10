@@ -1,88 +1,84 @@
+from bs4 import BeautifulSoup
+
+
+SHAZAM_TEMPLATE = """
+<root>
+
+<timestamp>
+Date
+</timestamp>
+
+<title>
+Shazam Media (Title)
+</title>
+
+<artist>
+Shazam Media (Artist)
+</artist>
+
+<isexplicit>
+Shazam Media (Is Explicit)
+</isexplicit>
+
+<lyricssnippet>
+Shazam Media (Lyrics Snippet)
+</lyricssnippet>
+
+<lyricsnippetsynced>
+Shazam Media (Lyric Snippet Synced)
+</lyricsnippetsynced>
+
+<artwork>
+Shazam Media (Artwork)
+</artwork>
+
+<videourl>
+Shazam Media (Video URL)
+</videourl>
+
+<shazamurl>
+Shazam Media (Shazam URL)
+</shazamurl>
+
+<applemusicurl>
+Shazam Media (Apple Music URL)
+</applemusicurl>
+
+<name>
+Shazam Media (Name)
+</name>
+
+</root>
 """
-The 'shazam_step' module provides utility functions for running the Shazam process asynchronously.
+def parse_row(outfile, encoding='utf-8'):
+    """
+    The parse_row function parses the XML document using lxml parser.
+    it uses the `SHAZAM_TEMPLATE` string as map to read the xml data
+    ---------------------------------------------------------
+    :param outfile: Specify the path to the xml file that will be parsed
+    :return: A dictionary with keys as the tag names
+        and values as the text content of those tags
+    """
+    soup = BeautifulSoup(SHAZAM_TEMPLATE, 'xml')
+    root = soup.root
+    tags = [tag.name  for tag in root.children if tag and tag.name!='root']
+    try:
+        with open(outfile, encoding=encoding) as f:
+            row = f.read()
+    except FileNotFoundError:
+        return None
+    # print(row)
+    soup = BeautifulSoup(row.replace('\n', ''), 'xml')
+    root = soup.select_one('root')
+    if root:
+        dct = {}
+        for tag in tags:
+            if not tag:
+                continue
+            tag_content = root.find(tag)
+            if tag_content:
+                dct[tag] = tag_content.text
+    if len(dct) != 0:
+        return dct
 
-Functions:
-- fetch_row(outfile):
-  This function runs the 'shazam_step' shortcut using subprocess
-    and returns a subprocess.CompletedProcess object.
-
-  Parameters:
-  - outfile (str): Specify the path for the output file.
-
-  Returns:
-  - A subprocess.CompletedProcess object representing
-        the execution status of the 'shazam_step' process.
-
-- run_fetch_row(outfile):
-  This function creates a new thread to run the
-    'fetch_row' function asynchronously and continuously checks for
-    the existence of the output file until
-    the Shazam process completes.
-
-  Parameters:
-  - outfile (str): Specify the path for the output file.
-
-  Returns:
-  - True if the Shazam process completes successfully.
-  - False otherwise
-
-Usage:
-1. Import the module: `import shazam_step`
-2. Call the `run_fetch_row(outfile)` function with
-    the desired output file path to run
-    the Shazam process asynchronously
-    and wait for its completion.
-"""
-import os
-import pandas as pd
-
-
-class ShazamDataFrame(pd.DataFrame):
-    WRITE_EXT = {
-    '.csv': 'to_csv',
-    '.xls': 'to_excel',
-    '.xlsx': 'to_excel',
-    '.json': 'to_json',
-    '.html': 'to_html',
-    '.sql': 'to_sql',
-    '.parquet': 'to_parquet',
-    '.feather': 'to_feather',
-    '.h5': 'to_hdf',
-    '.hdf': 'to_hdf',
-    '.dta': 'to_stata',
-    '.sas7bdat': 'to_sas',
-    }
-
-    READ_EXT = {
-    '.csv': 'read_csv',
-    '.xls': 'read_excel',
-    '.xlsx': 'read_excel',
-    '.json': 'read_json',
-    '.html': 'read_html',
-    '.sql': 'read_sql',
-    '.parquet': 'read_parquet',
-    '.feather': 'read_feather',
-    '.h5': 'read_hdf',
-    '.hdf': 'read_hdf',
-    '.dta': 'read_stata',
-    '.sas7bdat': 'read_sas',
-}
-    
-    def read(self, db_file, encoding='utf-8'):
-      """
-      The read function reads a database file and returns a pandas dataframe.
-      -------------------------------------------
-      :param db_file: Specify the file to be read
-      :param encoding: Specify the encoding of the file
-      :return: A pandas dataframe with the contents of the file
-      """
-      print(db_file)
-      name, ext = os.path.splitext(db_file)
-      name = name.split('/')[-1]
-      method = ShazamDataFrame.READ_EXT.get(ext)
-      if method:
-          read_method = getattr(pd, method)
-          df = read_method(db_file, encoding=encoding)
-          return df
-      else:
-         raise self.errors.
+print(parse_row('r.txt'))
