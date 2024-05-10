@@ -2,15 +2,15 @@
 <root>
 
 <timestamp>
-9 May 2024 at 18:57
+9 May 2024 at 19:56
 </timestamp>
 
 <title>
-Aloha
+Yours
 </title>
 
 <artist>
-Cho Jung-seok
+JIN
 </artist>
 
 <isexplicit>
@@ -18,25 +18,22 @@ No
 </isexplicit>
 
 <lyricssnippet>
-어두운 불빛 아래 촛불 하나
-와인 잔에 담긴 약속 하나
-항상 너의 곁에서 널 지켜 줄 거야
-날 믿어 준 너였잖아
-나 바라는 건 오직 하나
-영원한 행복을 꿈꾸지만
-화려하지 않아도 꿈같진 않아도
-너만 있어 주면 돼
-걱정 마 (I believe)
+깊어진 하루 길어진 내 그림자
+저 멀리 해는 저물고 있어
+짙어 가는 어둠 속에서 헤메이고 있나 봐
+이곳에 갇혀버린 걸까
+아직도 숨 쉬는 곳
+그곳에 다가가야 해
+Every day you seem too far away
 </lyricssnippet>
 
 <lyricsnippetsynced>
-'Cause your love is so sweet
-You are my everything
-첫날밤의 단꿈에 젖어
-하는 말이 아냐 난 변하지 않아
-오직 너만 바라볼 거야 Oh
-You're light of my life
-You are the one in my life
+시간이 멈춰버린 곳
+이젠 다 되돌려야 해
+Every day you seem too far away
+Every time you do, I tell myself
+이곳에서 기다리고 있어
+Every night I see you in my heart
 </lyricsnippetsynced>
 
 <artwork>
@@ -48,15 +45,15 @@ Image
 </videourl>
 
 <shazamurl>
-https://www.shazam.com/track/511213452/aloha?co=GB&referrer=shortcuts&offsetInMilliseconds=169884&timeSkew=0.0010513067&trackLength=244999&startDate=2024-05-09T17:57:05.276Z
+https://www.shazam.com/track/590865488/yours?co=GB&referrer=shortcuts&offsetInMilliseconds=130844&timeSkew=7.092953E-4&trackLength=264840&startDate=2024-05-09T18:56:11.498Z
 </shazamurl>
 
 <applemusicurl>
-https://music.apple.com/gb/album/aloha/1570389407?i=1570389411&itscg=30201&itsct=Shazam_shortcuts
+https://music.apple.com/gb/album/yours/1698507484?i=1698507486&itscg=30201&itsct=Shazam_shortcuts
 </applemusicurl>
 
 <name>
-Cho Jung-seok - Aloha
+JIN - Yours
 </name>
 
 </root>

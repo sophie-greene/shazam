@@ -180,7 +180,6 @@ def append_db(lst_of_dct, db_file):
 
 
 def assign_file_names():
-
     """
     The assign_file_names function takes in the command line arguments
     and assigns them to variables.
@@ -191,6 +190,7 @@ def assign_file_names():
     """
     if len(sys.argv) == 2:
         db_file = sys.argv[1].strip()
+        outfile = None  # Assign a default value
     elif len(sys.argv) == 3:
         db_file = sys.argv[1].strip()
         outfile = sys.argv[2].strip()
@@ -328,8 +328,10 @@ def write_db(df, db_file, encoding='utf-8'):
     ---------------------------------------------
     :param df: Pass in the dataframe to be stored
     :param db_file: Store the file name and extension of the database
-    :return: Nothing
+    :return: 0 for success, 1 otherwise
     """
+    if not isinstance(df, pd.DataFrame):
+        return 1
     name, ext = os.path.splitext(db_file)
     method = WRITE_EXT.get(ext)
     if method:
@@ -340,6 +342,7 @@ def write_db(df, db_file, encoding='utf-8'):
         print('Writing file in default format CSV')
         df.to_csv(db_file, encoding='utf-8')
         print(f'Done writing file {name}.csv')
+    return 0
 
 
 def wait_for_file(outfile, limit=1e12):
