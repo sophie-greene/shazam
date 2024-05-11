@@ -40,10 +40,14 @@ https://man7.org/linux/man-pages/man1/file.1.html
 
 import os
 import re
-
+import signal
+import sys
+import threading
 import pandas as pd
 
 import util
+
+
 
 READ_FRMT = {
     '.csv': 'read_csv',
@@ -60,11 +64,84 @@ READ_FRMT = {
     '.sas7bdat': 'read_sas',
 }
 
+class ShazamIO:
+    def __init__(self, fn):
+        self.fn = fn
+        self.file_lock = threading.Lock()
+        signal.signal(signal.SIGINT, self.signal_handler)
+    def read(db_file, frmt, **kwargs):
+        """
+        The _read function reads in a file and returns a pandas dataframe.
+        
+        :param db_file: Specify the file that is being read
+        :param frmt: Specify the format of the file that is being read
+        :param **kwargs: Pass a variable number of arguments to the function
+        :return: A dataframe
+        """
+        args = kwargs if 'args' in kwargs else {'encoding': 'utf-8'}
+        method = READ_FRMT.get(frmt)
+        if method:
+            read_method = getattr(pd, method)
+            df = read_method(db_file, **args)
+            return df
+    def signal_handler(self, sig, frame):
+        print("Interrupt received. Exiting gracefully.")
+        sys.exit(0)
+
+    def read_file(self):
+        try:
+            with open(self.fn, "r") as file:
+                self.file_lock.acquire()
+                data = file.read()
+                self.file_lock.release()
+                print("Read data:", data)
+        except Exception as e:
+            print("Error reading file:", e)
+
+    def start(self):
+        if not os.path.exists(self.fn):
+            return None
+        #   print(db_file)
+        _, ext = os.path.splitext(self.fn)
+
+        rgx = '|'.join(map(lambda c: c.strip('.'), READ_FRMT.keys()))
+        rgx = rf'({rgx})'
+        ft = util.detect_file_type(self.fn)
+        ft = re.findall(rgx, ft)
+        if len(ft) > 0:
+            frmt = f'.{ft[0]}'
+        else:
+            frmt = ext
+        self.frmt = frmt
+        self.read(frmt, **kwargs)
+        self.file_lock.release()
+        read_thread = threading.Thread(target=self.read)
+        write_thread = threading.Thread(target=self.write_file, args=("New data",))
+
+        read_thread.start()
+        write_thread.start()
+
+        # Wait for the read thread to finish and capture the returned data
+        read_thread.join()
+        data = read_thread.result
+
+        # Continue with data processing or other operations
+        if data is not None:
+            print("Data read from file:", data)
+        else:
+            print("Error reading file.")
+        
+        write_thread.join()
+
+        print("Program execution completed.")
 
 
+if __name__ == "__main__":
+    file_handler = ShazamIO("data.txt")
+    file_handler.start()
 
 
-def read_db(db_file, **kwargs):
+def read_db(self, db_file, **kwargs):
 
     """
     The read_db function reads a database file and returns the data in a pandas DataFrame.
@@ -86,23 +163,9 @@ def read_db(db_file, **kwargs):
         frmt = f'.{ft[0]}'
     else:
         frmt = ext
-    return read(db_file, frmt, **kwargs)
+    self.file_lock.acquire()
+    read(db_file, frmt, **kwargs)
+    self.file_lock.release()
 
 
-def read(db_file, frmt, **kwargs):
-    """
-    The _read function reads in a file and returns a pandas dataframe.
-    
-    :param db_file: Specify the file that is being read
-    :param frmt: Specify the format of the file that is being read
-    :param **kwargs: Pass a variable number of arguments to the function
-    :return: A dataframe
-
-    """
-    args = kwargs if 'args' in kwargs else {'encoding': 'utf-8'}
-    method = READ_FRMT.get(frmt)
-    if method:
-        read_method = getattr(pd, method)
-        df = read_method(db_file, **args)
-        return df
 # print(read_db('file.json'))

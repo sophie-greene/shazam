@@ -24,3 +24,16 @@ def append_db(lst_of_dct, db_file):
     else:
         write_db(ndf, db_file)
     return 0
+
+def append(df):
+    """
+    The append_db function appends a list of dictionaries to
+        an existing database file.
+    ------------------------------------------------------------
+    :param lst_of_dct: Pass in a list of dictionaries to the function
+    :param db_file: Specify the file to be written to
+    :return: 0
+    """
+    write_db(df, db_file)
+  
+    return 0
