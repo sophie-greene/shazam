@@ -1,10 +1,11 @@
 import os
+import re
 import threading
 import time
 
 import pandas as pd
 
-from read_db import read_db
+from read_db import ReadDB
 import util
 SUBSET = ["artist", "title", "name"]
 WRITE_FRMT = {

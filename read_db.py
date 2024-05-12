@@ -43,11 +43,10 @@ import re
 import signal
 import sys
 import threading
+
 import pandas as pd
 
 import util
-
-
 
 READ_FRMT = {
     '.csv': 'read_csv',
@@ -64,44 +63,19 @@ READ_FRMT = {
     '.sas7bdat': 'read_sas',
 }
 
-class ShazamIO:
-    def __init__(self, fn):
-        self.fn = fn
+class ReadDb():
+    def __init__(self, fn, **akwargs):
         self.file_lock = threading.Lock()
         signal.signal(signal.SIGINT, self.signal_handler)
-    def read(db_file, frmt, **kwargs):
-        """
-        The _read function reads in a file and returns a pandas dataframe.
-        
-        :param db_file: Specify the file that is being read
-        :param frmt: Specify the format of the file that is being read
-        :param **kwargs: Pass a variable number of arguments to the function
-        :return: A dataframe
-        """
-        args = kwargs if 'args' in kwargs else {'encoding': 'utf-8'}
-        method = READ_FRMT.get(frmt)
-        if method:
-            read_method = getattr(pd, method)
-            df = read_method(db_file, **args)
-            return df
+        self.fn = fn
+        self.akwargs = akwargs
     def signal_handler(self, sig, frame):
         print("Interrupt received. Exiting gracefully.")
         sys.exit(0)
-
-    def read_file(self):
-        try:
-            with open(self.fn, "r") as file:
-                self.file_lock.acquire()
-                data = file.read()
-                self.file_lock.release()
-                print("Read data:", data)
-        except Exception as e:
-            print("Error reading file:", e)
-
-    def start(self):
+    
+    def read_db(self):
         if not os.path.exists(self.fn):
             return None
-        #   print(db_file)
         _, ext = os.path.splitext(self.fn)
 
         rgx = '|'.join(map(lambda c: c.strip('.'), READ_FRMT.keys()))
@@ -112,60 +86,23 @@ class ShazamIO:
             frmt = f'.{ft[0]}'
         else:
             frmt = ext
-        self.frmt = frmt
-        self.read(frmt, **kwargs)
-        self.file_lock.release()
-        read_thread = threading.Thread(target=self.read)
-        write_thread = threading.Thread(target=self.write_file, args=("New data",))
+        return self.read(frmt)
 
-        read_thread.start()
-        write_thread.start()
 
-        # Wait for the read thread to finish and capture the returned data
-        read_thread.join()
-        data = read_thread.result
-
-        # Continue with data processing or other operations
-        if data is not None:
-            print("Data read from file:", data)
-        else:
-            print("Error reading file.")
-        
-        write_thread.join()
-
-        print("Program execution completed.")
-
+    def read(self, frmt):
+        args = self.akwargs if 'args' in self.akwargs else {'encoding': 'utf-8'}
+        method = READ_FRMT.get(frmt)
+        if method:
+            read_method = getattr(pd, method)
+            self.file_lock.acquire()
+            df = read_method(self.fn, **args)
+            self.file_lock.release()
+            return df
 
 if __name__ == "__main__":
-    file_handler = ShazamIO("data.txt")
-    file_handler.start()
-
-
-def read_db(self, db_file, **kwargs):
-
-    """
-    The read_db function reads a database file and returns the data in a pandas DataFrame.
-    
-    :param db_file: Specify the path to the database file
-    :param **kwargs: Pass a variable number of keyword arguments to the function
-    :return: A dataframe
-    """
-    if not os.path.exists(db_file):
-        return None
-    #   print(db_file)
-    _, ext = os.path.splitext(db_file)
-
-    rgx = '|'.join(map(lambda c: c.strip('.'), READ_FRMT.keys()))
-    rgx = rf'({rgx})'
-    ft = util.detect_file_type(db_file)
-    ft = re.findall(rgx, ft)
-    if len(ft) > 0:
-        frmt = f'.{ft[0]}'
+    if len(sys.argv) == 2:
+        print(ReadDb(sys.argv[1]).read_db())
     else:
-        frmt = ext
-    self.file_lock.acquire()
-    read(db_file, frmt, **kwargs)
-    self.file_lock.release()
-
-
-# print(read_db('file.json'))
+        print('command line use is read_db')
+        print('Enter data file name:')
+        print(f'Usage: python {os.path.basename(sys.argv[0])} db_file')

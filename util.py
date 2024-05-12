@@ -1,6 +1,22 @@
 import os
 import subprocess
 
+SUBSET = ["artist", "title", "name"]
+WRITE_FRMT = {
+    '.csv': 'to_csv',
+    '.xls': 'to_excel',
+    '.xlsx': 'to_excel',
+    '.json': 'to_json',
+    '.html': 'to_html',
+    '.sql': 'to_sql',
+    '.parquet': 'to_parquet',
+    '.feather': 'to_feather',
+    '.h5': 'to_hdf',
+    '.hdf': 'to_hdf',
+    '.dta': 'to_stata',
+    '.sas7bdat': 'to_sas',
+}
+
 
 def detect_file_type(fn):
     """
