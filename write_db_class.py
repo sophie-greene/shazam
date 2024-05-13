@@ -42,7 +42,7 @@ class Write2Db(Constant):
         pd.DataFrame
         @param fn: the file containing the original db
         """
-
+        self.pool = ThreadPool(processes=1)
         self.fn = fn
         self.fail = False
         self.file_lock = threading.Lock()
@@ -78,7 +78,7 @@ class Write2Db(Constant):
             self.file_lock.release()
             return True
 
-    def write_db(self):
+    def run(self):
 
         orig_df = ReadDb(self.fn, **self.akwargs).read_db()
 
@@ -105,8 +105,8 @@ class Write2Db(Constant):
             frmt = '.csv'
             print('Unsupported file extension.')
             print(f'Writing {name}.csv in default format CSV')
-        pool = ThreadPool(processes=1)
-        async_result = pool.apply_async(self.write, (frmt,))
+
+        async_result = self.pool.apply_async(self.write, (frmt,))
         status = async_result.get()
         return status
 
@@ -137,7 +137,7 @@ if __name__ == "__main__":
 
     print('testing .....')
     print(Write2Db(data,
-                   'tmp.json', encoding='utf-8').write_db())
+                   'tmp.json', encoding='utf-8').run())
     data = [{'timestamp': '10 May 2024 at 15:51',
              'title': 'You e F(Radio Edit)',
              'artist': 'Vasscon',
@@ -161,4 +161,4 @@ if __name__ == "__main__":
              'applemusicurl': '',
              'name': 'Vas - You e(Rdio Edit)'}]
     print(Write2Db(data,
-                   'tmp.json', encoding='utf-8').write_db())
+                   'tmp.json', encoding='utf-8').run())
